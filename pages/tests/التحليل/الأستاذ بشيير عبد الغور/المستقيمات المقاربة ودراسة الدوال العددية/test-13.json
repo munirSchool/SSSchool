@@ -1,0 +1,202 @@
+[
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>ليكن C الخط البياني للدالة <i>f</i> المعرفة</span></div><div class='long-2'><span class='text'>على <span dir='ltr'>]-&infin; , +&infin;[</span></span> وفق : </div><div class='long-3'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i></span><span class='sign'>+</span><div class='kasir'><span class='top'><i>x</i></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'><i>x</i><sup>2</sup> + 1</span></span></div></div></div><div class='long-4'><span class='text'>إن أحد المستقيمات مقارب مائل للخط C في جوار <span dir='ltr'>-&infin;</span> هو المستقيم الذي معدالته : </span></div></div>",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "<span dir='ltr'><i>y</i> = -<i>x</i></span>",
+    "a-2": "<span dir='ltr'><i>y</i> = <i>x</i></span>",
+    "a-3": "<span dir='ltr'><i>y</i> = <i>x</i> + 1</span>",
+    "a-4": "<span dir='ltr'><i>y</i> = <i>x</i> - 1</span>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>ليكن C الخط البياني للدالة <i>f</i> المعرفة</span></div><div class='long-2'><span class='text'>على <span dir='ltr'>]0 , +&infin;[</span> وفق : </div><div class='long-3'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>2<i>x</i></span><span class='sign'>-</span><div class='kasir'><span class='top'>2</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'><i>x</i></span></span></div><span class='sign'>-</span><span>4</span></div></div><div class='long-4'><span class='text'>وكان <span dir='ltr'><i>y</i> = 2<i>x</i> - 4</span> مستقيم مقارب مائل للخط C في جوار <span dir='ltr'>+&infin;</span> إن الوضع النسبي للخط C بالنسبة للمقارب d هو :</span></div></div>",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<p style='font-size: 16px'>الخط c يقع تحت المقارب d مهما كانت <i>x</i>  من d</p>",
+    "a-2": "<p style='font-size: 16px'>الخط c يقع تحت المقارب d على المجال <span dir='ltr'>]1 , +&infin;[</span></p>",
+    "a-3": "<p style='font-size: 16px'>الخط c يقع فوق المقارب d مهما كانت <i>x</i> من d</p>",
+    "a-4": "<p style='font-size: 16px'>الخط c يقع فوق المقارب d على المجال <span dir='ltr'>]1 , +&infin;[</span> ويقع تحت d على المجال <span dir='ltr'>]0 , 1[</span></p>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان  C الخط البياني للدالة <i>f</i> المعرفة</span></div><div class='long-2'><span class='text'>على <span dir='ltr'>]0 , +&infin;[</span></span> وفق : </div><div class='long-3'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>3<i>x</i></span><span class='sign'>-</span><span>1</span><span class='sign'>-</span><div class='kasir'><span class='top'>ln<i>x</i></span><span class='bottom'><i>x</i></span></div></div></div><div class='long-4'><span class='text'>و d المستقيم الذي معادلته <span dir='ltr'><i>y</i> = 3<i>x</i> - 1</span>  المقارب المائل للخط C فإن : </span></div></div>",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<p style='font-size: 16px'>الخط c يقع تحت المقارب d مهما كانت <i>x</i>  من d</p>",
+    "a-2": "<p style='font-size: 16px'>الخط c يقع تحت المقارب d على المجال <span dir='ltr'>]1 , +&infin;[</span> ويقع فوق d على المجال <span dir='ltr'>]0 , 1[</span></p>",
+    "a-3": "<p style='font-size: 16px'>الخط c يقع فوق المقارب d مهما كانت <i>x</i> من d</p>",
+    "a-4": "<p style='font-size: 16px'>الخط c يقع فوق المقارب d على المجال <span dir='ltr'>]1 , +&infin;[</span> ويقع تحت d على المجال <span dir='ltr'>]0 , 1[</span></p>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>ليكن C الخط البياني للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>e</i><sup style='font-size: 12px;'>-<i>x</i></sup> + 2<i>x</i> - 1</span></div></div><div class='long-3'><span class='text'>المعرفة على <span dir='ltr'>]-&infin; , +&infin;[</span></span></div></div>",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "<p style='font-size: 16px;'>إن المستقيم الذي معادلته <span dir='ltr'><i>y</i> = 2<i>x</i> - 1</span> مقارب مائل للخط C في جوار <span dir='ltr'>+&infin;</span></p>",
+    "a-2": "<p style='font-size: 16px;'>إن المستقيم الذي معادلته <span dir='ltr'><i>y</i> = 2<i>x</i> - 1</span> مقارب مائل للخط C في جوار <span dir='ltr'>-&infin;</span></p>",
+    "a-3": "<p style='font-size: 16px;'>إن المستقيم الذي معادلته <span dir='ltr'><i>y</i> = -2<i>x</i> + 1</span> مقارب مائل للخط C في جوار <span dir='ltr'>+&infin;</span></p>",
+    "a-4": "<p style='font-size: 16px;'>لايوجد مقارب مائل للخط C للدالة </p>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>معادلة المستقيم المقارب الأفقي للخط البياني للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i><sup>2</sup>.<i>e</i><sup style='font-size: 12px;'>-<i>x</i></sup></span></div><span style='padding-right: 8px;'>هي : </span></div></div>",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "<span dir='ltr'><i>y</i> = 1</span>",
+    "a-2": "<span dir='ltr'><i>y</i> = -1</span>",
+    "a-3": "<span dir='ltr'><i>y</i> = 0</span>",
+    "a-4": "<span dir='ltr'><i>y</i> = -2</span>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان للخط البياني للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 1</span><span class='bottom'><i>a.e</i><sup style='font-size: 12px;'><i>x</i></sup> - 2</span></div></div></div><div class='long-3'><span class='text'>مقارب شاقولي منطبق على محور التراتيب فإن قيمة <i>a</i> هي : </span></div></div>",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "2-",
+    "a-2": "2",
+    "a-3": "1-",
+    "a-4": "1",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت <i>f</i> دالة فردية وكانت </span></div><div class='long-2'style='padding-bottom: 15px'><div class='eq'><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; -&infin;</span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>3</span></div></div></div><div class='long-3'><span class='text'>فإن </span><div class='eq'><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; +&infin;</span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span></div></div><span class='text'>تساوي :</span></div></div>",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "&infin;+",
+    "a-2": "&infin;-",
+    "a-3": "3-",
+    "a-4": "3",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان C الخط البياني للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i></span><span class='sign'>+</span><div class='kasir'><span class='top'>&radic;<span class='under-radic' style='margin-left: 4px;'><i>x</i></span></span><span class='bottom'>(<i>x</i> - 1)<sup>3</sup></span></div></div><span style='padding-right: 8px;'>المعرفة على </span></div><div class='long-3'><span dir='ltr'>D = [0 , 1[U]1 , +&infin;[</span></div><div class='long-4'><span class='text'>و d المستقيم الذي معادلته <span dir='ltr'><i>y</i> = <i>x</i></span> هو المقارب المائل للخط C فإن : </span></div></div>",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "<p style='font-size: 16px;'>C يقع تحت d على <span dir='ltr'>]0,1[</span> وفوق d على <span dir='ltr'>]1,+&infin;[</span></p>",
+    "a-2": "<p>C يقع فوق d مهما كانت <i>x</i>  من d</p>",
+    "a-3": "<p style='font-size: 16px;'>C يقع فوق d على <span dir='ltr'>]0,1[</span> وتحت d على <span dir='ltr'>]1,+&infin;[</span></p>",
+    "a-4": "<p>C يقع تحت d مهما كانت <i>x</i>  من d</p>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان C الخط البياني للدالة </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>ln</span><div class='kasir biracket'><span class='top'><i>x</i> - 2</span><span class='bottom'><i>x</i> + 2</span></div></div></div><div class='long-3'><span class='text'>المعرفة على <span dir='ltr'>]-2,+2[</span> فإن : </span></div></div>",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "<p>الدالة <i>f</i> هي دالة زوجية</p>",
+    "a-2": "<p>الخط C متناظر بالنسبة لمبدأ الإحداثيات</p>",
+    "a-3": "<p>الخط C متناظر بالنسبة لمحور التراتيب</p>",
+    "a-4": "<p>الدالة <i>f</i> ليست دالة فردية وليست زوجية</p>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان C الخط البياني للدالة </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>cos<i>x</i></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'><i>x</i><sup>2</sup> + 4</span></span></div></div></div><div class='long-3'><span class='text'>المعرفة على R فإن : </span></div></div>",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "<p>الدالة <i>f</i> هي دالة فردية والخط C متناظر بالنسبة لمبدأ الإحداثيات</p>",
+    "a-2": "<p>الدالة <i>f</i> هي دالة زوجية والخط C متناظر بالنسبة  لمحور الفواصل</p>",
+    "a-3": "<p>الدالة <i>f</i> هي دالة زوجية والخط C متناظر بالنسبة  لمحور التراتيب</p>",
+    "a-4": "<p>الدالة <i>f</i> ليست دالة فردية وليست زوجية</p>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان C الخط البياني للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x.e</i><sup style='font-size: 12px;'><i>x</i></sup></span></div></div><div class='long-3'><span class='text'>وكان <span dir='ltr'>C<sub>1</sub></span> الخط البياني للدالة : </span></div><div class='long-4'><div class='eq'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>x</i></span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup></span></div></div><span style='padding-right: 8px;'>فإن : </span></div></div>",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<p><span dir='ltr'>C<sub>1</sub></span>نظير C بالنسبة لمحور التراتيب</p>",
+    "a-2": "<p>الخط <span dir='ltr'>C<sub>1</sub></span> نظير C بالنسبة لمحور الفواصل</p>",
+    "a-3": "<p>الخط <span dir='ltr'>C<sub>1</sub></span> نظير C بالنسبة لمبدأ الإحداثيات </p>",
+    "a-4": "<p>الخط <span dir='ltr'>C<sub>1</sub></span> ينتج عن الخط C بانسحاب على محور التراتيب</p>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان C الخط البياني للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>ln(<i>x</i> - 2)</span></div></div><div class='long-3'><span class='text'>وكان <span dir='ltr'>C<sub>1</sub></span> الخط البياني للدالة : </span></div><div class='long-4'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>ln(<i>x</i> + 1)</span></div><span style='padding-right: 8px;'> فيكون : </span></div></div>",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "<p>الخط <span dir='ltr'>C<sub>1</sub></span> ينتج عن الخط C  بانسحاب على محور التراتيب مسافة 3 واحدات نحو الأسفل</p>",
+    "a-2": "<p>الخط <span dir='ltr'>C<sub>1</sub></span> ينتج عن الخط C  بانسحاب على محور الفواصل مسافة 3 واحدات نحو اليسار</p>",
+    "a-3": "<p>الخط <span dir='ltr'>C<sub>1</sub></span> ينتج عن الخط C  بانسحاب على محور التراتيب مسافة 3 واحدات نحو الأعلى</p>",
+    "a-4": "<p>الخط <span dir='ltr'>C<sub>1</sub></span> ينتج عن الخط C  بانسحاب على محور الفواصل مسافة 3 واحدات نحو اليمين</p>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان C الخط البياني للدالة </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3<i>x</i></span><span class='bottom'>(<i>x</i> - 2)<sup>2</sup></span></div></div></div><div class='long-3'><span class='text'>المعرفة على <span dir='ltr'>R\\{2}</span> وكان <span dir='ltr'>C<sub>1</sub></span> الخط البياني للدالة </span></div><div class='long-4'><div class='eq'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>-3<i>x</i></span><span class='bottom'>(<i>x</i> + 2)<sup>2</sup></span></div></div><span style='padding-right: 8px;'>فإن : </span></div></div>",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "<p>الخط <span dir='ltr'>C<sub>1</sub></span> هو نظير الخط  C بالنسبة لمحور الفواصل</p>",
+    "a-2": "<p>الخط <span dir='ltr'>C<sub>1</sub></span> هو نظير الخط  C بالنسبة لمحور التراتيب</p>",
+    "a-3": "<p>الخط <span dir='ltr'>C<sub>1</sub></span> ينتج عن الخط  C بانحساب على محور التراتيب</p>",
+    "a-4": "<p>الخط <span dir='ltr'>C<sub>1</sub></span> ينتج عن الخط  C بانحساب على محور الفواصل</p>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان C الخط البياني للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>ln(1 - <i>x</i>)</span></div></div><div class='long-3'><span class='text'>وكان <span dir='ltr'>C<sub>1</sub></span> الخط البياني للدالة : </span></div><div class='long-4'><div class='eq'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>|ln(1 - <i>x</i>)|</span></div><span style='padding-right: 8px;'>فيكون <span dir='ltr'>C<sub>1</sub></span> : </span></div></div>",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<p>نظير C بالنسبة لمحور التراتيب</p>",
+    "a-2": "<p>نظير C بالنسبة لمحور الفواصل</p>",
+    "a-3": "<p>ينتج عن C بانسحاب على محور التراتيب</p>",
+    "a-4": "<p>ينتج عن C بالتقاء النقاط ذات التراتيب الموجبة من C كما هي وأخذ نظائر النقاط ذات التراتيب السالبة من C بالنسبة لمحور الفواصل</p>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان C الخط البياني للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>ln<i>x</i></span><span class='bottom'><i>x</i></span></div></div></div><div class='long-3'><span class='text'>وكان <span dir='ltr'>C<sub>1</sub></span> الخط البياني للدالة : </span></div><div class='long-4'><div class='eq'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x</i></span></div><span class='sign'>.</span><span>ln</span><div class='kasir biracket'><span class='top'>1</span><span class='bottom'><i>x</i></span></div></div><span style='padding-right: 8px;'>فيكون : </span></div></div>",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "<p> الخط <span dir='ltr'>C<sub>1</sub></span> نظير C بالنسبة لمحور التراتيب</p>",
+    "a-2": "<p> الخط <span dir='ltr'>C<sub>1</sub></span> نظير C بالنسبة لمحور الفواصل</p>",
+    "a-3": "<p> الخط <span dir='ltr'>C<sub>1</sub></span> ينتج عن الخط  C بانسحاب على محور التراتيب</p>",
+    "a-4": "<p> الخط <span dir='ltr'>C<sub>1</sub></span> نظير C بالنسبة لمبدأ الإحداثيات</p>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان  C الخط البياني للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>ln</span><div class='kasir biracket'><span class='top'><i>e</i><sup style='font-size: 12px;'><i>x</i> - 1</sup></span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i> + 1</span></div></div><span style='padding-right: 8px;'>فإن : </span></div></div>",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<p>الدالة <i>f</i> هي دالة فردية</p>",
+    "a-2": "<p>إن محور الفواصل مستقيم مقارب للخط  C والخط  C يقع فوق هذا المقارب على <span dir='ltr'>]0 , +&infin;[</span></p>",
+    "a-3": "<p>الخط C متناظر بالنسبة لمحور التراتيب</p>",
+    "a-4": "<p> إن محور الفواصل مستقيم مقارب للخط C والخط C يقع تحت هذا المقارب على <span dir='ltr'>]0 , +&infin;[</span></p>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>كان C الخط البياني للدالة </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup></span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 1</span></div></div></div><div class='long-3'><span class='text'>المعرفة على <span dir='ltr'>D = R</span> وكان الخط <span dir='ltr'>C<sub>1</sub></span> ينتج عن الخط C بانسحاب متجهه <span dir='ltr'><span class='top-rarr'><span class='rarr'>&rarr;</span><i>u</i></span>(0,1)</span> فإن الخط <span dir='ltr'>C<sub>1</sub></span> هو الخط البياني للدالة : </span></div></div>",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1 + <i>e</i><sup style='font-size: 12px;'><i>x</i></sup></span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 1</span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1 + 2<i>e</i><sup style='font-size: 12px;'><i>x</i></sup></span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 1</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> - 1</span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 1</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1 - 2<i>e</i><sup style='font-size: 12px;'><i>x</i></sup></span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 1</span></div></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>كان C الخط البياني للدالة </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup></span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 1</span></div></div></div><div class='long-3'><span class='text'>وكان الخط <span dir='ltr'>C<sub>1</sub></span> نظير الخط C بالنسبة للمبدأ فإن معادلة <span dir='ltr'>C<sub>1</sub></span> هي : </span></div></div>",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1 - <i>e</i><sup style='font-size: 12px;'><i>x</i></sup></span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 1</span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>-1</span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 1</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 1</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 1</span><span class='bottom'><i>e</i><sup style='font-size: 12px;'><i>x</i></sup></span></div></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت <i>f</i> دالة زوجية </span></div><div class='long-2'><span class='text'>وكانت</span><div class='eq'><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; -2<sup style='padding-bottom: 10px; margin-left: -2px'>+</sup></span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>3</span></div></div></div></div>",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "<div class='eq-ans' dir='ltr'><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; 2<sup style='padding-bottom: 10px; margin-left: -2px'>+</sup></span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>3</span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; 2<sup style='padding-bottom: 10px; margin-left: -2px'>-</sup></span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>3</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; 2<sup style='padding-bottom: 10px; margin-left: -2px'>-</sup></span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>-3</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; 2<sup style='padding-bottom: 10px; margin-left: -2px'>+</sup></span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>-3</span></div></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>معادلة المستقيم المقارب الأفقي للخط البياني للدالة</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>(<i>x</i><sup>2</sup> - <i>x</i>).<i>e</i><sup style='font-size: 12px;'>-<i>x</i></sup></span></div></div><div class='long-3'><span class='text'>في جوار <span dir='ltr'>+&infin;</span> هي : </span></div></div>",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "<span dir='ltr'><i>y</i> = 1</span>",
+    "a-2": "<span dir='ltr'><i>x</i> = 1</span>",
+    "a-3": "<span dir='ltr'><i>y</i> = 0</span>",
+    "a-4": "<span dir='ltr'><i>x</i> = 0</span>",
+    "ra": "3"
+  }
+]

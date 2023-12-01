@@ -1,0 +1,422 @@
+[
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن الدالة الأصلية للدالة</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>2<i>x</i> + 1</span></div></div><div class='long-3'><span class='text'>على <span dir='ltr'>D = R</span> هي :</span></div></div>",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; justify-content: flex-end;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i><sup>2</sup> + <i>x</i></span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; justify-content: flex-end;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i><sup>2</sup> + 2<i>x</i></span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; justify-content: flex-end;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i> - 9</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; justify-content: flex-end;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i><sup>3</sup> + 3<i>x</i></span></div>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن الدالة الأصلية للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>x</i></span><span class='bottom'>&radic;<span class='under-radic'>6 - 2<i>x</i><sup>2</sup></span></span></div></div></div><div class='long-3'><span class='text'>على <span dir='ltr'>D = ]-&radic;<span class='under-radic'>3</span> , &radic;<span class='under-radic'>3</span>[</span> هي : </span></div></div>",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='flex-basis: 55%; align-items: center;'><span>F(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2'><span class='top'>-1</span><span class='bottom'>2</span></div><span>&radic;<span class='under-radic'>6 - 2<i>x</i><sup>2</sup></span></span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>-1</span><span class='bottom'>4</span></div><span>&radic;<span class='under-radic'>6 - 2<i>x</i><sup>2</sup></span></span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>&radic;<span class='under-radic'>6 - 2<i>x</i><sup>2</sup></span></span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 60%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>2<i>x</i>.</span><span>&radic;<span class='under-radic'>6 - 2<i>x</i><sup>2</sup></span></span></div>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن مجموعة الدوال الأصلية للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'>&radic; <span class='under-radic'><i>x</i> </span></span></div><span><i>e</i><sup style='font-size: 12px;'>&radic;<span class='under-radic'><i>x</i></span></sup></span></div></div><div class='long-3'><span class='text'>على <span dir='ltr'>D = ]0 , +&infin;[</span> هي : </span></div></div>",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>2.<i>e</i><sup style='font-size: 12px;'>&radic;<span class='under-radic'><i>x</i></span></sup></span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>1/2.<i>e</i><sup style='font-size: 12px;'>&radic;<span class='under-radic'><i>x</i></span></sup></span><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>&radic;<span class='under-radic'><i>x</i></span>.<i>e</i><sup style='font-size: 12px;'>&radic;<span class='under-radic'><i>x</i></span></sup></span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>-2<i>e</i><sup style='font-size: 12px;'>&radic;<span class='under-radic'><i>x</i></span></sup></span><span class='sign'>+</span><span>c</span></div>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>مجموعة الدوال الأصلية للدالة <i>f</i> المعرفة </span></div><div class='long-2'><span class='text'>وفق : </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>2</span><span class='bottom'><i>x</i> - 5</span></div></div></div><div class='long-3'><span class='text'>على المجال <span dir='ltr'>]-&infin; , 5[</span> هي : </span></div></div>",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 70%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>2.ln(<i>x</i> - 5)</span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 70%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>ln(<i>x</i> - 5)</span><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 70%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>ln(<i>x</i> - 5)<sup>2</sup></span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 70%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>ln(<i>x</i> + 5)<sup>2</sup></span><span class='sign'>+</span><span>c</span></div>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن قيمة التكامل </span></div><div class='long-2'><div class='eq'><span class='int'>&int;</span><span>3&radic;<span class='under-radic'><i>x</i> + 1</span></span><span>.<i>dx</i></span></div><span class='text'>هي : </span></div></div>",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 40%;'><span>2&radic;<span class='under-radic'><i>x</i><sup>3</sup> + 1</span></span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span>(<i>x</i> + 1)&radic;<span class='under-radic'><i>x</i> + 1</span></span><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 45%;'><span>2&radic;<span class='under-radic'>(<i>x</i> + 1)<sup>3</sup></span></span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><div class='kasir' style='flex: 2;'><span class='top'>3</span><span class='bottom'><span>2&radic;<span class='under-radic'><i>x</i> + 1</span></span></span></div><span class='sign'>+</span><span>c</span></div>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن ناتج التكامل </span></div><div class='long-2'><div class='eq'><span class='int'>&int;</span><div>2<i>e</i><sup style='font-size: 12px;'>-2<i>x</i> + 1</sup></div><span>.<i>dx</i></span></div><span class='text'>هو : </span></div></div>",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><span>-<i>e</i><sup style='font-size: 12px;'>-2<i>x</i> + 1</sup></span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 40%;'><span>-2<i>e</i><sup style='font-size: 12px;'>-2<i>x</i> + 1</sup></span><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 45%;'><span>1/2<i>e</i><sup style='font-size: 12px;'>-2<i>x</i> + 1</sup></span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 30%;'><span><i>e</i><sup style='font-size: 12px;'>2<i>x</i> + 1</sup></span><span class='sign'>+</span><span>c</span></div>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن ناتج التكامل </span><div class='eq'><span class='int'>&int;</span><div class='kasir'><span class='top'>2</span><span class='bottom'><i>x</i> - 1</span></div><span>.<i>dx</i></span></div></div><div class='long-2'><span class='text'>المعرف على <span dir='ltr'>]1 , +&infin;[</span> هو : </span></div></div>",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 45%;'><span>ln(<i>x</i> + 1)<sup>2</sup></span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 45%;'><span>2ln(<i>x</i> - 1)</span><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 45%;'><span>2ln(1 - <i>x</i>)</span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 45%;'><span>ln(<i>x</i> - 2)</span><span class='sign'>+</span><span>c</span></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن ناتج التكامل </span></div><div class='long-2'><div class='eq'><span class='int'>&int;</span><div class='kasir'><span class='top'>-1</span><span class='bottom'>(<i>x</i> - 1)<sup>2</sup></span></div><span>.<i>dx</i></span></div><span class='text'> هو : </span></div></div>",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 30%;'><div class='kasir'><span class='top'>2</span><span class='bottom'>(<i>x</i> - 1)</span></div><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 30%;'><div class='kasir'><span class='top'>1</span><span class='bottom'>(<i>x</i> - 1)</span></div><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><div class='kasir'><span class='top'>-1</span><span class='bottom'>(<i>x</i> - 1)</span></div><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><div class='kasir'><span class='top'>1</span><span class='bottom'>(<i>x</i> - 1)<sup>2</sup></span></div><span class='sign'>+</span><span>c</span></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن ناتج التكامل </span></div><div class='long-2'><div class='eq'><span class='int'>&int;</span><span>(<i>cosx</i> - <i>sinx</i>)</span><span>.<i>dx</i></span></div><span class='text'> هو : </span></div></div>",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 50%;'><span><i>cosx</i> + <i>sinx</i></span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 50%;'><span><i>sinx</i> - <i>cosx</i></span><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span>-<i>cosx</i> + <i>sinx</i></span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span>-<i>sinx</i> - <i>cosx</i></span><span class='sign'>+</span><span>c</span></div>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن ناتج التكامل </span></div><div class='long-2'><div class='eq'><span class='int'>&int;</span><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x</i><sup>2</sup></span></div><span>.<i>e</i><sup style='font-size: 12px;'>1/<i>x</i></sup></span><span>.<i>dx</i></span></div><span class='text'> هو : </span></div></div>",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 30%;'><span><i>e</i><sup style='font-size: 12px;'>1/<i>x</i></sup></span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><div class='kasir' style='flex: 2'><span class='top'>-1</span><span class='bottom'><i>x</i></span></div><span>.<i>e</i><sup style='font-size: 12px;'>1/<i>x</i></sup></span><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x</i></span></div><span>.<i>e</i><sup style='font-size: 12px;'>1/<i>x</i></sup></span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 30%;'><span>-<i>e</i><sup style='font-size: 12px;'>1/<i>x</i></sup></span><span class='sign'>+</span><span>c</span></div>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن ناتج التكامل </span></div><div class='long-2'><div class='eq'><span class='int'>&int;</span><div class='kasir'><span class='top'><i>cosx</i></span><span class='bottom'>&radic;<span class='under-radic'><i>sinx</i></span></span></div><span>.<i>dx</i></span></div><span class='text'> هو : </span></div></div>",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 40%;'><span>-2&radic;<span class='under-radic'>sin<i>x</i></span></span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><span>-&radic;<span class='under-radic'>sin<i>x</i></span></span><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><span>2&radic;<span class='under-radic'>sin<i>x</i></span></span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><span>ln&radic;<span class='under-radic'>sin<i>x</i></span></span><span class='sign'>+</span><span>c</span></div>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن قيمة التكامل الاتي </span></div><div class='long-2'><div class='eq'><span class='int'>&int;</span><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x.lnx</i></span></div><span>.<i>dx</i></span></div><span class='text'>على <span dir='ltr'>D = ]0 , 1[</span>  هو : </span></div></div>",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><span>ln(<i>lnx</i>)</span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 15%;'><div class='kasir'><span class='top'>1</span><span class='bottom'><i>lnx</i></span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 25%;'><span><i>x.lnx</i></span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><span>ln(-<i>lnx</i>)</span><span class='sign'>+</span><span>c</span></div>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن ناتج التكامل </span></div><div class='long-2'><div class='eq'><span class='int'>&int;</span><span>(3<i>e</i><sup style='font-size: 12px;'><i>x</i></sup> - 4<i>cosx</i> + 6)</span><span>.<i>dx</i></span></div><span class='text'> هو : </span></div></div>",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 65%;'><span>3<i>e</i><sup style='font-size: 12px;'><i>x</i></sup> - 4<i>sinx</i> + 6<i>x</i></span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 65%;'><span>3<i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 4<i>sinx</i> + 6</span><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 65%;'><span>3<i>e</i><sup style='font-size: 12px;'><i>x</i></sup> - 4<i>sinx</i> + 6</span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 65%;'><span>3<i>e</i><sup style='font-size: 12px;'><i>x</i></sup> + 4<i>sinx</i> + 6<i>x</i></span><span class='sign'>+</span><span>c</span></div>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن ناتج التكامل </span></div><div class='long-2'><div class='eq'><span class='int'>&int;</span><span><i>x</i>.&radic;<span class='under-radic'><i>x</i></span></span><span>.<i>dx</i></span></div><span class='text'> هو : </span></div></div>",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 25%;'><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>2</span></div><span>&radic;<span class='under-radic'><i>x</i></span></span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 30%;'><span>2<i>x</i><sup>2</sup>&radic;<span class='under-radic'><i>x</i></span></span><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><div class='kasir' style='flex: 2;'><span class='top'>2</span><span class='bottom'>5</span></div><span><i>x</i><sup>2</sup>&radic;<span class='under-radic'><i>x</i></span></span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><div class='kasir' style='flex: 2;'><span class='top'>5</span><span class='bottom'>2</span></div><span><i>x</i><sup>2</sup>&radic;<span class='under-radic'><i>x</i></span></span><span class='sign'>+</span><span>c</span></div>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن ناتج التكامل </span></div><div class='long-2'><div class='eq'><span class='int'>&int;</span><span><i>x</i>.<i>cosx</i></span><span>.<i>dx</i></span></div><span class='text'> هو : </span></div></div>",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span><i>x</i>.<i>sinx</i> - <i>cosx</i></span><span class='sign'>+</span><span>c</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span><i>x</i>.<i>cosx</i> + <i>sinx</i></span><span class='sign'>+</span><span>c</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 35%;'><span><i>x</i>.<i>sinx</i></span><span class='sign'>+</span><span>c</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span><i>x</i>.<i>sinx</i> + <i>cosx</i></span><span class='sign'>+</span><span>c</span></div>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن معادلة المنحني التكاملي للدالة </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>-2<i>x</i> + 3</span></div></div><div class='long-3'><span class='text'>المار بالنقطة <span dir='ltr'>A(1 , 0)</span> هي : </span></div></div>",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 60%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>-<i>x</i><sup>2</sup> + 3<i>x</i> + 2</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 60%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>-<i>x</i><sup>2</sup> + 3<i>x</i> - 2</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 60%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>-<i>x</i><sup>2</sup> + 3<i>x</i> - 3</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 60%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>-<i>x</i><sup>2</sup> + 3<i>x</i> + 3</span></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'><i>f</i> دالة عددية معرفة وفق</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> - 1</span></div><span style='padding-right: 10px;'>فإن معادلة المنحني التكاملي</span></div><div class='long-3'><span class='text'>للدالة <i>f</i> والمار من النقطة <span dir='ltr'>M(0,3)</span> هي : </span></div><div class='long-4'></div></div>",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 45%;'><span><i>y</i></span><span class='sign'>=</span><span><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> - <i>x</i> + 3</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 45%;'><span><i>y</i></span><span class='sign'>=</span><span><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> - <i>x</i> - 2</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 45%;'><span><i>y</i></span><span class='sign'>=</span><span><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> - <i>x</i> + 2</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 45%;'><span><i>y</i></span><span class='sign'>=</span><span><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> - <i>x</i> - 3</span></div>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن الدالة الأصلية للدالة</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>2.<i>cos</i>2<i>x</i>.<i>cosx</i></span></div></div><div class='long-3'><span class='text'>التي تحقق <span dir='ltr'>F(&pi;/2) = -1/3</span> هي : </span></div></div>",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>-1</span><span class='bottom'>3</span></div><span>sin3<i>x</i> - sin<i>x</i> + 1</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 90%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>-1</span><span class='bottom'>3</span></div><span>sin3<i>x</i> - sin<i>x</i> - </span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>3</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 90%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>3</span></div><span>sin3<i>x</i> + sin<i>x</i> - </span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>3</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>3</span></div><span>sin3<i>x</i> + sin<i>x</i> - 1</span></div>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن الدالة الأصلية للدالة</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>lnx</i></span><span class='bottom'>x</span></div></div><span class='text'>التي تحقق <span dir='ltr'>F(1) = 1</span> هي : </span></div></div>",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 55%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>(<i>lnx</i>)<sup>2</sup> + 1</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 60%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>2</span></div><span>(<i>lnx</i>)<sup>2</sup> + 1</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 50%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><span>(<i>lnx</i>)<sup>2</sup> - 1</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 60%;'><span>F(<i>x</i>)</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>-1</span><span class='bottom'>2</span></div><span>(<i>lnx</i>)<sup>2</sup> + 1</span></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main'><span class='text'>إن</span><div class='eq'><span class='int'>&int;<sup>&pi;</sup><sub>&pi;/2</sub></span><span><i>sinx</i>.<i>dx</i></span></div><span style='padding-right: 8px;'>هو : </span></div>",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "2",
+    "a-2": "1-",
+    "a-3": "1",
+    "a-4": "0",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main'><span class='text'>التكامل</span><div class='eq'><span class='sign'>I = </span><span class='int'>&int;<sub>0</sub><sup>3</sup></span><div class='kasir'><span class='top'><i>dx</i></span><span class='bottom'>&radic;<span class='under-radic'><i>x</i> + 1</span></span></div></div><span style='padding-left: 8px;'>يساوي : </span></div>",
+    "name": "a-21",
+    "id": "21-",
+    "a-1": "5",
+    "a-2": "2-",
+    "a-3": "3-",
+    "a-4": "2",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main'><span class='text'>التكامل</span><div class='eq'><span class='sign'>I = </span><span class='int'>&int;<sub>0</sub><sup>2</sup></span><span>|2<i>x</i> - 2|.<i>dx</i></span></div><span style='padding-left: 8px;'>يساوي : </span></div>",
+    "name": "a-22",
+    "id": "22-",
+    "a-1": "5",
+    "a-2": "2",
+    "a-3": "3-",
+    "a-4": "2-",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main'><span class='text'>التكامل</span><div class='eq'><span class='sign'>I = </span><span class='int'>&int;<sub>0</sub><sup>&pi;</sup></span><span>|<i>cosx</i>|.<i>dx</i></span></div><span style='padding-left: 8px;'>يساوي : </span></div>",
+    "name": "a-23",
+    "id": "23-",
+    "a-1": "5",
+    "a-2": "2",
+    "a-3": "&pi;",
+    "a-4": "2-",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main'><span class='text'>التكامل</span><div class='eq'><span class='sign'>I = </span><span class='int'>&int;<sub>0</sub><sup>1</sup></span><div class='kasir'><span class='top'><i>x</i> - 1</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 5px;'><i>x</i></span> + 1</span></div><span>.<i>dx</i></span></div><span style='padding-left: 8px;'>يساوي : </span></div>",
+    "name": "a-24",
+    "id": "24-",
+    "a-1": "1",
+    "a-2": "1/3-",
+    "a-3": "1/3",
+    "a-4": "1-",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main'><span class='text'>التكامل</span><div class='eq'><span class='sign'>I = </span><span class='int'>&int;<sub>1</sub><sup><i>e</i></sup></span><span><i>lnx</i></span><span>.<i>dx</i></span></div><span style='padding-left: 8px;'>يساوي : </span></div>",
+    "name": "a-25",
+    "id": "25-",
+    "a-1": "<i>e</i>",
+    "a-2": "1",
+    "a-3": "<span dir='ltr'><i>e</i> - 1</span>",
+    "a-4": "<span dir='ltr'><i>e</i> + 1</span>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main'><span class='text'>التكامل</span><div class='eq'><span class='sign'>I = </span><span class='int'>&int;<sub>0</sub><sup>ln2</sup></span><span><i>x.e</i><sup style='font-size: 12px;'><i>x</i></sup></span><span>.<i>dx</i></span></div><span style='padding-left: 8px;'>يساوي : </span></div>",
+    "name": "a-26",
+    "id": "26-",
+    "a-1": "<span dir='ltr'>1 + ln2</span>",
+    "a-2": "<span dir='ltr'>1 - ln2</span>",
+    "a-3": "<span dir='ltr'>4ln3</span>",
+    "a-4": "<span dir='ltr'>-1 + ln4</span>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main'><span class='text'>التكامل</span><div class='eq'><span class='sign'>I = </span><span class='int'>&int;<sub>2</sub><sup><i>e</i></sup></span><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x.lnx</i></span></div><span>.<i>dx</i></span></div><span style='padding-left: 8px;'>يساوي : </span></div>",
+    "name": "a-27",
+    "id": "27-",
+    "a-1": "<span dir='ltr'>-ln(ln2)</span>",
+    "a-2": "<span dir='ltr'>ln(ln2)</span>",
+    "a-3": "<span dir='ltr'>1 - ln(ln2)</span>",
+    "a-4": "<span dir='ltr'>ln(ln2) - 1</span>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main'><span class='text'>التكامل</span><div class='eq'><span class='sign'>I = </span><span class='int'>&int;<sub>1</sub><sup><i>e</i><sup>3</sup></sup></span><div class='kasir'><span class='top'><i>1</i></span><span class='bottom'><i>x</i>&radic;<span class='under-radic' style='margin-left: 5px'>1 + <i>lnx</i></span></span></div><span>.<i>dx</i></span></div><span style='padding-left: 8px;'>يساوي : </span></div>",
+    "name": "a-28",
+    "id": "28-",
+    "a-1": "5",
+    "a-2": "2-",
+    "a-3": "3-",
+    "a-4": "2",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main'><span class='text'>التكامل</span><div class='eq'><span class='sign'>I = </span><div class='kasir'><span class='top'>3</span><span class='bottom'>2</span></div><span class='int'>&int;<sub>1</sub><sup>4</sup></span><div class='kasir'><span class='top'>&radic;<span class='under-radic' style='margin-left: 4px;'>1 + &radic;<span class='under-radic' style='margin-left: 4px; padding: 0 4px 0 0;'><i>x</i></span></span></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'><i>x</i></span></span></div><span>.<i>dx</i></span></div><span style='padding-left: 8px;'>يساوي : </span></div>",
+    "name": "a-29",
+    "id": "29-",
+    "a-1": "<span dir='ltr'>3&radic;<span class='under-radic' style='margin-left: -1px'>3</span> - 2&radic;<span class='under-radic' style='margin-left: -1px'>2</span></span>",
+    "a-2": "<span dir='ltr'>3&radic;<span class='under-radic' style='margin-left: -1px'>2</span> - 2&radic;<span class='under-radic' style='margin-left: -1px'>3</span></span>",
+    "a-3": "<span dir='ltr'>3&radic;<span class='under-radic' style='margin-left: -1px'>3</span></span>",
+    "a-4": "<span dir='ltr'>2&radic;<span class='under-radic' style='margin-left: -1px'>2</span></span>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main'><span class='text'>التكامل</span><div class='eq'><span class='sign'>I = </span><span class='int'>&int;<sub>0</sub><sup>1</sup></span><div class='kasir'><span class='top'>-1</span><span class='bottom'><i>e</i><sup style='font-size: 2px;'><i>x</i> + 1</sup></span></div><span>.<i>dx</i></span></div><span style='padding-left: 8px;'>يساوي : </span></div>",
+    "name": "a-30",
+    "id": "30-",
+    "a-1": "<span dir='ltr'>ln(1 + 1/<i>e</i>) - ln2</span>",
+    "a-2": "<span dir='ltr'>ln(1 - 1/<i>e</i>)</span>",
+    "a-3": "<span dir='ltr'>ln2</span>",
+    "a-4": "<span dir='ltr'>ln(1 + <i>e</i>) - ln2</span>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن الدالة</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>2</span><span class='bottom'><i>x</i><sup>2</sup> - 1</span></div></div></div><div class='long-2'><span class='text'>المعرفة على <span dir='ltr'>D = R\\{<span class='or-equal'>+</span>1}</span> تكتب بالشكل : </span></div></div>",
+    "name": "a-31",
+    "id": "31-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>-1</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>+</span><div class='kasir'><span class='top'>1</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>+</span><div class='kasir'><span class='top'>1</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>-1</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>-</span><div class='kasir'><span class='top'>1</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>-</span><div class='kasir'><span class='top'>1</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن الدالة</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>x</i> + 3</span><span class='bottom'><i>x</i><sup>2</sup> - 1</span></div></div></div><div class='long-2'><span class='text'>المعرفة على <span dir='ltr'>D = R\\{<span class='or-equal'>+</span>1}</span> تكتب بالشكل : </span></div></div>",
+    "name": "a-32",
+    "id": "32-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>-</span><div class='kasir'><span class='top'>2</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>+</span><div class='kasir'><span class='top'>1</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>2</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>+</span><div class='kasir'><span class='top'>-1</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>-2</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>+</span><div class='kasir'><span class='top'>-1</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>لتكن <i>f</i> دالة عددية معرفة على <span dir='ltr'>D = R\\{1,-2}</span></span></div><div class='long-2'><span class='text'> وفق</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>-<i>x</i> + 7</span><span class='bottom'><i>x</i><sup>2</sup> + <i>x</i> - 2</span></div></div></div><div class='long-3'><span class='text'>إذا علمت أن <i>f</i> تكتب بالشكل : </span></div><div class='long-4'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>a</i></span><span class='bottom'><i>x</i> + 2</span></div><span class='sign'>+</span><div class='kasir'><span class='top'><i>b</i></span><span class='bottom'><i>x</i> - 1</span></div></div></div><div class='long-5'><span class='text'>فإن قيم <span dir='ltr'><i>a , b</i></span> تكون : </span></div></div>",
+    "name": "a-33",
+    "id": "33-",
+    "a-1": "<span dir='ltr'><i>a</i> = -3 , <i>b</i> = -1</span>",
+    "a-2": "<span dir='ltr'><i>a</i> = 1 , <i>b</i> = 3</span>",
+    "a-3": "<span dir='ltr'><i>a</i> = 3 , <i>b</i> = 3</span>",
+    "a-4": "<span dir='ltr'><i>a</i> = -3 , <i>b</i> = 2</span>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن الدالة</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>x</i></span><span class='bottom'>(<i>x</i> - 1)<sup>2</sup></span></div></div></div><div class='long-2'><span class='text'>المعرفة على <span dir='ltr'>D = R\\{1}</span> تكتب بالشكل : </span></div></div>",
+    "name": "a-34",
+    "id": "34-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>+</span><div class='kasir'><span class='top'>2</span><span class='bottom' style='width: 70px;'>(<i>x</i> - 1)<sup>2</sup></span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>-</span><div class='kasir'><span class='top'>1</span><span class='bottom' style='width: 70px;'>(<i>x</i> - 1)<sup>2</sup></span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>+</span><div class='kasir'><span class='top'>1</span><span class='bottom' style='width: 70px;'>(<i>x</i> - 1)<sup>2</sup></span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>-1</span><span class='bottom'><i>x</i> - 1</span></div><span class='sign'>+</span><div class='kasir'><span class='top'>1</span><span class='bottom' style='width: 70px;'>(<i>x</i> - 1)<sup>2</sup></span></div></div>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن الدالة</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>x</i><sup>2</sup> - <i>x</i> + 2</span><span class='bottom'><i>x</i> + 1</span></div></div></div><div class='long-2'><span class='text'>المعرفة على <span dir='ltr'>D = R\\{-1}</span> تكتب بالشكل : </span></div></div>",
+    "name": "a-35",
+    "id": "35-",
+    "a-1": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i> + 2</span><span class='sign'>-</span><div class='kasir' style='flex: 2'><span class='top'>4</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i> + 1</span><span class='sign'>+</span><div class='kasir' style='flex: 2'><span class='top'>2</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i> - 2</span><span class='sign'>+</span><div class='kasir' style='flex: 2'><span class='top'>4</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr' style='align-items: center; flex-basis: 80%;'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i> - 1</span><span class='sign'>-</span><div class='kasir' style='flex: 2'><span class='top'>2</span><span class='bottom' style='width: 60px;'><i>x</i> + 1</span></div></div>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>ليكن <i>c</i> الخط البياني للدالة <i>f</i>  المعرفة</span></div><div class='long-2'><span class='text'>على <span dir='ltr'>[0 , +&infin;[</span> وفق </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>&radic;<span class='under-radic'><i>x</i></span></span></div></div><div class='long-3'><span class='text'>إن مساحة السطح المحصور بين <i>c</i> والمحور <span dir='ltr'><i>x'x</i></span></span></div><div class='long-4'><span class='text'>والمستقيمين <span dir='ltr' style='padding: 0 5px;'><i>x</i> = 1 , <i>x</i> = 4</span> هي : </span></div></div>",
+    "name": "a-36",
+    "id": "36-",
+    "a-1": "14/3",
+    "a-2": "28/3",
+    "a-3": "1",
+    "a-4": "3",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>ليكن <i>c</i> الخط البياني للدالة <i>f</i>  المعرفة</span></div><div class='long-2'><span class='text'>على R وفق </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>e</i><sup style='font-size: 12px;'><i>x</i></sup> - 1</span></div></div><div class='long-3'><span class='text'>إن مساحة السطح المحصور بين <i>c</i> والمحور <span dir='ltr'><i>x'x</i></span></span></div><div class='long-4'><span class='text'>والمستقيمين <span dir='ltr' style='padding: 0 5px;'><i>x</i> = 0 , <i>x</i> = ln2</span> هي : </span></div></div>",
+    "name": "a-37",
+    "id": "37-",
+    "a-1": "<span dir='ltr'>1 - ln2</span>",
+    "a-2": "<span dir='ltr'>ln2 - 1</span>",
+    "a-3": "<span dir='ltr'>ln2</span>",
+    "a-4": "1",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>ليكن <i>c</i> الخط البياني للدالة العددية</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i><sup>2</sup> - <i>x</i> - 2</span></div></div><div class='long-3'><span class='text'>إن مساحة السطح المحصور بين <i>c</i> ومحور الفواصل <span dir='ltr'><i>x'x</i></span></span></div> هي : </div>",
+    "name": "a-38",
+    "id": "38-",
+    "a-1": "4",
+    "a-2": "9/2",
+    "a-3": "14/3",
+    "a-4": "3/2",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>ليكن <i>c</i> الخط البياني للدالة <i>f</i>  المعرفة</span></div><div class='long-2'><span class='text'>على R وفق </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i><sup>2</sup></span></div></div><div class='long-3'><span class='text'>إن حجم المجسم الناتج عن دوران المنطقة المحددة بالمنحني </span></div><div class='long-4'><span class='text'><i>c</i> و <span dir='ltr'><i>x'x</i></span> والمستقيمين <span dir='ltr' style='padding: 0 5px;'><i>x</i> = 1 , <i>x</i> = 0</span> هو : </span></div></div>",
+    "name": "a-39",
+    "id": "39-",
+    "a-1": "<span dir='ltr'>32&pi;/5</span>",
+    "a-2": "<span dir='ltr'>6&pi;/5</span>",
+    "a-3": "<span dir='ltr'>&pi;/5</span>",
+    "a-4": "<span dir='ltr'>1/5</span>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>ليكن <i>c</i> الخط البياني للدالة</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>&radic;<span class='under-radic'>1 + <i>x</i><sup>2</sup></span></span></div></div><div class='long-3'><span class='text'>إن حجم المجسم الناتج عن دوران المنطقة المحددة بالخط </span></div><div class='long-4'><span class='text'><i>c</i> و <span dir='ltr'><i>x'x</i></span> والمستقيمين <span dir='ltr' style='padding: 0 5px;'><i>x</i> = 1 , <i>x</i> = 0</span>دورة كاملة حول <span dir='ltr'><i>x'x</i></span> هو : </span></div></div>",
+    "name": "a-40",
+    "id": "40-",
+    "a-1": "4/3",
+    "a-2": "<span dir='ltr'>3&pi;/2</span>",
+    "a-3": "<span dir='ltr'>2&pi;</span>",
+    "a-4": "<span dir='ltr'>4&pi;/3</span>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>ليكن <i>c</i> الخط البياني للدالة <i>f</i>  المعرفة</span></div><div class='long-2'><span class='text'>على <span dir='ltr'>[0 , +&infin;[</span> وفق </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>&radic;<span class='under-radic'><i>x</i></span></span></div></div><div class='long-3'><span class='text'>و &Delta; مستقيم معادلته <span dir='ltr'><i>y</i> = <i>x</i></span></span></div><div class='long-4'><span class='text'>إن حجم المجسم الناتج عن دوران السطح المحصور بين <i>c</i>  و &Delta; هي : </span></div></div>",
+    "name": "a-41",
+    "id": "41-",
+    "a-1": "<span dir='ltr'>&pi;/3</span>",
+    "a-2": "<span dir='ltr'>28&pi;/3</span>",
+    "a-3": "<span dir='ltr'>14&pi;/6</span>",
+    "a-4": "<span dir='ltr'>&pi;/6</span>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>ليكن <span dir='ltr'><i>c</i><sub>2</sub> , <i>c</i><sub>1</sub></span> الخطان البيانيان للدالتين <span dir='ltr'><i>f</i><sub>2</sub> , <i>f</i><sub>1</sub></span></span></div><div class='long-2'><span class='text'>المعرفتين على R وفق</span><div class='eq'><span class='sign'><i>f</i><sub>1</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>e</i><sup style='font-size: 12px;'><i>x</i></sup></span></div></div><div class='long-3'><div class='eq'><span class='sign'><i>f</i><sub>2</sub></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>e</i><sup style='font-size: 12px;'>-<i>x</i></sup></span></div><span style='padding-right: 5px;'>إن مساحة السطح المحصور بين </span></div><div class='long-4'><span class='text'><span dir='ltr'><i>c</i><sub>2</sub> , <i>c</i><sub>1</sub></span> والمستقيمين <span dir='ltr'><i>x</i> = ln2 , <i>x</i> = 0</span></span></div>هي : </div>",
+    "name": "a-42",
+    "id": "42-",
+    "a-1": "1/3",
+    "a-2": "1/2",
+    "a-3": "1/6",
+    "a-4": "1/4",
+    "ra": "2"
+  }
+]

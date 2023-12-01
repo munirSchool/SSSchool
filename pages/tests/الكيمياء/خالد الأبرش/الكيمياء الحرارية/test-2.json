@@ -1,0 +1,202 @@
+[
+  {
+    "title": "في التفاعل الآتي : <span dir='ltr' style='display: inline-block'><i>H</i><sub>2(g)</sub> + <i>Cl</i><sub>2(g)</sub> &rarr; 2<i>HCl</i><sub>(g)</sub></span><span dir='ltr' style='display: inline-block'> &Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup> = -184 <i>KJ</i></span> تكون انتالبية التفكك القياسية لغاز كلوريد الهيدروجين تساوي:",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "<span dir='ltr'>+92<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>-92<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>+184<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>-184<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "ra": "1"
+  },
+  {
+    "title": "حرارة الاحتراق القياسية لمولين من الهيدروجين وفق المعادلة: <span dir='ltr' style='display: inline-block'>2<i>H</i><sub>2</sub> + <i>O</i><sub>2</sub> &rarr; 2<i>H</i><sub>2</sub><i>O</i><sub>(<i>l</i>)</sub></span><span dir='ltr' style='display: inline-block'> &Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup> = -572 <i>KJ</i></span>",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<span dir='ltr'>-572<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>-286<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>-572<i>KJ</i></span>",
+    "a-4": "<span dir='ltr'>+286<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "اذا كانت حرارة تأين حمض الخل تساوي <span dir='ltr' style='display: inline-block'>(+25.6<i>KJ.mol</i><sup>-1</sup>)</span>  فإن حرارة تعديله القياسية مع هيدروكسيد الصوديوم تساوي:",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<span dir='ltr'>+32.1<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>-57.7<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>-32.1<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>+572<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "يقل ثبات المركب حراريا :",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "كلما ازدادت الحرارة التي يمتصها عند تكونه",
+    "a-2": "كلما قلت الحرارة التي يمتصها عند تكونه",
+    "a-3": "كلما ازدادت الحرارة التي ينشرها عند تكونه",
+    "a-4": "كل ما سبق",
+    "ra": "1"
+  },
+  {
+    "title": "قيمة تغير الإنتالبية لأي تفاعل كيميائي تحت ضغط ثابت تساوي قيمة ثابتة سواء تم التفاعل في خطوة واحدة أو عدة خطوات:",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "حرارة التعديل",
+    "a-2": "حرارة الاحتراق",
+    "a-3": "قانون هس",
+    "a-4": "قاعدة لوشاتولييه",
+    "ra": "3"
+  },
+  {
+    "title": "لديك التفاعل الآتي : <span dir='ltr' style='display: inline-block'>2<i>HCl</i><sub>(g)</sub> + <i>F</i><sub>2(g)</sub> &rarr; 2<i>HF</i><sub>(g)</sub> + <i>Cl</i><sub>2(g)</sub></span><span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup> = -356<i>KJ</i></span> اذا علمت أن : <span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>HCl</i>)</sub> = -92<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span> تكون انتالبية التكون القياسية ل فلوريد الهيدروجين <span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>HF</i>)</sub></span> تساوي:",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "<span dir='ltr'>-32.4<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>-244<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>-270<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>-450<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "في التفاعل الآتي : <span dir='ltr' style='display: inline-block'>2<i>Hl</i><sub>(g)</sub> &rarr; <i>H</i><sub>2(g)</sub> + <i>I</i><sub>2(g)</sub></span><span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup> = -50<i>KJ</i></span> فإن انتالبية التفكك القياسية ليوديد الهيدروجين  تساوي:",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "<span dir='ltr'>-50<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>+50<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>-25<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>+25<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "فرع من فروع الكيمياء يهتم بدراسة التغيرات الحرارية التي ترافق التفاعل الكيميائي:",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "الكيمياء الذرية",
+    "a-2": "الكيمياء النووية",
+    "a-3": "الكيمياء التحليلية",
+    "a-4": "الكيمياء الحرارية",
+    "ra": "4"
+  },
+  {
+    "title": "لديك التفاعل الآتي : <span dir='ltr' style='display: inline-block;'><i>CH</i><sub>3</sub> - <i>CH</i><sub>2</sub> - <i>OH</i> &rarr; <i>H</i><sub>2</sub><i>O</i> + <i>C</i><sub>2</sub><i>H</i><sub>4</sub></span> <span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup> = +32<i>KJ</i></span> و بالإعتماد على جدول طاقات الروابط الآتي : <div class='random-change' style='margin: 5px 0'><div class='row'><span style='padding: 5px'><i>O</i>-<i>H</i></span><span style='padding: 5px'><i>C</i>=<i>C</i></span><span style='padding: 5px'><i>C</i>-<i>C</i></span><span style='padding: 5px'><i>C</i>-<i>H</i></span></div><div class='row'><span style='padding: 5px'>463</span><span style='padding: 5px'>615</span><span style='padding: 5px'>344</span><span style='padding: 5px'>415</span></div></div> تكون قيمة طاقة الرابطة <span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub><i>b</i>(<i>C</i>-<i>O</i>)</sub></span> تساوي :",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "<span dir='ltr'>+526<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>+351<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>+430<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>+332<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "ra": "2"
+  },
+  {
+    "title": "اذا كانت حرارة التكون القياسية للمركبات الآتية: <span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>N</i><sub>2</sub><i>O</i>)</sub> = 81.5<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span> <span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>N</i><sub>2</sub><i>O</i><sub>4</sub>)</sub> = 9.6<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span><span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>H</i><sub>2</sub><i>SO</i><sub>4</sub>)</sub> = -814<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span><span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>HCl</i>)</sub> = -92<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span> إن أكثر المركبات ثبات حراريا هو:",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "<span dir='ltr'><i>N</i><sub>2</sub><i>O</i><sub>4</sub></span>",
+    "a-2": "<span dir='ltr'><i>H</i><sub>2</sub><i>SO</i><sub>4</sub></span>",
+    "a-3": "<span dir='ltr'><i>HCl</i></span>",
+    "a-4": "<span dir='ltr'><i>N</i><sub>2</sub><i>O</i></span>",
+    "ra": "2"
+  },
+  {
+    "title": "اذا علمت أن : <span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>CO</i>)</sub> = -110.5<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span><span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>CO</i><sub>2</sub>)</sub> = -393.5<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span><span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>H</i><sub>2</sub><i>O</i>)</sub> = -241.8<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span> يكون تغير إنتالبية التفاعل الآتي: <span dir='ltr' style='display: inline-block'><i>CO</i><sub>2(g)</sub> + <i>H</i><sub>2</sub> &rarr; <i>CO</i><sub>(g)</sub> + <i>H</i><sub>2</sub><i>O</i><sub>(g)</sub></span>",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<span dir='ltr'>-572<i>KJ</i></span>",
+    "a-2": "<span dir='ltr'>-41.2<i>KJ</i></span>",
+    "a-3": "<span dir='ltr'>-256.2<i>KJ</i></span>",
+    "a-4": "<span dir='ltr'>+41.2<i>KJ</i></span>",
+    "ra": "4"
+  },
+  {
+    "title": "اذا كانت حرارة تعديل حمض النمل مع هيدروكسيد البوتاسيوم تساوي <span dir='ltr' style='display: inline-block'>-20.3<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span> فإن حرارة تأينه تساوي:",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "<span dir='ltr'>-37.4<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>+37.4<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>-57.7<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>-20.6<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "ra": "2"
+  },
+  {
+    "title": "بالإعتماد على المعادلات الآتية : <span dir='ltr' style='display: inline-block; padding: 5px 0'><i>C</i><sub>(<i>s</i>)</sub> + <i>O</i><sub>2(g)</sub> &rarr; <i>CO</i><sub>2(g)</sub></span> <span dir='ltr' style='display: inline-block;'>&Delta;<i>H</i><sup style='font-size: 12px;'>&deg;</sup><sub style='margin-left: -5px;'>1</sub> = -393.5 <i>KJ.mol</i><sup style='font-size: 12px;'>-1</sup></span><span dir='ltr' style='display: inline-block; padding: 5px 0'><i>H</i><sub>2</sub> + 1/2 <i>O</i><sub>2</sub> &rarr; <i>H</i><sub>2</sub><i>O</i><sub>(<i>l</i>)</sub></span><span dir='ltr' style='display: inline-block;'>&Delta;<i>H</i><sup style='font-size: 12px;'>&deg;</sup><sub style='margin-left: -5px;'>2</sub> = -286 <i>KJ.mol</i><sup style='font-size: 12px;'>-1</sup></span><span dir='ltr' style='display: inline-block; padding: 5px 0'><i>CH</i><sub>4(g)</sub> + 2 <i>O</i><sub>2(g)</sub> &rarr; <i>CO</i><sub>2(g)</sub> + 2<i>H</i><sub>2</sub><i>O</i></span><span dir='ltr' style='display: inline-block;'>&Delta;<i>H</i><sup style='font-size: 12px;'>&deg;</sup><sub style='margin-left: -5px;'>3</sub> = -890 <i>KJ.mol</i><sup style='font-size: 12px;'>-1</sup></span> تكون قيمة تغير انتالبية التفاعل الأتي: <span dir='ltr' style='display: inline-block;'><i>C</i> + 2<i>H</i><sup>2</sup> &rarr; <i>CH</i><sup>4</sup></span>",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "<span dir='ltr'>+210.5<i>KJ</i></span>",
+    "a-2": "<span dir='ltr'>-75.5<i>KJ</i></span>",
+    "a-3": "<span dir='ltr'>-210.5<i>KJ</i></span>",
+    "a-4": "<span dir='ltr'>-1569.5<i>KJ</i></span>",
+    "ra": "2"
+  },
+  {
+    "title": "لديك التفاعل الآتي : <span dir='ltr' style='display: inline-block; padding: 5px 0'>2<i>C</i><sub>2</sub><i>H</i><sub>2</sub> + 5<i>O</i><sup>2</sup> &rarr; 4<i>CO</i><sub>2</sub> + 2<i>H</i><sub>2</sub><i>O</i></span><span style='display: inline-block;'> بالإعتماد على الجدول الآتي:</span><div class='random-change' style='margin: 5px 0;'><div class='row'><span style='padding: 5px;'><i>C</i><sub>2</sub><i>H</i><sub>2</sub></span><span style='padding: 5px;'><i>H</i><sub>2</sub><i>O</i></span><span style='padding: 5px;'><i>CO</i><sub>2</sub></span><span style='padding: 5px;'>المركب</span></div><div class='row' style='font-size : 13px'><span style='padding: 5px;'>+182.5<i>KJ.mol</i><sup style='font-size: 12px;'>-1</sup></span><span style='padding: 5px;'>-286<i>KJ.mol</i><sup style='font-size: 12px;'>-1</sup></span><span style='padding: 5px;'>-393.5<i>KJ.mol</i><sup style='font-size: 12px;'>-1</sup></span><span style='padding: 5px;'>&Delta;<i>H</i><sup style='font-size: 12px;'>&deg;</sup><sub><i>f</i></sub></span></div></div> تكون انتالبية التفاعل تساوي :",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<span dir='ltr'>-2100.5<i>KJ</i></span>",
+    "a-2": "<span dir='ltr'>+1781<i>KJ</i></span>",
+    "a-3": "<span dir='ltr'>-1781<i>KJ</i></span>",
+    "a-4": "<span dir='ltr'>-2511<i>KJ</i></span>",
+    "ra": "4"
+  },
+  {
+    "title": "إن قيمة الطاقة الكيميائية التي اختزنت في المادة أثناء تكوينها هي:",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "حرارة الاحتراق",
+    "a-2": "حرارة التعديل",
+    "a-3": "إنتالبية التفكك",
+    "a-4": "حرارة التفاعل",
+    "ra": "4"
+  },
+  {
+    "title": "اذا كانت حرارة التكون القياسية للحموض الأتية : <span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>H</i><sub>2</sub><i>SO</i><sub>4</sub>)</sub> = -814<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span><span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>HCl</i>)</sub> = -92<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span><span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>HNO</i><sub>3</sub>)</sub> = -173<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span><span dir='ltr' style='display: inline-block; padding: 0 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup><sub style='margin-left: -10px'><i>f </i>(<i>CH</i><sub>3</sub><i>COOH</i>)</sub> = -487<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span> إن أقل الحموض ثبات حراريا هو:",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<span dir='ltr'><i>HCl</i></span>",
+    "a-2": "<span dir='ltr'><i>HNO</i><sub>3</sub></span>",
+    "a-3": "<span dir='ltr'><i>CH</i><sub>3</sub><i>COOH</i></span>",
+    "a-4": "<span dir='ltr'><i>H</i><sub>2</sub><i>SO</i><sub>4</sub></span>",
+    "ra": "1"
+  },
+  {
+    "title": "الحالة التي توجد فيها المادة بشكلها الثابت المستقر عند الضغط القياسي:",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "الحالة الصلبة",
+    "a-2": "الحالة القياسية",
+    "a-3": "الحالة الغازية",
+    "a-4": "الحالة السائلة",
+    "ra": "2"
+  },
+  {
+    "title": "كمية الحرارة المنطلقة عند احتراق مول واحد من المادة احتراقا تاما بوجود كمية كافية وافرة من الأوكسجين في الشروط القياسية:",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "حرارة الاحتراق",
+    "a-2": "إنتالبية التكون القياسية",
+    "a-3": "حرارة التعديل القياسية",
+    "a-4": "إنتالبية التفكك القياسية",
+    "ra": "1"
+  },
+  {
+    "title": "في التفاعل الآتي : <span dir='ltr' style='display: inline-block; padding: 5px 0;'><i>H</i><sub>2(g)</sub> + <i>Cl</i><sub>2(g)</sub> &rarr; 2<i>HCl</i><sub>(g)</sub></span> <span style='padding: 5px;'>&Delta;<i>H</i><sup style='font-size: 12px;'>&deg;</sup> = -184 <i>KJ</i></span> تكون انتالبية التكون القياسية لغاز الكلور تساوي:",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "<span dir='ltr'>+92<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>-92<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>-184<i>KJ.mol</i><sup style='font-size: 12px'>-1</sup></span>",
+    "a-4": "0",
+    "ra": "4"
+  },
+  {
+    "title": "كمية الحرارة المنطلقة نتيجة تكون مول واحد من الماء عند تعادل حمض مع اساس في المحاليل الممددة:",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "إنتالبية التفكك القياسية",
+    "a-2": "إنتالبية التكون القياسية",
+    "a-3": "إنتالبية التكون القياسية",
+    "a-4": "حرارة الإحتراق القياسية",
+    "ra": "3"
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "title": "<p style='line-height: 1.5'>ليكن <span dir='ltr' style='display: inline-block'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>U</span>(-1 , 2 , 0) , <span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>V</span>(0 , 3 , -1)</span> متجهين في الفضاء إن <span dir='ltr' style='display: inline-block'>2<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>U</span> - <span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>V</span></span> هو : </p>",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "<span dir='ltr'>(-2 , 1 , 1)</span>",
+    "a-2": "<span dir='ltr'>(-2 , 1 , -1)</span>",
+    "a-3": "<span dir='ltr'>(2 , 7 , 1)</span>",
+    "a-4": "<span dir='ltr'>(-1 , 5 , -1)</span>",
+    "ra": "1"
+  },
+  {
+    "title": "<p>ليكن في الفضاء المتجهان <span dir='ltr' style='display: inline-block'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>U</span>(1 , 2 , 3) , <span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>V</span>(-4 , 0 , 1)</span> فإن الجداء السلمي لهما يساوي : </p>",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "0",
+    "a-2": "1",
+    "a-3": "-1",
+    "a-4": "2",
+    "ra": "3"
+  },
+  {
+    "title": "<p>ليكن المتجهين <span dir='ltr' style='display: inline-block'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>U</span>(1 , 1 , 0) , <span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>V</span>(0 , 1 , 1)</span> إن قياس الزاوية بين هذين المتجهين هي : </p>",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>6</span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>3</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>4</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>2</span></div></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<p style='line-height: 1.5'>إن قيم a و b التي تجعل المتجهين <span dir='ltr' style='display: inline-block'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>U</span>(a , -2 , 3) , <span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>V</span>(-3 , 6 , b)</span> مرتبطان خطيا هي : </p>",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "<span dir='ltr'>a = 1 , b = 9</span>",
+    "a-2": "<span dir='ltr'>a = -1 , b = -9</span>",
+    "a-3": "<span dir='ltr'>a = 1 , b = -9</span>",
+    "a-4": "<span dir='ltr'>a = -1 , b = 9</span>",
+    "ra": "3"
+  },
+  {
+    "title": "<p style='line-height: 1.5'>إن قيمة &lambda; التي تجعل المتجهين <span dir='ltr' style='display: inline-block'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>U</span>(&lambda; , 2 , 3) , <span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>V</span>(-4 , -1 , &lambda;)</span> متعامدين هي : </p>",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "1",
+    "a-2": "2",
+    "a-3": "-1",
+    "a-4": "-2",
+    "ra": "4"
+  },
+  {
+    "title": "<p style='line-height: 1.5'>إن الجداء الخارجي <span dir='ltr' style='display: inline-block;'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>U</span>&and;<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>V</span></span> للمتجهين <span dir='ltr' style='display: inline-block;'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>V = -2<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>i</i></span> + 2<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>j</i></span></span></span><span dir='ltr' style='display: inline-block'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span>U</span> = 1<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>i</i></span> + 2<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>j</i></span> - 3<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>k</i></span></span> يساوي : </p>",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "<span dir='ltr'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>i</i></span> + 6<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>j</i></span> - 6<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>k</i></span></span>",
+    "a-2": "<span dir='ltr'>6<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>i</i></span> + 6<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>j</i></span> + 6<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>k</i></span></span>",
+    "a-3": "<span dir='ltr'>6<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>i</i></span> + 2<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>j</i></span> - 6<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>k</i></span></span>",
+    "a-4": "<span dir='ltr'>6<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>i</i></span> + 6<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>j</i></span> - 6<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>k</i></span></span>",
+    "ra": "2"
+  },
+  {
+    "title": "<p style='line-height: 1.5'> إذا كانت <span dir='ltr' style='display: inline-block'>M(2 , -1 , -2) , N(1 , 2 , -3)</span> نقطيتن في الفضاء فيكون <span dir='ltr' style='display: inline-block'><span class='top-rarr'><span class='rarr' style='top: -16px; left: 3px; font-size: 24px'>&rarr;</span>MN</span></span> يساوي : </p>",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "<span dir='ltr'><span class='top-rarr'><span class='rarr' style='top: -16px; left: 3px; font-size: 24px'>&rarr;</span>MN</span>(3 , 1 , -5)</span>",
+    "a-2": "<span dir='ltr'><span class='top-rarr'><span class='rarr' style='top: -16px; left: 3px; font-size: 24px'>&rarr;</span>MN</span>(-1 , -3 , 1)</span>",
+    "a-3": "<span dir='ltr'><span class='top-rarr'><span class='rarr' style='top: -16px; left: 3px; font-size: 24px'>&rarr;</span>MN</span>(1 , -3 , -5)</span>",
+    "a-4": "<span dir='ltr'><span class='top-rarr'><span class='rarr' style='top: -16px; left: 3px; font-size: 24px'>&rarr;</span>MN</span>(-1 , 3 , -1)</span>",
+    "ra": "4"
+  },
+  {
+    "title": "<p>إذا كانت <span dir='ltr' style='display: inline-block'>A(3 , 5 , -3) , B(2 , 3 , -1) , C(1 , 2 , <i>a</i>)</span> نقاط في الفضاء عندئذ قيمة <i>a</i> التي تجعل المثلث قائم في A هي : </p>",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "1",
+    "a-2": "7",
+    "a-3": "-1",
+    "a-4": "-7",
+    "ra": "4"
+  },
+  {
+    "title": "<p>إذا كانت <span dir='ltr' style='display: inline-block'>A(3 , 2 , -4) , B(9 , 8 , -10) , C(5 , <i>a</i> , -6)</span> نقاط في الفضاء عندئذ قيمة <i>a</i> التي تجعل النقاط <span dir='ltr' style='display: inline-block'>A , B , C</span> على استقامة واحدة هي : </p>",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "3",
+    "a-2": "4",
+    "a-3": "-3",
+    "a-4": "-4",
+    "ra": "2"
+  },
+  {
+    "title": "<p>لتكن النقاط <span dir='ltr' style='display: inline-block'>A(3 , -1 , 1) , B(1 , 0 , 1) , C(2 , 1 , 0)</span>إن مساحة المثلث ABC هي : </p>",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "5",
+    "a-2": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 4px;'>14</span></span><span class='bottom'>2</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>3&radic;<span class='under-radic' style='margin-left: 4px;'>2</span></span><span class='bottom'>2</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 4px;'>11</span></span><span class='bottom'>2</span></div></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<p>لتكن النقاط <span dir='ltr' style='display: inline-block'>A(1 , -1 , 2) , B(2 , 1 , -1) , C(0 , 3 , -1)</span>إن مساحة المثلث ABC هي : </p>",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "5",
+    "a-2": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 4px;'>14</span></span><span class='bottom'>2</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'>3&radic;<span class='under-radic'>3</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 4px;'>11</span></span><span class='bottom'>2</span></div></div>",
+    "ra": "3"
+  },
+  {
+    "title": "<p>إذا كانت النقاط <span dir='ltr' style='display: inline-block'>A(1 , 1 , 1) , B(3 , 0 , 1) , C(2 , 1 , 2)</span> تشكل رؤوس مثلث فإن قيمة <span dir='ltr' style='display : inline-block'>cosA</span> هي : </p>",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>2</span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>2</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>10</span></span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>3&radic;<span class='under-radic' style='margin-left: 4px;'>2</span></span><span class='bottom'>2</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 4px;'>11</span></span><span class='bottom'>2</span></div></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<p>إن المتجه الناظم على المستوي الذي معادلته <span dir='ltr' style='display: inline-block'>5z - 2<i>y</i> + <i>x</i> - 4 = 0</span> هو المتجه : </p>",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "<span dir='ltr'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>n</i></span> = <span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>i</i></span> - 2<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>j</i></span> + 5<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>k</i></span></span>",
+    "a-2": "<span dir='ltr'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>n</i></span> = 5<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>i</i></span> - 2<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>j</i></span> + 1<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>k</i></span></span>",
+    "a-3": "<span dir='ltr'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>n</i></span> = <span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>i</i></span> - 2<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>j</i></span> - 4<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>k</i></span></span>",
+    "a-4": "<span dir='ltr'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>n</i></span> = 5<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>i</i></span> - 2<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>j</i></span> - 4<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>k</i></span></span>",
+    "ra": "1"
+  },
+  {
+    "title": "<p>إن معادلة المستوي المار بالنقطة <span dir='ltr' style='display: inline-block'>A(2 , 5 , 1)</span> والذي يقبل <span dir='ltr' style='display: inline-block'><span class='top-rarr'><span class='rarr'>&rarr;</span><i>n</i></span>(2 , -3 , 1)</span> ناظما له هي : </p>",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<span dir='ltr'>2<i>x</i> - 3<i>y</i> + z + 10 = 0</span>",
+    "a-2": "<span dir='ltr'>2<i>x</i> - 3<i>y</i> + z - 10 = 0</span>",
+    "a-3": "<span dir='ltr'>2<i>x</i> + 3<i>y</i> + z - 10 = 0</span>",
+    "a-4": "<span dir='ltr'>2<i>x</i> + 3<i>y</i> + z + 10 = 0</span>",
+    "ra": "1"
+  },
+  {
+    "title": "<p>إن معادلة المستوي المار من مبدأ الاحداثيات ويقبل المتجه <span dir='ltr' style='display: inline-block'><span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>n</i></span> = <span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>i</i></span> + <span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>j</i></span> - 3<span class='top-rarr'><span class='rarr' style='top : -8px'>&rarr;</span><i>k</i></span></span> ناظما له هييي : </p>",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "<span dir='ltr'><i>x</i> + <i>y</i> + 3z = 0</span>",
+    "a-2": "<span dir='ltr'><i>x</i> + <i>y</i> - 3z = 0</span>",
+    "a-3": "<span dir='ltr'>-<i>x</i> + 2<i>y</i> + z + 2 = 0</span>",
+    "a-4": "<span dir='ltr'><i>x</i> + <i>y</i> + z + 1 = 0</span>",
+    "ra": "2"
+  },
+  {
+    "title": "<p>إن معادلة المستوي المار بالنقطة <span dir='ltr' style='display: inline-block'>A(-1 , 2 , 3)</span> والعامودي على المستقيم <span dir='ltr' style='display: inline-block'>(BC)</span> حيث <span dir='ltr' style='display: inline-block'>B(1 , 1 , 2) , C(-1 , 1 , 4)</span> هي : </p>",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<span dir='ltr'>2<i>x</i> - 3<i>y</i> + z + 10 = 0</span>",
+    "a-2": "<span dir='ltr'>2<i>x</i> - 3<i>y</i> + z - 10 = 0</span>",
+    "a-3": "<span dir='ltr'>-2<i>x</i> + 2z - 8  = 0</span>",
+    "a-4": "<span dir='ltr'>2<i>x</i> - 2z - 8  = 0</span>",
+    "ra": "3"
+  },
+  {
+    "title": "<p>إن معادلة المستوي المار من منتصف القطعة المستقيمة <span dir='ltr' style='display: inline-block'>[AB]</span> والعامودي عليها حيث <span dir='ltr' style='display: inline-block'>A(1 , 5 , 2) , B(3 , 1 , -2)</span> هي : </p>",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "<span dir='ltr'><i>x</i> - <i>y</i> + z - 2 = 0</span>",
+    "a-2": "<span dir='ltr'><i>x</i> + <i>y</i> + z - 2 = 0</span>",
+    "a-3": "<span dir='ltr'><i>x</i> - <i>y</i> - z + 2 = 0</span>",
+    "a-4": "<span dir='ltr'><i>x</i> + <i>y</i> - z - 2 = 0</span>",
+    "ra": "3"
+  },
+  {
+    "title": "<p>إن معادلة المستوي المحوري للقطعة المستقيمة <span dir='ltr' style='display: inline-block'>[AB]</span> حيث <span dir='ltr' style='display: inline-block'>A(0 , 2 , -3) , B(2 , 0 , 1)</span> هي : </p>",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "<span dir='ltr'>2<i>x</i> - <i>y</i> + z + 10 = 0</span>",
+    "a-2": "<span dir='ltr'>2<i>x</i> - <i>y</i> + 2z - 1 = 0</span>",
+    "a-3": "<span dir='ltr'>2<i>x</i> - <i>y</i> + 2z + 2 = 0</span>",
+    "a-4": "<span dir='ltr'>2<i>x</i> + <i>y</i> + 2z + 2 = 0</span>",
+    "ra": "3"
+  },
+  {
+    "title": "<p>إن معادلة المستوي المحوري p المؤلف من النقاط المتساوي البعد عن طرفي القطعة المستقيمة <span dir='ltr' style='display: inline-block'>[AB]</span> حيث <span dir='ltr' style='display: inline-block'>A(-2 , 1 , 5) , B(0 , 3 , -1)</span> هي : </p>",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "<span dir='ltr'><i>x</i> - <i>y</i> + 3z + 5 = 0</span>",
+    "a-2": "<span dir='ltr'><i>x</i> - <i>y</i> - 3z - 5 = 0</span>",
+    "a-3": "<span dir='ltr'><i>x</i> + <i>y</i> - 3z + 5 = 0</span>",
+    "a-4": "<span dir='ltr'><i>x</i> + <i>y</i> - 3z - 5 = 0</span>",
+    "ra": "3"
+  },
+  {
+    "title": "<p>إن معادلة المستوي المار من النقاط <span dir='ltr' style='display: inline-block'>A(1 , -1 , 2) , B(1 , -3 , 5) , C(4 , -1 , 2)</span> هي : </p>",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "<span dir='ltr'>3<i>x</i> + 2z + 1 = 0</span>",
+    "a-2": "<span dir='ltr'>3<i>x</i> - 2<i>y</i> - 1 = 0</span>",
+    "a-3": "<span dir='ltr'>3<i>y</i> + 2z - 1 = 0</span>",
+    "a-4": "<span dir='ltr'><i>y</i> + 2z - 1 = 0</span>",
+    "ra": "3"
+  },
+  {
+    "title": "<p style='line-height: 1.5'>إن معادلة المستوي المار بالنقطة <span dir='ltr' style='display: inline-block'>M(-1 , 2 , 3)</span> والموازي للمتجهين <span dir='ltr' style='display: inline-block'><span class='top-rarr'><span class='rarr' style='top: -8px;'>&rarr;</span>V</span>(-1 , 1 , 0) , <span class='top-rarr'><span class='rarr' style='top: -8px;'>&rarr;</span>U</span>(1 , 1 , 2)</span> هي : </p>",
+    "name": "a-21",
+    "id": "21-",
+    "a-1": "<span dir='ltr'><i>x</i> + <i>y</i> - z + 1 = 0</span>",
+    "a-2": "<span dir='ltr'><i>x</i> + <i>y</i> - z - 1 = 0</span>",
+    "a-3": "<span dir='ltr'><i>x</i> + <i>y</i> - z - 2 = 0</span>",
+    "a-4": "<span dir='ltr'><i>x</i> + <i>y</i> - z + 2 = 0</span>",
+    "ra": "4"
+  },
+  {
+    "title": "<p>إن بعد النقطة <span dir='ltr' style='display: inline-block'>A(2 , 3 , 1)</span> عن المستوي P الذي معادلته <span dir='ltr' style='display: inline-block'>3<i>x</i> + 4<i>y</i> - 12z + 7 = 0</span> هو : </p>",
+    "name": "a-22",
+    "id": "22-",
+    "a-1": "1",
+    "a-2": "2",
+    "a-3": "13",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>13</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>14</span></span></div></div>",
+    "ra": "1"
+  },
+  {
+    "title": "<p>لتكن <span dir='ltr' style='display: inline-block'>A(3 , 1 , 2)</span> نقطة من الفضاء و P مستوي معادلته <span dir='ltr' style='display: inline-block'>4<i>x</i> - 12<i>y</i> + 3z + 7 = 0</span> إن طول العمود المرسوم من A على المستوي P هو : </p>",
+    "name": "a-23",
+    "id": "23-",
+    "a-1": "10",
+    "a-2": "5",
+    "a-3": "13",
+    "a-4": "1",
+    "ra": "4"
+  },
+  {
+    "title": "<p>المعادلة التي تمثل معادلة مستوي يوازي محور الفواصل x'x هي : </p>",
+    "name": "a-24",
+    "id": "24-",
+    "a-1": "<span dir='ltr'>2<i>x</i> - 3<i>y</i> + 10 = 0</span>",
+    "a-2": "<span dir='ltr'>2<i>x</i> + z - 1 = 0</span>",
+    "a-3": "<span dir='ltr'><i>x</i> = 3</span>",
+    "a-4": "<span dir='ltr'><i>y</i> - z + 4 = 0</span>",
+    "ra": "4"
+  },
+  {
+    "title": "<p>المعادلة التي تمثل معادلة مستوي يوازي محور الرواقم z'z ويمر من مبدأ الاحداثيات هي : </p>",
+    "name": "a-25",
+    "id": "25-",
+    "a-1": "<span dir='ltr'>2<i>x</i> - 3z + 10 = 0</span>",
+    "a-2": "<span dir='ltr'>7<i>x</i> + 2<i>y</i> = 0</span>",
+    "a-3": "<span dir='ltr'>z = -3</span>",
+    "a-4": "<span dir='ltr'><i>x</i> - <i>y</i> = 3</span>",
+    "ra": "2"
+  },
+  {
+    "title": "<p>المعادلة التي تمثل معادلة مستوي يوازي المستوي XOZ هي : </p>",
+    "name": "a-26",
+    "id": "26-",
+    "a-1": "<span dir='ltr'>2<i>x</i> - 3z = 1</span>",
+    "a-2": "<span dir='ltr'><i>x</i> = 0</span>",
+    "a-3": "<span dir='ltr'>z = -3</span>",
+    "a-4": "<span dir='ltr'><i>y</i> = 3</span>",
+    "ra": "4"
+  },
+  {
+    "title": "<p><p>المعادلة التي تمثل معادلة مستوي يوازي المستوي YOZ هي : </p></p>",
+    "name": "a-27",
+    "id": "27-",
+    "a-1": "<span dir='ltr'>2<i>y</i> - 3z = 1</span>",
+    "a-2": "<span dir='ltr'><i>x</i> = 1</span>",
+    "a-3": "<span dir='ltr'>z = -3</span>",
+    "a-4": "<span dir='ltr'><i>y</i> = 0</span>",
+    "ra": "2"
+  },
+  {
+    "title": "<p>إن المسقط القائم للنقطة <span dir='ltr' style='display: inline-block'>A(-6 , 2 , -1)</span> على المستوي P الذي معادلته <span dir='ltr' style='display: inline-block'>5<i>x</i> - <i>y</i> + z + 6 = 0</span> هو النقطة 'A : </p>",
+    "name": "a-28",
+    "id": "28-",
+    "a-1": "<span dir='ltr'>A'(-1 , 1 , 0)</span>",
+    "a-2": "<span dir='ltr'>A'(-1 , 1 , 2)</span>",
+    "a-3": "<span dir='ltr'>A'(-1 , 2 , 1)</span>",
+    "a-4": "<span dir='ltr'>A'(-1 , 0 , 2)</span>",
+    "ra": "1"
+  },
+  {
+    "title": "<p>إن معادلة المستوي المار من النقطة <span dir='ltr' style='display: inline-block'>A(-1 , 2 , 3)</span> والموازي للمستوي Q الذي معادلته <span dir='ltr' style='display: inline-block'>2<i>x</i> - <i>y</i> + z - 5 = 0</span> هي : </p>",
+    "name": "a-29",
+    "id": "29-",
+    "a-1": "<span dir='ltr'>2<i>x</i> - <i>y</i> + z - 2 = 0</span>",
+    "a-2": "<span dir='ltr'>2<i>x</i> - <i>y</i> + z + 1 = 0</span>",
+    "a-3": "<span dir='ltr'>2<i>x</i> - <i>y</i> + z - 1 = 0</span>",
+    "a-4": "<span dir='ltr'>2<i>x</i> - <i>y</i> + z + 2 = 0</span>",
+    "ra": "2"
+  },
+  {
+    "title": "<p>إن معادلة المستوي العامودي على المستوي Q الذي معادلته <span dir='ltr' style='display: inline-block;'><i>x</i> + 2<i>y</i> + 2z + 8 = 0 </span> والمار من النقطتين <span dir='ltr' style='display: inline-block;'>A(-3 , -1 , 2) , B(-2 , 1 , 3)</span> هي : </p>",
+    "name": "a-30",
+    "id": "30-",
+    "a-1": "<span dir='ltr'>2<i>x</i> - <i>y</i> = -5</span>",
+    "a-2": "<span dir='ltr'><i>x</i> + 2<i>y</i> + z - 2 = 0</span>",
+    "a-3": "<span dir='ltr'>2<i>x</i> - <i>y</i> = 3</span>",
+    "a-4": "<span dir='ltr'><i>x</i> - 2<i>y</i> + z - 2 = 0</span>",
+    "ra": "1"
+  },
+  {
+    "title": "<p>إن معادلة المستوي P المار من النقطة <span dir='ltr' style='display: inline-block'>A(0 , 1 , -1)</span> والذي يعامد المستويان <span dir='ltr' style='display: inline-block'>P<sub>1</sub> , P<sub>2</sub></span> حيث <span dir='ltr' style='display: inline-block'>P<sub>1</sub> : <i>x</i> + 2<i>y</i> + 1 = 0 </span> <span dir='ltr' style='display: inline-block'>P<sub>2</sub> : <i>x</i> + 2z - 8 = 0</span> هي : </p>",
+    "name": "a-31",
+    "id": "31-",
+    "a-1": "<span dir='ltr'>2<i>x</i> - <i>y</i> - z = 0</span>",
+    "a-2": "<span dir='ltr'>2<i>x</i> + <i>y</i> - z = 0</span>",
+    "a-3": "<span dir='ltr'>2<i>x</i> - <i>y</i> - z = 1</span>",
+    "a-4": "<span dir='ltr'>2<i>x</i> + 2<i>y</i> - z = 2</span>",
+    "ra": "1"
+  },
+  {
+    "title": "<p>إن البعد بين المستويين المتوازيين <span dir='ltr' style='display: inline-block;'>P<sub>1</sub> , P<sub>2</sub></span> الآتيين : <span dir='ltr' style='display: inline-block'>P<sub>1</sub> , P<sub>2</sub></span> حيث <span dir='ltr' style='display: inline-block'>P<sub>1</sub> : <i>x</i> - 2<i>y</i> - 3z - 8 = 0 </span> <span dir='ltr' style='display: inline-block'>P<sub>2</sub> : -2<i>x</i> + 4<i>y</i> + 6z - 18 = 0</span> هو : </p>",
+    "name": "a-32",
+    "id": "32-",
+    "a-1": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>3</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>11</span></span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>56</span></span></div></div>",
+    "a-3": "1",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>17</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>14</span></span></div></div>",
+    "ra": "4"
+  },
+  {
+    "title": "<p>إن تجيب الزاوية الحادة بين المستويين المتقاطعين : <span dir='ltr' style='display: inline-block;'>P<sub>1</sub> , P<sub>2</sub></span> الآتيين : <span dir='ltr' style='display: inline-block'>P<sub>1</sub> , P<sub>2</sub></span> حيث <span dir='ltr' style='display: inline-block'>P<sub>1</sub> : <i>x</i> - <i>y</i> + 3z = 10 </span> <span dir='ltr' style='display: inline-block'>P<sub>2</sub> : 2<i>x</i> - <i>y</i> + 2z = 1</span> يساوي : </p>",
+    "name": "a-33",
+    "id": "33-",
+    "a-1": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>2</span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>3</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>11</span></span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>3&radic;<span class='under-radic' style='margin-left: 4px;'>2</span></span><span class='bottom'>2</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>2</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>11</span></span></div></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<p>إن قيمة &lambda; التي تجعل المستويين <span dir='ltr' style='display: inline-block'>P<sub>1</sub> , P<sub>2</sub></span> الآتيين : <span dir='ltr' style='display: inline-block'>P<sub>1</sub> , P<sub>2</sub></span> حيث <span dir='ltr' style='display: inline-block'>P<sub>1</sub> : -4<i>x</i> - <i>y</i> + &lambda;z = 0 </span> <span dir='ltr' style='display: inline-block'>P<sub>2</sub> : &lambda;<i>x</i> + 2<i>y</i> + 3z + 1 = 0</span> متعامدان هي : </p>",
+    "name": "a-34",
+    "id": "34-",
+    "a-1": "1",
+    "a-2": "2",
+    "a-3": "-1",
+    "a-4": "-2",
+    "ra": "4"
+  },
+  {
+    "title": "<p>إن بعد النقطة <span dir='ltr' style='display: inline-block'>A(0 , 1 , -1)</span> عن الفصل المشترك للمستويين المتعامدين <span dir='ltr' style='display: inline-block'>P<sub>1</sub> , P<sub>2</sub></span> اللذان معادلتهما <span dir='ltr' style='display: inline-block'>P<sub>1</sub> : -<i>x</i> + 2<i>y</i> + z + 1 = 0 </span> <span dir='ltr' style='display: inline-block'>P<sub>2</sub> : 3<i>x</i> + <i>y</i> + z - 1 = 0</span> هو :  </p>",
+    "name": "a-35",
+    "id": "35-",
+    "a-1": "1",
+    "a-2": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>5</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>33</span></span></div></div>",
+    "a-3": "3",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>13</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>14</span></span></div></div>",
+    "ra": "2"
+  },
+  {
+    "title": "<p>إن البعد بين المستويين المتوازيين <span dir='ltr' style='display: inline-block'>P<sub>1</sub> , P<sub>2</sub></span> الآتيين : <span dir='ltr' style='display: inline-block'>P<sub>1</sub> : 8<i>x</i> - 4<i>y</i> - 2z + 15 = 0 </span> <span dir='ltr' style='display: inline-block'>P<sub>2</sub> : 4<i>x</i> - 2<i>y</i> - z + 7 = 0</span> هو : </p>",
+    "name": "a-36",
+    "id": "36-",
+    "a-1": "10",
+    "a-2": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>13</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>84</span></span></div></div>",
+    "a-3": "1",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>84</span></span></div></div>",
+    "ra": "4"
+  },
+  {
+    "title": "<p>إن بعد النقطة <span dir='ltr' style='display: inline-block'>A(0 , 1 , -1)</span> عن الفصل المشترك للمستويين المتعامدين <span dir='ltr' style='display: inline-block'>P<sub>1</sub> , P<sub>2</sub></span> اللذان معادلتهما <span dir='ltr' style='display: inline-block'>P<sub>1</sub> : -<i>x</i> + 2<i>y</i> + z + 1 = 0 </span> <span dir='ltr' style='display: inline-block'>P<sub>2</sub> : 3<i>x</i> + <i>y</i> + z - 8 = 0</span> هو : </p>",
+    "name": "a-37",
+    "id": "37-",
+    "a-1": "1",
+    "a-2": "2",
+    "a-3": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 4px;'>12</span></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>33</span></span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 4px;'>214</span></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 4px;'>33</span></span></div></div>",
+    "ra": "4"
+  }
+]

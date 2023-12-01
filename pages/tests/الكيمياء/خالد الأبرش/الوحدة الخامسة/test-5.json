@@ -1,0 +1,302 @@
+[
+  {
+    "title": "تفاعل حمض اساس حسب برونشتد- لوري هو:",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "انتقال البروتون من الحمض إلى الأساس",
+    "a-2": "انتقال زوج إلكتروني من الحمض إلى الأساس",
+    "a-3": "انتقال البروتون من الأساس إلى الحمض",
+    "a-4": "انتقال إلكتروني من الأساس إلى الحمض",
+    "ra": "1"
+  },
+  {
+    "title": "تركيز ال <span dir='ltr' style='display: inline-block'>[<i>HO</i><sup>-</sup>] , [<i>H</i><sub style='font-size: 10px'>3</sub><i>O</i><sup>+</sup>]</span> في الماء و المحاليل المعتدلة:",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<span dir='ltr'>[<i>HO</i><sup>-</sup>] = [<i>H</i><sub style='font-size: 10px'>3</sub><i>O</i><sup>+</sup>] = 10<sup>-14</sup> <i>mol.L</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'>[<i>HO</i><sup>-</sup>] &gt; [<i>H</i><sub style='font-size: 10px'>3</sub><i>O</i><sup>+</sup>]</span>",
+    "a-3": "<span dir='ltr'>[<i>HO</i><sup>-</sup>] = [<i>H</i><sub style='font-size: 10px'>3</sub><i>O</i><sup>+</sup>] = 10<sup>-7</sup> <i>mol.L</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'>[<i>HO</i><sup>-</sup>] &lt; [<i>H</i><sub style='font-size: 10px'>3</sub><i>O</i><sup>+</sup>]</span>",
+    "ra": "3"
+  },
+  {
+    "title": "المحلول الذي له أكبر قيمة <span dir='ltr' style='display: inline-block'>PH</span> عند تساوي التراكيز:",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<span dir='ltr'><i>NaOH</i></span>",
+    "a-2": "<span dir='ltr'><i>CH</i><sub style='font-size: 10px'>3</sub><i>COOH</i></span>",
+    "a-3": "<span dir='ltr'><i>HCl</i></span>",
+    "a-4": "<span dir='ltr'><i>NH</i><sub style='font-size: 10px'>3</sub></span>",
+    "ra": "1"
+  },
+  {
+    "title": "المحلول الذي له أصغر قيمة <span dir='ltr' style='display: inline-block'>PH</span> عند تساوي التراكيز:",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "<span dir='ltr'><i>NaCl</i></span>",
+    "a-2": "<span dir='ltr'><i>CH</i><sub style='font-size: 10px'>3</sub><i>COONa</i></span>",
+    "a-3": "<span dir='ltr'><i>NH</i><sub style='font-size: 10px'>4</sub><i>Cl</i></span>",
+    "a-4": "<span dir='ltr'><i>NaOH</i></span>",
+    "ra": "3"
+  },
+  {
+    "title": "في محلول مائي ما كان <span dir='ltr' style='display: inline-block'>[<i>H</i><sub style='font-size: 10px'>3</sub><i>O</i><sup>+</sup>] = 10<sup>-3</sup> <i>Mol.L</i><sup>-1</sup></span> تكون قيمة ال <span dir='ltr' style='display: inline-block'><i>POH</i></span> تساوي:",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "11",
+    "a-2": "14",
+    "a-3": "7",
+    "a-4": "3",
+    "ra": "1"
+  },
+  {
+    "title": "في محلول مائي ما كان <span dir='ltr' style='display: inline-block'>[<i>OH</i><sup>-</sup>] = 10<sup>-9</sup> <i>Mol.L</i><sup>-1</sup></span> تكون قيمة ال <span dir='ltr' style='display: inline-block'><i>PH</i></span> تساوي:",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "14",
+    "a-2": "9",
+    "a-3": "5",
+    "a-4": "7",
+    "ra": "3"
+  },
+  {
+    "title": "درجة تأين الحمض القوي و الأساس القوي تساوي:",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "<span dir='ltr'><i>a</i> &Lt; 1</span>",
+    "a-2": "<span dir='ltr'><i>a</i> = 1</span>",
+    "a-3": "<span dir='ltr'><i>a</i> &Gt; 1</span>",
+    "a-4": "<span dir='ltr'><i>a</i> = 14</span>",
+    "ra": "2"
+  },
+  {
+    "title": "بعض الأملاح تكون ضعيفة الذوبان في الماء لأن قوى التجاذب بين الأيونات في بلورات هذا الملح تكون:",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "أصغر من قوى التجاذب بين أيونات هذا الملح و جزيئات الماء",
+    "a-2": "أكبر من قوى التجاذب بين أيونات هذا الملح و جزيئات الماء",
+    "a-3": "تساوي قوى التجاذب بين أيونات هذا الملح و جزيئات الماء",
+    "a-4": "كل ما سبق ",
+    "ra": "2"
+  },
+  {
+    "title": "علاقة جداء الذوبان لملح فوسفات الكالسيوم <span dir='ltr' style='display: inline-block'><i>Ca</i><sub style='font-size: 10px'>3</sub>(<i>PO</i><sub style='font-size: 10px'>4</sub>)<sub style='font-size: 10px'>2</sub></span> : ",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub> = [<i>Ca</i><sup>+2</sup>][<i>PO</i><sub style='font-size: 10px;'>4</sub><sup style='margin-left: -4px'>-3</sup>]</span>",
+    "a-2": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub> = [<i>Ca</i><sup>+2</sup>]<sup>3</sup>[<i>PO</i><sub style='font-size: 10px;'>4</sub><sup style='margin-left: -4px'>-3</sup>]</span>",
+    "a-3": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub> = [<i>Ca</i><sup>+2</sup>]<sup>3</sup>[<i>PO</i><sub style='font-size: 10px;'>4</sub><sup style='margin-left: -4px'>-3</sup>]<sup>2</sup></span>",
+    "a-4": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub> = [<i>Ca</i><sup>+2</sup>][<i>PO</i><sub style='font-size: 10px;'>4</sub><sup style='margin-left: -4px'>-3</sup>]<sup>2</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "في محلول مائي ما كان <span dir='ltr' style='display: inline-block'><i>PH</i> = 10</span> فإن <span dir='ltr' style='display: inline-block'>[<i>OH</i><sup>-</sup>]</span> تساوي:",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "<span dir='ltr'>10<sup>-4</sup> <i>Mol.L</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'>10<sup>-14</sup> <i>Mol.L</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'>10<sup>-10</sup> <i>Mol.L</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'>10<sup>-7</sup> <i>Mol.L</i><sup>-1</sup></span>",
+    "ra": "1"
+  },
+  {
+    "title": "في المحلول الاساسي (القلوي) كل ما ذكر صحيح ما عدا:",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<span dir='ltr'><i>POH</i> &gt; 7 </span>",
+    "a-2": "<span dir='ltr'><i>PH</i> &gt; 7 </span>",
+    "a-3": "<span dir='ltr'>[<i>OH</i><sup>-</sup>] &gt; 10<sup>-7</sup> <i>Mol.L</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'>[<i>H</i><sub style='font-size: 10px'>3</sub><i>O</i><sup>+</sup>] &lt; 10<sup>-7</sup> <i>Mol.L</i><sup>-1</sup></span>",
+    "ra": "1"
+  },
+  {
+    "title": "محلول لحمض الخل تركيزه الابتدائي <span dir='ltr' style='display: inline-block'><i>C</i><sub style='font-size: 10px'><i>a</i></sub> = 0.05 <i>Mol.L</i><sup>-1</sup></span> و درجة تأينه المئوية <span dir='ltr' style='display: inline-block'><i>a</i>% = 0.2%</span> فإن ثابت تأينه يساوي:",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "<span dir='ltr'>25 <span style='font-family: Arial;'>x</span> 10<sup>-7</sup></span>",
+    "a-2": "<span dir='ltr'>2 <span style='font-family: Arial;'>x</span> 10<sup>-7</sup></span>",
+    "a-3": "<span dir='ltr'>4 <span style='font-family: Arial;'>x</span> 10<sup>-7</sup></span>",
+    "a-4": "<span dir='ltr'>10<sup>-5</sup></span>",
+    "ra": "2"
+  },
+  {
+    "title": "محلول لحمض الخل تركيزه الابتدائي <span dir='ltr' style='display: inline-block'><i>C</i><sub style='font-size: 10px'><i>a</i></sub> = 0.1 <i>Mol.L</i><sup>-1</sup></span> و ثابت تأينه <span dir='ltr' style='display: inline-block'><i>k</i><sub style='font-size: 10px'><i>a</i></sub> = 10<sup>-7</sup></span> فإن <span dir='ltr' style='display: inline-block'><i>PH</i></span> يساوي:",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "8",
+    "a-2": "4",
+    "a-3": "3",
+    "a-4": "2",
+    "ra": "2"
+  },
+  {
+    "title": "معادلة تأين حمض الأزوت:",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<span dir='ltr'><i>HNO</i><sub style='font-size: 10px;'>3</sub> + <i>H</i><sub style='font-size: 10px;'>2</sub><i>O</i> &rarr; <i>NO</i><sub style='font-size: 10px;'>3</sub><sup style='margin-left: -2px;'>-</sup> + <i>H</i><sub style='font-size: 10px;'>2</sub><i>O</i><sup>-</sup></span>",
+    "a-2": "<span dir='ltr'><i>HNO</i><sub style='font-size: 10px;'>3</sub> + <i>H</i><sub style='font-size: 10px;'>2</sub><i>O</i> &rarr; <i>NO</i><sub style='font-size: 10px;'>3</sub><sup style='margin-left: -2px;'>-</sup> + <i>H</i><sub style='font-size: 10px;'>2</sub><i>O</i><sup>+</sup></span>",
+    "a-3": "<span dir='ltr'><i>HNO</i><sub style='font-size: 10px;'>3</sub> + <i>H</i><sub style='font-size: 10px;'>2</sub><i>O</i> &rarr; <i>NO</i><sub style='font-size: 10px;'>3</sub><sup style='margin-left: -2px;'>+</sup> + <i>H</i><sub style='font-size: 10px;'>2</sub><i>O</i><sup>+</sup></span>",
+    "a-4": "<span dir='ltr'><i>HNO</i><sub style='font-size: 10px;'>3</sub> + <i>H</i><sub style='font-size: 10px;'>2</sub><i>O</i> &rarr; <i>NO</i><sub style='font-size: 10px;'>3</sub><sup style='margin-left: -2px;'>-</sup> + <i>OH</i><sup>-</sup></span>",
+    "ra": "2"
+  },
+  {
+    "title": "نضع <span dir='ltr'>5.6 <i>g</i></span> من هيدروكسيد البوتاسيوم في الماء المقطر و يكمل المحلول إلى الحجم واحد ليتر <span dir='ltr' style='display: inline-block'>(<i>K</i>: 39 , <i>O</i>: 16 , <i>H</i>: 1)</span> قيمة <span dir='ltr' style='display: inline-block'><i>POH</i></span> المحلول يساوي:",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "12",
+    "a-2": "7",
+    "a-3": "1",
+    "a-4": "13",
+    "ra": "3"
+  },
+  {
+    "title": "محلول لحمض النمل <span dir='ltr' style='display: inline-block'><i>PH</i> = 4</span> و تركيزه الابتدائي <span dir='ltr' style='display: inline-block'><i>C</i><sub style='font-size: 10px'><i>a</i></sub> = 0.02 <i>mol.L</i><sup>-1</sup></span> قيمة ثابت التأين يساوي:",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<span dir='ltr'>10<sup>-2</sup></span>",
+    "a-2": "<span dir='ltr'>5 <span style='font-family: Arial'>x</span> 10<sup>-6</sup></span>",
+    "a-3": "<span dir='ltr'>2 <span style='font-family: Arial'>x</span> 10<sup>-8</sup></span>",
+    "a-4": "<span dir='ltr'>5 <span style='font-family: Arial'>x</span> 10<sup>-7</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "عملية ذوبان الأملاح الصلبة في الماء و تشكل أيونات مميهة يقصد بها:",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "الإماهة",
+    "a-2": "الحلمهة",
+    "a-3": "البلمهة",
+    "a-4": "كل ما سبق",
+    "ra": "1"
+  },
+  {
+    "title": "محلول مائي لملح كلوريد الأمونيوم <span dir='ltr' style='display: inline-block'><i>NH</i><sub style='font-size: 10px'>4</sub><i>Cl</i></span> معادلة حلمهة الملح:",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "<span dir='ltr'><i>NH</i><sub style='font-size: 10px;'>4</sub><sup style='margin-left: -2px;'>+</sup> + <i>H</i><sub style='font-size: 10px;'>2</sub><i>O</i> &rarr; <i>NH</i><sub style='font-size: 10px;'>3</sub> + <i>H</i><sub style='font-size: 10px;'>3</sub><i>O</i><sup>+</sup></span>",
+    "a-2": "<span dir='ltr'><i>NH</i><sub style='font-size: 10px;'>4</sub><sup style='margin-left: -2px;'>+</sup> + <i>H</i><sub style='font-size: 10px;'>2</sub><i>O</i> &rarr; <i>NH</i><sub style='font-size: 10px;'>3</sub> + <i>OH</i><sup>-</sup></span>",
+    "a-3": "<span dir='ltr'><i>NH</i><sub style='font-size: 10px;'>4</sub><sup style='margin-left: -2px;'>+</sup> + <i>H</i><sub style='font-size: 10px;'>2</sub><i>O</i> <span class='rarr-wrap' style='padding-right: 15px'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> <i>NH</i><sub style='font-size: 10px;'>3</sub> + <i>H</i><sub style='font-size: 10px;'>3</sub><i>O</i><sup>+</sup></span>",
+    "a-4": "<span dir='ltr'><i>NH</i><sub style='font-size: 10px;'>4</sub><sup style='margin-left: -2px;'>+</sup> + <i>H</i><sub style='font-size: 10px;'>2</sub><i>O</i> <span class='rarr-wrap' style='padding-right: 15px'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> <i>NH</i><sub style='font-size: 10px;'>3</sub> + <i>OH</i><sup>-</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "محلول لملح نترات الأمونيوم تركيزه <span dir='ltr' style='display: inline-block'>(0.05 <i>mol.l</i><sup>-1</sup>)</span> و ثابت تأين النشادر <span dir='ltr' style='display: inline-block;'><i>k</i><sub style='font-size: 10px;'><i>b</i></sub> = 5 <span style='font-family: Arial;'>x</span> 10<sup>-8</span> قيمة ال <span dir='ltr' style='display: inline-block'><i>PH</i></span>:",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "8",
+    "a-2": "7",
+    "a-3": "4",
+    "a-4": "5",
+    "ra": "3"
+  },
+  {
+    "title": "محلول مائي لملح خلات الصوديوم <span dir='ltr' style='display: inline-block'><i>CH</i><sub style='font-size: 10px'>3</sub><i>COONa</i></span> الوسط الناتج عن الحلمهة:",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "قلوي",
+    "a-2": "حمضي",
+    "a-3": "معتدل",
+    "a-4": "كل ما سبق",
+    "ra": "1"
+  },
+  {
+    "title": "محلول مائي لملح سيانيد الصوديوم <span dir='ltr' style='display: inline-block'><i>NaCN</i></span> تركيزه <span dir='ltr' style='display: inline-block'>(0.02 <i>mol.l</i><sup>-1</sup>)</span> و ثابت تأين حمض السيانيد <span dir='ltr' style='display: inline-block;'><i>k</i><sub style='font-size: 10px;'><i>a</i></sub> = 2 <span style='font-family: Arial;'>x</span> 10<sup>-8</span> تركيز أيونات الهيدروكسيد في المحلول:",
+    "name": "a-21",
+    "id": "21-",
+    "a-1": "<span dir='ltr'>10<sup>-5</sup> <i>mol.L</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'>10<sup>-4</sup> <i>mol.L</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'>10<sup>-10</sup> <i>mol.L</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'>2 <span style='font-family: Arial;'>x</span> 10<sup>-4</sup> <i>mol.L</i><sup>-1</sup></span>",
+    "ra": "2"
+  },
+  {
+    "title": "محلول مائي لملح سيانيد الأمونيوم حيث ثابت تأين حمض السيانيد <span dir='ltr' style='display: inline-block;'><i>k</i><sub style='font-size: 10px;'><i>a</i></sub> = 10<sup>-8</span> و ثابت تأين النشادر <span dir='ltr' style='display: inline-block;'><i>k</i><sub style='font-size: 10px;'><i>b</i></sub> = 10<sup>-6</span> قيمة ال <span dir='ltr' style='display: inline-block'><i>PH</i></span>:",
+    "name": "a-22",
+    "id": "22-",
+    "a-1": "4",
+    "a-2": "5",
+    "a-3": "6",
+    "a-4": "8",
+    "ra": "4"
+  },
+  {
+    "title": "عند حلمهة ملح ناتج من حمض ضعيف و اساس ضعيف يكون الوسط معتدل عندما :",
+    "name": "a-23",
+    "id": "23-",
+    "a-1": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>a</i></sub> = <i>k</i><sub style='font-size: 10px;'><i>b</i></sub></span>",
+    "a-2": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>a</i></sub>.<i>k</i><sub style='font-size: 10px;'><i>b</i></sub> = 0</span>",
+    "a-3": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>a</i></sub> &lt; <i>k</i><sub style='font-size: 10px;'><i>b</i></sub></span>",
+    "a-4": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>a</i></sub> &gt; <i>k</i><sub style='font-size: 10px;'><i>b</i></sub></span>",
+    "ra": "1"
+  },
+  {
+    "title": "محلول مشبع لملح كلوريد الرصاص تركيزه <span dir='ltr' style='display: inline-block'>10<sup>-3</sup> <i>mol.L</i><sup>-1</sup></span> فإن جداء الذوبان يساوي:",
+    "name": "a-24",
+    "id": "24-",
+    "a-1": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub> = 4 <span style='font-family: Arial;'>x</span> 10<sup>+9</sup></span>",
+    "a-2": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub> = 4 <span style='font-family: Arial;'>x</span> 10<sup>-9</sup></span>",
+    "a-3": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub> = 10<sup>-9</sup></span>",
+    "a-4": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub> = 10<sup>-6</sup></span>",
+    "ra": "2"
+  },
+  {
+    "title": "يكون المحلول لملح ضعيف الذوبان غير مشبع عندما:",
+    "name": "a-25",
+    "id": "25-",
+    "a-1": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub> = <i>Q</i></span>",
+    "a-2": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub> &gt; <i>Q</i></span>",
+    "a-3": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub>.<i>Q</i> = 1</span>",
+    "a-4": "<span dir='ltr'><i>k</i><sub style='font-size: 10px;'><i>sp</i></sub> &lt; <i>Q</i></span>",
+    "ra": "2"
+  },
+  {
+    "title": "محلول مشبع لملح كبريتات الباريوم حيث <span dir='ltr' style='display: inline-block;'><i>k</i><sub style='font-size: 10px;'><i>sb</i></sub> = 4 <span style='font-family: Arial;'>x</span> 10<sup>-10</sup></span> فإن تركيز أيونات الكبريتات في المحلول يساوي:",
+    "name": "a-26",
+    "id": "26-",
+    "a-1": "<span dir='ltr'>10<sup>-3</sup> <i>mol.L</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'>10<sup>-5</sup> <i>mol.L</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'> 2 <span style='font-family: Arial'>x</span> 10<sup>-5</sup> <i>mol.L</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'> 4 <span style='font-family: Arial'>x</span> 10<sup>-10</sup> <i>mol.L</i><sup>-1</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "عند معايرة حمض قوي مع اساس قوي تكون قيمة ال <span dir='ltr' style='display: inline-block'><i>PH</i></span> عند نقطة نهاية المعايرة يساوي:",
+    "name": "a-27",
+    "id": "27-",
+    "a-1": "1",
+    "a-2": "5",
+    "a-3": "7",
+    "a-4": "10",
+    "ra": "3"
+  },
+  {
+    "title": "لمعايرة <span dir='ltr' style='display: inline-block'>(20 <i>ml</i>)</span> من حمض كلور الماء لزم <span dir='ltr' style='display: inline-block'>(30 <i>ml</i>)</span> من هيدروكسيد البوتاسيوم ذو التركيز <span dir='ltr' style='display: inline-block'>(0.4 <i>mol.l</i><sup>-1</sup>)</span> فيكون تركيز حمض كلور الماء:",
+    "name": "a-28",
+    "id": "28-",
+    "a-1": "<span dir='ltr'>0.3 <i>mol.L</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'>0.4 <i>mol.L</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'>0.2 <i>mol.L</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'>0.6 <i>mol.L</i><sup>-1</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "عند معايرة حمض الخل مع هيدروكسيد البوتاسوم الوسط الناتج عن المعايرة هو:",
+    "name": "a-29",
+    "id": "29-",
+    "a-1": "قلوي",
+    "a-2": "معتدل",
+    "a-3": "حمضي",
+    "a-4": "كل ما سبق",
+    "ra": "1"
+  },
+  {
+    "title": "محلول لحمض سيانيد الهيدروجين تركيزه الابتدائي <span dir='ltr' style='display: inline-block'><i>C</i><sub style='font-size: 10px'><i>a</i></sub> = 0.05 <i>mol.L</i><sup>-1</sup></span> و ثابت تأينه <span dir='ltr' style='display: inline-block;'><i>k</i><sub style='font-size: 10px;'><i>a</i></sub> = 2 <span style='font-family: Arial;'>x</span> 10<sup>-9</sup></span> فإن درجة تأين الحمض المئوية تساوي:",
+    "name": "a-30",
+    "id": "30-",
+    "a-1": "<span dir='ltr'> 5 <span style='font-family: Arial'>x</span> 10<sup>-4</sup>%</span>",
+    "a-2": "<span dir='ltr'> 5 <span style='font-family: Arial'>x</span> 10<sup>-2</sup>%</span>",
+    "a-3": "<span dir='ltr'> 2 <span style='font-family: Arial'>x</span> 10<sup>-2</sup>%</span>",
+    "a-4": "<span dir='ltr'> 2 <span style='font-family: Arial'>x</span> 10<sup>-4</sup>%</span>",
+    "ra": "3"
+  }
+]

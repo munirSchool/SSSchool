@@ -1,0 +1,200 @@
+[
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><span><i>ln</i>(<i>x</i><sup>2</sup><span class='sign'>-</span>2<i>x</i>)<sup>2</sup></span></div><span>اشتقاقية على R</span></div><div class='long-2'><span class='text'>فإن الدالة المشتقة</span><div class='eq'><span class='sign'><i>f</i><sup style='font-size: 12px; margin: 4px;'>'</sup></span><span>(1)</span></div><span class='text'>هي :</span></div></div>",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "1",
+    "a-2": "1-",
+    "a-3": "2",
+    "a-4": "2-",
+    "a-5": "0",
+    "ra": "5"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><span>&radic;<span class='under-radic'><i>x</i><sup>2</sup><span class='sign'>+</span><i>x</i><span class='sign'>+</span>4</span></span></div></div><div class='long-2'><span>اشتقاقية على R</span></div><div class='long-3'><span class='text'>فإن</span><div class='eq'><div class='kasir'><span class='top'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>-</span><span class='sign'><i>f</i></span><span>(-1)</span></span><span class='bottom'><i>x</i> + 1</span></div></div><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; -1</span></span></div><span class='text'>تساوي :</span></div>",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "1/4",
+    "a-2": "2",
+    "a-3": "1/4-",
+    "a-4": "2-",
+    "a-5": "3",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><span><i>Sin</i>(2<i>x</i>)</span></div><span>اشتقاقية على R</span></div><div class='long-2'><span class='text'>فإن</span><div class='eq'><span class='sign'><i>f</i><sup style='font-size: 12px; margin: 4px;'>(4)</sup></span><div class='kasir biracket'><span class='top'>&pi;</span><span class='bottom'>12</span></div></div><span class='text'>تساوي :</span></div></div>",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<div dir='ltr' class='kasir-ans'><span class='top'>&radic;<span class='under-radic'>3</span></span><span class='bottom'>2</span></div>",
+    "a-2": "<div class='kasir-ans'><span class='top'>1</span><span class='bottom'>2</span></div>",
+    "a-3": "8-",
+    "a-4": "8",
+    "a-5": "3",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان <i>c</i> الخط البياني للدالة</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>ax</i><sup>3</sup><span class='sign'>+</span>3<i>x</i><sup>2</sup><span class='sign'>+</span>3<i>x</i></span></div></div><div class='long-3'><span class='text'> فإن قيمة <i>a</i> التي من أجلها الخط البباني <i>c</i> يقبل مماسا أفقيا في النقطة التي فاصلتها</span></div><div class='long-4'><span dir='ltr' style='padding-left: 5px'> <i>x</i><span class='sign'>=</span>1</span> هي : </div></div>",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "3-",
+    "a-2": "3",
+    "a-3": "1",
+    "a-4": "2-",
+    "a-5": "4",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>ليكن <i>c</i><sub>1</sub> الخط البياني للتابع  <i>f</i>  المعرف على</span></div><div class='long-2'><span class='text'><span dir='ltr'>]-&infin;, +&infin;[</span> وفق : </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>e</i><sup>x</sup><span class='sign'>+</span><i>x</i><span class='sign'>+</span>2</span></div></div><div class='long-3'><span class='text'>و <i>c</i><sub>2</sub> الخط البياني للتابع  <i>g</i>  المعرف على <span dir='ltr'>R\\{2}</span> وفق </span></div><div class='long-4'><div class='eq'><span class='sign'><i>g</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3<i>x</i><span class='sign'>+</span>6</span><span class='bottom'>2<span class='sign'>-</span><i>x</i></span></div></div><div class='long-5'><span class='text'>فإن <span dir='ltr'><i>c</i><sub>2</sub> , <i>c</i><sub>1</sub></span> متماسان في النقطة  </span></div></div></div>",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "(1,0-)",
+    "a-2": "(0,2)",
+    "a-3": "(1,0)",
+    "a-4": "(0,3)",
+    "a-5": "(0,3)",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>لتكن الدالة</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i><sup>5</sup><span class='sign'>-</span>6<i>x</i><span class='sign'>+</span>4</span></div></div><div class='long-2'><span class='text'> باستخدام علاقة التقريب الخطي نجد أن القيمة التقريبية لميل</span></div><div class='long-3'><span class='text'>المماس للخط <i>c</i> للدالة <i>f</i> في النقطة التي فاصلتها </div><div class='long-5'><span dir='ltr' style='padding-left: 5px;'><i>x</i> = 1.2</span> هي : </span></div></div>",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "0.9",
+    "a-2": "1",
+    "a-3": "1-",
+    "a-4": "0",
+    "a-5": "3",
+    "ra": "5"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>لتكن الدالة</span><div class='eq'><span class='sign'><i>f</i></span><span>(2<i>x</i> - 1)</span><span class='sign'>=</span><span>(<i>x</i><sup>2</sup> + 2).<span class='sign'><i>g</i></span>(<i>x</i>)</span></div></div><div class='long-2'><span class='text'>إذا كان</span><div class='eq'><span class='sign'><i>g</i></span><span>(1)</span><span class='sign'>=</span><span>-2</span><span class='sign'>,</span><span class='sign'><i>g</i><sup style='font-size: 12px; margin: 4px;'>'</sup></span><span>(1)</span><span class='sign'>=</span><span>4</span></div></div><div class='long-3'><span class='text'>فإن</span><div class='eq'><span class='sign'><i>f</i><sup style='font-size: 12px; margin: 4px;'>'</sup></span><span>(1)</span></div><span class='text'>تساوي : </span></div></div>",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "4-",
+    "a-2": "4",
+    "a-3": "1/2",
+    "a-4": "1",
+    "a-5": "1-",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان <i>c</i> الخط البياني للدالة</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>ln</span><div class='kasir biracket'><span class='top'><i>x</i> + 1</span><span class='bottom'>3 - <i>x</i></span></div></div><span class='text'>والنقطة <span dir='ltr'><i>M</i>(<i>x</i>,<i>y</i>)</span> تتحرك على <i>c</i></span></div><div class='long-3'><span class='text'>إذا علمت أنه في اللحظة التي كان فيها <span dir='ltr'><i>x</i> = 1</span></span></div><div class='long-4'><span class='text'>وكان</span><div class='eq'><div class='kasir'><span class='top'><i>dx</i></span><span class='bottom'>dt</span></div><span class='sign'>=</span><span>2</span></div><span class='text'>بالتالي يكون </span><div class='eq'><div class='kasir'><span class='top'><i>dy</i></span><span class='bottom'>dt</span></div></div></div><div class='long-5'><span class='text'> في تلك اللحظة يساوي : </span></div><div class='long-3'><span class='text'>فإن المستقر الفعلي للدالة هو : </span></div></div>",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "1/2",
+    "a-2": "2-",
+    "a-3": "1",
+    "a-4": "0",
+    "a-5": "2",
+    "ra": "5"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت <i>f</i> دالة معرفة على <span dir='ltr'>]-3,+3[</span> وفق العلاقة</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>&radic;<span class='under-radic'>9 - <i>x</i><sup>2</sup></span></span></div></div><div class='long-3'><span class='text'>فإن للدالة قيمة كبرى شاملة قيمتها : </span></div></div>",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "1",
+    "a-2": "9",
+    "a-3": "0",
+    "a-4": "6",
+    "a-5": "3",
+    "ra": "5"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن المستقر الفعلي للدالة <i>f</i> المعرفة على <span dir='ltr'>R\\{-2}</span></span></div><div class='long-2'><span class='text'>وفق العلاقة</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3<i>x</i> + 3</span><span class='bottom'>2<i>x</i> + 4</span></div></div><span class='text'>هو :</span></div></div>",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "R",
+    "a-2": "R\\{1}",
+    "a-3": "R\\{-2}",
+    "a-4": "R\\{3/2}",
+    "a-5": "R\\{2/3}",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت الدالة</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>x</i><sup>3</sup><span class='sign'>-</span>3<i>x</i><span class='sign'>+</span>1</span></div></div><div class='long-2'><span class='text'>اشتقاقية على R فإن : </span></div></div>",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<p> الدالة <i>f</i> تملك قيمة كبرى شاملة وتملك قيمة صغرى شاملة كما أنها تملك قيمة صغرى وقيمة كبرى محلية  </p>",
+    "a-2": "<p> الدالة <i>f</i> تملك قيمة كبرى شاملة ولكنها لاتملك قيمة صغرى شاملة</p>",
+    "a-3": "<p> الدالة <i>f</i> لاتملك أي قيمة كبرى أو صغرى محلية أو شاملة</p>",
+    "a-4": "<p> الدالة <i>f</i> لاتملك أي قيمة كبرى أو صغرى شاملة ولكنها تملك قيمة كبرى وقيمة صغرى محلية</p>",
+    "a-5": "<p> الدالة <i>f</i> لاتملك أي قيمة كبرى أو صغرى محلية ولكنها تملك قيمة كبرى وقيمة صغرى شاملة</p>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>من جدول تغيرات الدالة <span dir='ltr'><span class='sign'><i>f</i></span>(<i>x</i>)</span> نجد أن </span></div><div class='long-2'><span class='text'>مجموعة حلول المتراجحة</span><div class='eq'><span>-1</span><span class='sign or-equal'>&lt;</span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span></div><span class='text'> هي :</span></div><div class='long-3'><div class='change-table'><div class='left'><div class='row'><span><i>x</i></span></div><div class='row'><span><i>f</i><span class='t'>'</span>(<i>x</i>)</span></div><div class='row'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span></div></div><div class='right'><div class='row one'><span>-&infin;</span><span>-2</span><span>2</span><span>+&infin;</span></div><div class='row two'><span></span><span>ـــ</span><span></span><span>0</span><span></span><span>+</span><span></span><span class='cat' style='margin-right: 4px'></span><span></span><span></span><span>-</span><span></span></div><div class='row last'><span class='ct-t'>+&infin;</span><span class='oncapital-down'>&rarr;</span><span class='ct-d'>-1</span><span class='oncapital-up'>&rarr;</span><span class='ct-t'>+&infin;</span><span class='cat'></span><span class='ct-t'>-1</span><span class='oncapital-down'>&rarr;</span><span class='ch-d'>-&infin;</span></div></div></div></div></div>",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "<span dir='ltr'>]-&infin;,2[</span>",
+    "a-2": "<span dir='ltr'>]-2,2[</span>",
+    "a-3": "<span dir='ltr'>]-4,2[</span>",
+    "a-4": "<span dir='ltr'>]2,+&infin;[</span>",
+    "a-5": "<span dir='ltr'>]-&infin;,-2[</span>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت <span dir='ltr'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span></span> دالة جدول تغيراتها هو : </span></div><div class='long-2'><div class='change-table'><div class='left'><div class='row'><span><i>x</i></span></div><div class='row'><span><i>f</i><span class='t'>'</span></span></div><div class='row'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span></div></div><div class='right'><div class='row one'><span>-&infin;</span><span><span></span></span><span>0</span><span><span></span></span><span>1</span><span><span></span></span><span><span></span></span><span>3</span><span>+&infin;</span></div><div class='row two'><span></span><span>ـــ</span><span></span><span>0</span><span></span><span>+</span><span></span><span class='cat'></span><span></span><span>ـــ</span><span></span><span>0</span><span></span><span>+</span><span></span></div><div class='row last'><span class='ct-t'>2</span><span class='oncapital-down'>&rarr;</span><span class='ct-d'>-3</span><span class='oncapital-up'>&rarr;</span><span class='ct-t'>+&infin;</span><span class='cat' style='margin: 0 3px 0 9px'></span><span class='ct-t'>+&infin;</span><span class='oncapital-down'>&rarr;</span><span class='ct-d'>0</span><span class='oncapital-up'>&rarr;</span><span class='ct-t'>+&infin;</span></div></div></div></div><div class='long-3'><span class='text'>وكان <i>m</i> عدد حقيقي يحقق <span dir='ltr'>0<span class='sign'>&lt;</span><i>m</i><span class='sign'>&lt;</span>2</span></div><div class='long-4'><span class='text'>فإن المعادلة <span dir='ltr'><span class='sign'><i>f</i></span>(<i>x</i>)<span class='sign'>=</span><i>m</i></span></div></div>",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "<p>مستحيلة الحل</p>",
+    "a-2": "<p>تملك 4 حلول مختلفة</p>",
+    "a-3": "<p>تملك حلا وحيدا</p>",
+    "a-4": "<p>تملك حلان مختلفان</p>",
+    "a-5": "<p>تملك 3 حلول مختلفة</p>",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن قيمة <span dir='ltr'><i>a,b</i></span> التي من أجلها تكون</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>0</span></div></div><div class='long-2'><span class='text'>قيمة صغرى أو كبرى محلية للدالة : </span></div><div class='long-3'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>ax</i><sup>2</sup> + 2<i>x</i> + 1</span><span class='bottom'><i>x</i> - 1</span></div></div></div></div>",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<p><i>a</i> = 3</p>",
+    "a-2": "<p><i>a</i> = -1</p>",
+    "a-3": "<p><i>a</i> = -3</p>",
+    "a-4": "<p><i>a</i> = 2</p>",
+    "a-5": "<p><i>a</i> = 1</p>",
+    "ra": "5"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>&radic;<span class='under-radic'>(<i>x</i> - 1)<sup>2</sup></span></span><span class='sign'>-</span><span>2<i>x</i></span></div></div><div class='long-2'><span class='text'>دالة معرفة على R فإن : </span></div></div>",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "<p><i>f</i><sup style='font-size: 12px; margin: 4px;'>'</sup>(1) = 0</p>",
+    "a-2": "<p><i>f</i><sup style='font-size: 12px; margin: 4px;'>'</sup>(1) = 1</p>",
+    "a-3": "<p><i>f</i><sup style='font-size: 12px; margin: 4px;'>'</sup>(1) = -1</p>",
+    "a-4": "<p><i>f</i> ليست اشتقاقية عند 1</p>",
+    "a-5": "<p><i>f</i><sup style='font-size: 12px; margin: 4px;'>'</sup>(1) = 2</p>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'> لتكن الدالة</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span><i>sinx</i><span class='sign'>-</span><i>cosx</i></span></div></div><div class='long-2'><span class='text'>المعرفة على R عندئذ : </span></div></div>",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<p> الدالة <i>f</i> تملك قيمة كبرى شاملة قيمتها 1 وتملك قيمة صغرى شاملة 1-</p>",
+    "a-2": "<p> الدالة <i>f</i> لاتملك قيمة كبرى شاملة ولكنها تملك قيمة صغرى شاملة</p>",
+    "a-3": "<p> الدالة <i>f</i> لاتملك أي قيمة كبرى أو صغرة محلية أو شاملة</p>",
+    "a-4": "<p> الدالة <i>f</i> تملك قيمة كبرى شاملة قيمتها <span dir='ltr'>&radic;<span class='under-radic'>2</span></span> وتملك قيمة صغرى شاملة <br><span dir='ltr'>-&radic;<span class='under-radic'>2</span></span></p>",
+    "a-5": "<p> الدالة <i>f</i> فردية</p>",
+    "ra": "4"
+  },
+  {
+    "title": "<p>صفيحة معدنية على شكل مربع طول ضلعه <i>x</i> يزداد مساحة سطحها بمعدل <span dir='ltr'>1.6 cm<sup>2</sup>/s</span> في اللحظة التي كان فيها طول الضلع <span dir='ltr'>4 cm</span> إن معدل طول ضلع الصفيحة في هذه اللحظة هو :</p>",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "<p dir='ltr'>0.4 cm/s</p>",
+    "a-2": "<p dir='ltr'>0.3 cm/s</p>",
+    "a-3": "<p dir='ltr'>0.1 cm/s</p>",
+    "a-4": "<p dir='ltr'>0.2 cm/s</p>",
+    "a-5": "<p dir='ltr'>0.5 cm/s</p>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان <i>c</i> الخط البياني للدالة</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='sign'>=</span><span>ln</span><div class='kasir biracket'><span class='top'>2<i>x</i> + &lambda; - 2</span><span class='bottom'><i>&lambda;x</i> + 1</span></div></div></div><span class='text'>إن قيمة &lambda; التي تجعل <i>c</i> </span><div class='long-3'><span class='text'>مار من النقطة <span dir='ltr'><i>M</i>(2,ln2)</span> هي :</span></div></div>",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "0",
+    "a-2": "4",
+    "a-3": "1-",
+    "a-4": "1",
+    "a-5": "3",
+    "ra": "1"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "title": "<p>Sami ne almak istiyor ?</p>",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "<p>Kiraz</p>",
+    "a-2": "Karpuz",
+    "a-3": "Patates",
+    "a-4": "Baklava",
+    "ra": "2"
+  },
+  {
+    "title": " kiraz'ın kilosu kaç lira ?",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "15",
+    "a-2": "14",
+    "a-3": "40",
+    "a-4": "8",
+    "ra": "1"
+  },
+  {
+    "title": "Sami'ye göre kiraz……",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "ucuz",
+    "a-2": "pahalı",
+    "a-3": "tatlı",
+    "a-4": "taze",
+    "ra": "2"
+  },
+  {
+    "title": "Sami kaç lira ödedi ?",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "15",
+    "a-2": "14",
+    "a-3": "40",
+    "a-4": "8",
+    "ra": "3"
+  },
+  {
+    "title": "Türk mutfağında kaç çeşit ev yemeği var ?",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "20000",
+    "a-2": "19500",
+    "a-3": "24000",
+    "a-4": "19000",
+    "ra": "4"
+  },
+  {
+    "title": "Sebze meyve alışverişi nereden yaparız ?",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "Eczaneden",
+    "a-2": "Pazardan",
+    "a-3": "Fırından",
+    "a-4": "Okuldan",
+    "ra": "2"
+  },
+  {
+    "title": "Aşağıdaki kelimelerden hangisi ölçtür ?",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "merhaba",
+    "a-2": "Litre",
+    "a-3": "Elma",
+    "a-4": "Kırmızı",
+    "ra": "2"
+  },
+  {
+    "title": "Farklı olanı seçin ?",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "kiraz",
+    "a-2": "Havuç",
+    "a-3": "Elma",
+    "a-4": "Muz",
+    "ra": "2"
+  },
+  {
+    "title": "Aşağıdaki kelimelerden hangisi ölçü değil ? ",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "Tane",
+    "a-2": "Litre",
+    "a-3": "karpuz",
+    "a-4": "paket",
+    "ra": "3"
+  },
+  {
+    "title": "Turk para birimi nedir ?",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "dolar",
+    "a-2": "Lira",
+    "a-3": "Altın",
+    "a-4": "Yen",
+    "ra": "2"
+  },
+  {
+    "title": "Türk para simgesi nedir ?",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "$",
+    "a-2": "¥",
+    "a-3": "tl",
+    "a-4": "€",
+    "ra": "3"
+  },
+  {
+    "title": "Türkiye'nin en büyük kağıt parası nedir?",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "5 lira",
+    "a-2": "200 lira",
+    "a-3": "100 lira",
+    "a-4": "500 lira",
+    "ra": "2"
+  },
+  {
+    "title": "<p><span style='display: block'>Aşağıdaki kelimeler ile bir cümle oluşturun</span><span style='display: inline-block'>İstiyor / gitmek / ? /alışverişe / musun /</span></p>",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "İstiyor gitmek alışveriş musun ?",
+    "a-2": "Gitmek istiyor alışveriş musun ?",
+    "a-3": "Alışverişe gitmek istiyor musun ?",
+    "a-4": "İstiyor musun gitmek aleşverişe ?",
+    "ra": "3"
+  },
+  {
+    "title": "<p><span style='display: block'>Aşağıdaki kelimeler ile bir cümle oluşturun</span><span style='display: inline-block'>meyve / satan / ve / sebze / istiyor / almak / Ahmet</span></p>",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<p style='text-align: left;'>Ahmet sebze ve meyve satan almak istiyor</p>",
+    "a-2": "<p style='text-align: left;'>Ahmet sebze ve meyve almak satan istiyor</p>",
+    "a-3": "<p style='text-align: left;'>Ahmet satan almak istiyor sebze ve meyve</p>",
+    "a-4": "<p style='text-align: left;'>Sebze ve meyve Ahmet satan almak istiyor</p>",
+    "ra": "1"
+  },
+  {
+    "title": "Kahvaltılık bir çeşididir…",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "peynir",
+    "a-2": "Et",
+    "a-3": "Balık",
+    "a-4": "Künefe",
+    "ra": "1"
+  },
+  {
+    "title": "Aşağıdakilerden hangisi doğrudur?",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "Patlıcandan daha domates pahalı",
+    "a-2": "Daha pahalı patlıcandan domates",
+    "a-3": "Domates daha patlıcandan pahalı",
+    "a-4": "Domates , patlıcandan daha pahalı",
+    "ra": "4"
+  },
+  {
+    "title": "<p><span style='display: block'>Aşağıdaki kelimelerin zıtını bulun.</span><span style='display: inline-block'>Acısız</span></p>",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "kısa",
+    "a-2": "lezzetli",
+    "a-3": "soğuk",
+    "a-4": "acılı",
+    "ra": "4"
+  },
+  {
+    "title": "Lezzetsiz",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "kısa",
+    "a-2": "lezzetli",
+    "a-3": "soğuk",
+    "a-4": "acılı",
+    "ra": "2"
+  },
+  {
+    "title": "Sıcak",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "kısa",
+    "a-2": "lezzetli",
+    "a-3": "soğuk",
+    "a-4": "acılı",
+    "ra": "3"
+  },
+  {
+    "title": "İnce",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "kalın",
+    "a-2": "pahalı",
+    "a-3": "dar",
+    "a-4": "büyük",
+    "ra": "1"
+  },
+  {
+    "title": "Ucuz",
+    "name": "a-21",
+    "id": "21-",
+    "a-1": "dar",
+    "a-2": "pahalı",
+    "a-3": "kalın",
+    "a-4": "büyük",
+    "ra": "2"
+  },
+  {
+    "title": "<p><div> Diyaloğu oku ve boşluğu uygun cümlele seçin</div><div>Müşteri: Affedersiniz? Bakar mısınız?</div><div>Garson : Hoş geldiniz buyurun.</div><div>Müşteri: sipariş vermek istiyorum.lütfen ,</div><div>……………………………………..</div><div>Garson : tabii ki buyurun menü</div><div>Müşteri : teşekkür ederim</div></p>",
+    "name": "a-22",
+    "id": "22-",
+    "a-1": "siparişinizi alabilir miyim ?",
+    "a-2": "ödeme kredi kartıyla olacak?",
+    "a-3": "Hesabı alabilir miyim ?",
+    "a-4": "menü alabilir miyim?",
+    "ra": "4"
+  },
+  {
+    "title": " kola çok …………. Şeker çok ………… Bence kola içmeyelim. Ayran içelim",
+    "name": "a-23",
+    "id": "23-",
+    "a-1": "şekerli - kaşarlı",
+    "a-2": "sucuklu - mantarsız",
+    "a-3": "zararlı - şekerli",
+    "a-4": " şekerli - zararlı",
+    "ra": "4"
+  }
+]

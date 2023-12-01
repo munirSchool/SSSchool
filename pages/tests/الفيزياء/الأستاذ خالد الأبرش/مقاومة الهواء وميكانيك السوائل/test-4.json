@@ -1,0 +1,202 @@
+[
+  {
+    "title": "إن قوى الاحتكاك في مقاومة الهواء تنتج في حال:",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "السرعات الصغيرة",
+    "a-2": "السرعات المتوسطة فقط",
+    "a-3": "السرعات المتوسطة و الكبيرة",
+    "a-4": "السرعات الكبيرة فقط",
+    "ra": "1"
+  },
+  {
+    "title": "علاقة ضغط السائل في نقطة تقع داخله على عمق <i>h</i> : ",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<span dir='ltr'><i>p</i> = <i>hg</i></span>",
+    "a-2": "<span dir='ltr'><i>p</i> = <i>mhg</i></span>",
+    "a-3": "<span dir='ltr'><i>p</i> = <i>&#x3C1;mhg</i></span>",
+    "a-4": "<span dir='ltr'><i>p</i> = <i>&#x3C1;hg</i></span>",
+    "ra": "4"
+  },
+  {
+    "title": "إن قوة الاحتكاك في الهواء تنتج عن :",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "لزوجة الماء",
+    "a-2": "ضغط الهواء",
+    "a-3": "ثقل الهواء",
+    "a-4": "لزوجة الهواء",
+    "ra": "4"
+  },
+  {
+    "title": "اذا غمر جسم بشكل كلي أو بشكل جزئي في سائل لا يذوب فيه ولا يتفاعل معه فإن السائل يؤثر عليه بقوة تدفعه نحو الأعلى ",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "قانون فاراداي",
+    "a-2": "قانون أرخميدس",
+    "a-3": "قانون باسكال",
+    "a-4": "قانون لنز",
+    "ra": "2"
+  },
+  {
+    "title": "إن قوة مقاومة الهواء :",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "تتناسب طردا مع السرعات المتوسطة",
+    "a-2": "تتناسب عكسا مع مربع السرعات المتوسطة",
+    "a-3": "تتناسب عكسا مع السرعات المتوسطة",
+    "a-4": "تتناسب طردا مع مربع السرعات المتوسطة",
+    "ra": "4"
+  },
+  {
+    "title": "جسم معدني ينقص وزنه <span dir='ltr' style='display: inline-block'>4 N</span> عندما يغمر في الماء، وينقص وزنه <span dir='ltr' style='display: inline-block'>3 N</span> عندما يغمر في سائل آخر، فإذا علمت أنّ الكتلة الحجميّة للماء <span dir='ltr' style='display: inline-block'>&#x3C1; = 1 <i>g.cm</i><sup>-3</sup></span> فتكون الكتلة الحجمية للسائل الآخر:",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "<span dir='ltr'>0.75 <i>g.cm</i><sup>-3</sup></span>",
+    "a-2": "<span dir='ltr'>1.25 <i>g.cm</i><sup>-3</sup></span>",
+    "a-3": "<span dir='ltr'>0.8 <i>g.cm</i><sup>-3</sup></span>",
+    "a-4": "<span dir='ltr'>1.2 <i>g.cm</i><sup>-3</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "إن ترك جسم ليسقط في هواء ساكن من ارتفاع مناسب قبل بلوغ السرعة الحدية يكون:",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "<span dir='ltr'><i>W</i> &gt; F<sub style='font-size: 10px'>r</sub></span>",
+    "a-2": "<span dir='ltr'><i>a</i> &gt; 0</span>",
+    "a-3": "السرعة تزداد",
+    "a-4": "كل ما سبق",
+    "ra": "4"
+  },
+  {
+    "title": "إن ترك جسم ليسقط في هواء ساكن من ارتفاع مناسب عند بلوغ السرعة الحدية  تكون طبيعة الحركة مستقيمة:",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "متسارعة بانتظام",
+    "a-2": "متباطئة بانتظام",
+    "a-3": "منتظمة",
+    "a-4": "متسارعة",
+    "ra": "3"
+  },
+  {
+    "title": "يغمر جسم  في الماء فيزيح حجم من الماء كتلته <span dir='ltr' style='display: inline-block'><i>m</i> = 200 <i>g</i></span> حيث <span dir='ltr' style='display: inline-block'><i>g</i> = 10 <i>m.s</i><sup>-2</sup></span> اذا كانت الكتلة الحجمية للماء <span dir='ltr' style='display: inline-block'>&#x3C1; = 1 <i>g.cm</i><sup>-3</sup></span> يكون حجم الجسم يساوي:",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "<span dir='ltr'>2 <i>cm</i><sup>3</sup></span>",
+    "a-2": "<span dir='ltr'>200 <i>cm</i><sup>3</sup></span>",
+    "a-3": "<span dir='ltr'>2.5 <i>cm</i><sup>3</sup></span>",
+    "a-4": "<span dir='ltr'>2 <span style='font-family: Arial'>x</span> 10<sup>-3</sup> <i>cm</i><sup>3</sup></span>",
+    "ra": "2"
+  },
+  {
+    "title": "كرتان من نفس النوع تسقطان من ارتفاع مناسب في هواء ساكن حيث <span dir='ltr' style='display: inline-block'><i>r</i><sub>2</sub> = 9<i>r</i><sub>1</sub></span> يكون:",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "<span dir='ltr'><i>v</i><sub style='font-size: 10px'><i>t</i>1</sub> = 9<i>v</i><sub style='font-size: 10px'><i>t</i>2</sub></span>",
+    "a-2": "<span dir='ltr'><i>v</i><sub style='font-size: 10px'><i>t</i>1</sub> = 3<i>v</i><sub style='font-size: 10px'><i>t</i>2</sub></span>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>v</i><sub style='font-size: 10px'><i>t</i>1</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>9</span></div><span><i>v</i><sub style='font-size: 10px'><i>t</i>2</sub></span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span><i>v</i><sub style='font-size: 10px'><i>t</i>1</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>3</span></div><span><i>v</i><sub style='font-size: 10px'><i>t</i>2</sub></span></div>",
+    "ra": "2"
+  },
+  {
+    "title": "تطفو قطعة من الخشب حجمها <span dir='ltr' display: inline-block>V = 400 <i>cm</i><sup>3</sup></span> على سطح الماء حيث الكتلة الحجمية للماء <span dir='ltr' style='display: inline-block'>&#x3C1; = 1 <i>g.cm</i><sup>-3</sup></span> و الكتلة الحجمية للخشب <span dir='ltr' style='display: inline-block'>&#x3C1; = 0.8 <i>g.cm</i><sup>-3</sup></span> فيكون حجم الجزء المغمور يساوي:",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<span dir='ltr'>400 <i>cm</i><sup>3</sup></span>",
+    "a-2": "<span dir='ltr'>80 <i>cm</i><sup>3</sup></span>",
+    "a-3": "<span dir='ltr'>320 <i>cm</i><sup>3</sup></span>",
+    "a-4": "<span dir='ltr'>40 <i>cm</i><sup>3</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "من ميزات السائل المثالي :",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "جريانه غير دوراني",
+    "a-2": "غير قابل للضغط",
+    "a-3": "جريانه مستقر",
+    "a-4": "كل ما سبق",
+    "ra": "4"
+  },
+  {
+    "title": "تسقط كرة من الألمنيوم قطرها <span dir='ltr' style='display: inline-block'>4 <i>cm</i></span> كتلتها <span dir='ltr' style='display: inline-block'><i>m</i> = 4&pi; <i>g</i></span> بدون سرعة ابتدائية في هواء ساكن من ارتفاع مناسب حيث <span dir='ltr' style='display: inline-block'><i>g</i> = 10 <i>m.s</i><sup>-2</sup> , F<sub><i>r</i></sub> = 0.25<i>sv</i><sup>2</sup></span> السرعة الحدية للكرة تعطى بالعلاقة الأتية:",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>v</i><sub><i>t</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 2px;'><i>mg</i></span></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 2px;'>&pi;<i>r</i><sup>2</sup></span></span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>v</i><sub><i>t</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 2px;'>&pi;<i>r</i><sup>2</sup></span></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 2px;'>4<i>mg</i></span></span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>v</i><sub><i>t</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 2px;'>4<i>mg</i></span></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 2px;'>&pi;<i>r</i><sup>2</sup></span></span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span><i>v</i><sub><i>t</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>4 <i>mg</i></span><span class='bottom'>&pi;<i>r</i><sup>2</sup></span></div></div>",
+    "ra": "3"
+  },
+  {
+    "title": "في السؤال السابق (13)قيمة السرعة الحدية:",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<span dir='ltr'>&radic;<span style='margin-left: -1px' class='under-radic'>10</span> <i>m.s</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'>10 <i>m.s</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'>20 <i>m.s</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'>1 <i>m.s</i><sup>-1</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "خزان حجمه <span dir='ltr' style='display: inline-block'>1600<i>L</i></span> استغرق <span dir='ltr' style='display: inline-block'>400<i>s</i></span> لملئه فيكون معدل التدفق الحجمي:",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "<span dir='ltr'> 25 <span style='font-family: Arial;'>x</span> 10<sup>-4</sup> <i>m</i><sup>3</sup>.<i>s</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'> 2.5 <i>m</i><sup>3</sup>.<i>s</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'> 2 <span style='font-family: Arial;'>x</span> 10<sup>-3</sup> <i>m</i><sup>3</sup>.<i>s</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'> 4 <span style='font-family: Arial;'>x</span> 10<sup>-3</sup> <i>m</i><sup>3</sup>.<i>s</i><sup>-1</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "في الأواني المستطرقة يكون ارتفاع السائل :",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "متساوي في الفروع المتماثلة فقط و مختلف في الفروع الأخرى",
+    "a-2": "مختلف في جميع الفروع",
+    "a-3": "مختلف في جميع الفروع المتماثلة و المختلفة ",
+    "a-4": "كل ما سبق صحيح",
+    "ra": "3"
+  },
+  {
+    "title": "تسقط كرة من الألمنيوم و كرة من الخشب لهما القطر نفسه من ارتفاع مناسب في هواء ساكن فإن: ",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "يكون للكرتين السرعة الحدية نفسها",
+    "a-2": "كرة الألمنيوم تصل أولا",
+    "a-3": "كرة الخشب تصل أولا",
+    "a-4": "الكرتان تصلان معا",
+    "ra": "2"
+  },
+  {
+    "title": "نملأ خزان سعته <span dir='ltr' style='display: inline-block'>2000<i>L</i></span> باستخدام خرطوم مساحة مقطعه <span dir='ltr' style='display: inline-block'>10 <i>cm</i><sup>2</sup></span> و سرعة خروج الماء منه <span dir='ltr' style='display: inline-block'>2 <i>m.s</i><sup>-1</sup></span> فيستغرق زمنا قدره:",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "<span dir='ltr'>200 <i>s</i></span>",
+    "a-2": "<span dir='ltr'>1000 <i>s</i></span>",
+    "a-3": "<span dir='ltr'>100 <i>s</i></span>",
+    "a-4": "<span dir='ltr'>400 <i>s</i></span>",
+    "ra": "2"
+  },
+  {
+    "title": "عندما ينتقل المكبس الأول الصغير لرافعة سيارات بمقدار <span dir='ltr' style='display: inline-block'>&Delta;<i>x</i><sub>1</sub> = 10 <i>cm</i></span> اذا تأثر بقوة شدتها <span dir='ltr' style='display: inline-block'><i>F</i><sub>1</sub></span> على السطح مساحته <span dir='ltr' style='display: inline-block'>(20 <i>cm</i><sup>2</sup>)</span> فنحصل على قوة تؤثر في المكبس الثاني الكبير مساحته <span dir='ltr' style='display: inline-block'>(200 <i>cm</i><sup>2</sup>)</span> شدتها <span dir='ltr' style='display: inline-block'><i>F</i><sub>2</sub></span> يكون بذلك انتقل المكبس الكبير مسافة <span dir='ltr' style='display: inline-block'>&Delta;<i>x</i><sub>2</sub></span> هي:",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "<span dir='ltr'>2.5 <i>cm</i></span>",
+    "a-2": "<span dir='ltr'>1 <i>cm</i></span>",
+    "a-3": "<span dir='ltr'>0.01 <i>cm</i></span>",
+    "a-4": "<span dir='ltr'>0.1 <i>cm</i></span>",
+    "ra": "2"
+  },
+  {
+    "title": "يرتفع مستوى الماء في خزان كبير واسع عن سطح الأرض مسافة <span dir='ltr' style='display: inline-block;'> 8.4 <i>m</i></span> موصول بصنبور ماء يرتفع عن سطح الأرض مسافة <span dir='ltr' style='display: inline-block'>2 <i>m</i></span> فتكون سرعة خروج الماء من فوهة الصنبور هي:",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "<span dir='ltr'>8 <i>m.s</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'>10 <i>m.s</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'>8&radic;<span class='under-radic' style='margin-left: -1px'>2</span> <i>m.s</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'>2&radic;<span class='under-radic' style='margin-left: -1px'>10</span> <i>m.s</i><sup>-1</sup></span>",
+    "ra": "3"
+  }
+]

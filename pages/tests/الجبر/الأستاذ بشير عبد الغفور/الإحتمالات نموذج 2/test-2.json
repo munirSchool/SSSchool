@@ -1,0 +1,252 @@
+[
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان A حدث في فضاء احتمالي موافق لتجربة عشوائية ما وكان : </span></div><div class='long-2'><div class='eq'><span>P(A)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3</span><span class='bottom'>5</span></div></div><span style='padding-right: 5px;'>فإن <span dir='ltr'>P(A')</span> يساوي : </span></div></div>",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "2/5",
+    "a-2": "5/2",
+    "a-3": "2/10",
+    "a-4": "1",
+    "ra": "1"
+  },
+  {
+    "title": "<p>في تجربة رمي حجرا نرد معا إن احتمال ظهور عددين مجموعهما أصفر تماما من 7 يساوي : </p>",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "21/36",
+    "a-2": "9/21",
+    "a-3": "15/36",
+    "a-4": "8/21",
+    "ra": "3"
+  },
+  {
+    "title": "<p>في تجربة رمي قطعة نقود أربعة مرات متتالية إن احتمال ظهور شعارين فقط يساوي : </p>",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "6/16",
+    "a-2": "4/16",
+    "a-3": "5/16",
+    "a-4": "3/16",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان A و B حدثين في فضاء احتمالي الموافق لتجربة عشوائية وكان : </span></div><div class='long-2'><div class='eq'><span>P(A &cup; B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3</span><span class='bottom'>4</span></div><span class='sign'>,</span><span>P(B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>5</span><span class='bottom'>8</span></div><span class='sign'>,</span><span>P(A)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3</span><span class='bottom'>8</span></div></div></div><div class='long-3'><span class='text'>فإن <span dir='ltr'>P(A &cap; B)</span> هو : </span></div></div>",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "2/5",
+    "a-2": "6/8",
+    "a-3": "3/8",
+    "a-4": "1/4",
+    "ra": "4"
+  },
+  {
+    "title": "<p>في معهد لتعليم اللغات 100 طالب منهم 40 طالب يدرس اللغة التركية و 50 طالب يدرس اللغة الإنجليزية و 20 طالب يدرس اللغتين معا نختار عشوائيا طالب من المعهد فإن احتمال أن يكون الطالب من دارسي لغة واحدة فقط هو : </p>",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "90/100",
+    "a-2": "30/100",
+    "a-3": "70/100",
+    "a-4": "50/100",
+    "ra": "4"
+  },
+  {
+    "title": "<p>صندوق فيه 10 كرات متماثلة منها (5 كرات حمراء و 3 كرات بيضاء وكرتان سوداوان) عند سحب ثلاث كرات بالتتالي مع الإعادة من الصندوق يكون احتمال الحصول على كرات مختلفة الألوان (كرة من كل لون) هو : </p>",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "3/10",
+    "a-2": "30/120",
+    "a-3": "30/1000",
+    "a-4": "180/1000",
+    "ra": "4"
+  },
+  {
+    "title": "<p>يحوي مغلف 6 بطاقات متماثلة تحمل الأرقام <span dir='ltr' style='display: inline-block'>0 , 0 , 1 , 1 , 2 , 3</span> عند سحب 3 بطاقات معا من المغلف يكون احتمال الحصول على 3 بطاقات مجموعها يساوي 3 هو : </p>",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "3/10",
+    "a-2": "5/20",
+    "a-3": "30/216",
+    "a-4": "7/36",
+    "ra": "2"
+  },
+  {
+    "title": "<p>يحوي مغلف 8 بطاقات متماثلة مرقمة بالأرقام <span dir='ltr' style='display: inline-block'>0 , 0 , 1 , 1 , 1 , 2 , 2 , 3</span> عند سحب بطاقتين من المغلف بالتتالي بدون إعادة إن احتمال الحصول على بطاقتين جداء رقميهما يسساوي الصفر هو : </p>",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "1/2",
+    "a-2": "13/28",
+    "a-3": "15/28",
+    "a-4": "3/7",
+    "ra": "2"
+  },
+  {
+    "title": "<p>يحوي صندوق أربعة كرات حمراء متماثلة تحمل الأرقام <span dir='ltr' style='inline-block'> 1 , 1 , 1 , 2</span> وثلاث كرات بيضاء متماثلة تحمل الأرقام <span dir='ltr' style='display: inline-block'>1 , 1 , 2 </span> عند سحب كرتين بالتتالي مع الإعادة يكون احتمال الحصول على كرتين من لونين مختلفين ومجموع رقميهما يساوي 3 هو : </p>",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "9/21",
+    "a-2": "10/49",
+    "a-3": "5/49",
+    "a-4": "5/21",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان A و B حدثين في فضاء احتمالي وكان : </span></div><div class='long-2'><div class='eq'><span>P(A &cup; B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>7</span><span class='bottom'>10</span></div><span class='sign'>,</span><span>P(B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'>5</span></div><span class='sign'>,</span><span>P(A)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3</span><span class='bottom'>5</span></div></div></div><div class='long-3'><span class='text'>فإن <span dir='ltr'>P<sub style='font-size: 8px;'>A</sub>(B)</span> يساوي : </span></div></div>",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "1/3",
+    "a-2": "1/5",
+    "a-3": "1/2",
+    "a-4": "1/6",
+    "ra": "4"
+  },
+  {
+    "title": "<p>يحوي مغلف 8 بطاقات متماثلة مرقمة بالأرقام <span dir='ltr' style='display: inline-block'> 0 , 0 , 1 , 1 , 3 , 3 , 4 , 5</span> عند سحب بطاقتين من المغلف بالتتالي بدون إعادة إن احتمال الحصول على بطاقتين الأولى تحمل عدد أولي والثانية عدد زوجي هو : </p>",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "9/56",
+    "a-2": "9/64",
+    "a-3": "15/56",
+    "a-4": "15/64",
+    "ra": "1"
+  },
+  {
+    "title": "<p>صف يضم 10 طلاب و 5 طالبات نريد تشكيل لجنة مكونة من 3 أشخاص إن احتمال أن تضم اللجنة طالبين فقط هو : </p>",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "39/91",
+    "a-2": "45/91",
+    "a-3": "4/9",
+    "a-4": "5/9",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان A و B حدثين في فضاء احتمالي وكان : </span></div><div class='long-2'><div class='eq'><span>P(A &cup; B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>7</span><span class='bottom'>10</span></div><span class='sign'>,</span><span>P(B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3</span><span class='bottom'>5</span></div><span class='sign'>,</span><span>P(A)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'>5</span></div></div></div><div class='long-3'><span class='text'>فإن <span dir='ltr'>P<sub style='font-size: 8px;'>B'</sub>(A')</span> يساوي : </span></div></div>",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "1/2",
+    "a-2": "1/4",
+    "a-3": "3/4",
+    "a-4": "3/10",
+    "ra": "3"
+  },
+  {
+    "title": "<p>ينتج معمل مصابيح كهربائية بواسطة ثلاث آلات <span style='display: block;'>الآلة A  تنتج %20 من الإنتاج و %5 من المصابيح المصنوعة غير صالح </span><span style='display: block;'>الآلة B  تنتج %30 من الإنتاج و %2 من المصابيح المصنوعة غير صالح </span><span style='display: block;'>الآلة C  تنتج %50 من الإنتاج و %1 من المصابيح المصنوعة غير صالح </span> نختار عشوائيا مصباحا كهربائيا إن احتمال أن يكون المصباح غير صالح هو : </p>",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "8/100",
+    "a-2": "25/1000",
+    "a-3": "21/1000",
+    "a-4": "7/100",
+    "ra": "3"
+  },
+  {
+    "title": "<p>صندوقان متماثلان فيهما بطاقات متماثلة الأول يحوي ثلاث بطاقات تحمل الأرقام <span dir='ltr' style='display: inline-block'>1 , 2 , 3</span> والثاني يحوي أربعة بطاقات تحمل الأرقام <span dir='ltr' style='display: inline-block'>1 , 2 , 3 , 4 </span>نختار عشوائيا صندوق ونسحب بطاقتين معا إن احتمال الحصول على بطاقتين مجموعهما عدد فردي هو : </p>",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "1/3",
+    "a-2": "2/3",
+    "a-3": "3/7",
+    "a-4": "4/7",
+    "ra": "2"
+  },
+  {
+    "title": "<p>إذا كان A و B حدثان مستقلان احتماليا فيكون : </p>",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<span dir='ltr'>P(A &cap; B) = P(A).P(B)</span>",
+    "a-2": "<span dir='ltr'>P(A &cap; B') = P(A).P(B')</span>",
+    "a-3": "<span dir='ltr'>P(A' &cap; B') = P(A').P(B')</span>",
+    "a-4": "<p>كل ماسبق صحيح</p>",
+    "ra": "4"
+  },
+  {
+    "title": "<p>يطلق كل من الراميين A و B طلقة واحدة على هدف إذا كان احتمال أن يصيب الرامي A الهدف 7/10 واحتمال عدم إصابة الرامي B للهدف هو 4/10 فيكون احتمال إصابة الهدف بطلقتين هو : </p>",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "70/100",
+    "a-2": "28/100",
+    "a-3": "60/100",
+    "a-4": "42/100",
+    "ra": "4"
+  },
+  {
+    "title": "<p>صنعت قطعة نقود بحيث يكون احتمال ظهور الشعار يساوي 4/5 واحتمال ظهور الكتابة يساوي 1/5 عند رمي قطعة النقود ثلاث مرات متتالية يكون احتمال ظهور كتابتين على الأقل في الرميات الثلاث هو : </p>",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "13/125",
+    "a-2": "15/125",
+    "a-3": "25/125",
+    "a-4": "18/125",
+    "ra": "1"
+  },
+  {
+    "title": "<p>يسدد كلا من لاعبي كرة القدم مازن ومجد مرة واحدة على المرمى إذا كان احتمال عدم تسجيل أي هدف من قبل الاعبين هو 1/2 واحتمال تسجيل مجد فقط للهدف هو 1/6 فإن احتمال تسجيل مازن هدفا يساوي : </p>",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "1/3",
+    "a-2": "1/8",
+    "a-3": "3/8",
+    "a-4": "2/3",
+    "ra": "1"
+  },
+  {
+    "title": "<p>مغلف يحوي 8 بطاقات متماثلة تحمل الأرقام <span dir='ltr' style='display: inline-block'>0 , 0 , 1 , 1 , 2 , 2 , 2 , 3</span> نسحب من المغلف بطاقتين بالتتالي بدون إعادة وليكن X المتغير العشوائي الذي يدل على مجموع رقمي البطاقتين المسحوبتين إن مجموعة قيم X هي : </p>",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "<span dir='ltr'>X(&Omega;) = {1,2,3,4,5}</span>",
+    "a-2": "<span dir='ltr'>X(&Omega;) = {0,1,2,3,4,5}</span>",
+    "a-3": "<span dir='ltr'>X(&Omega;) = {0,1,2,3,4,5,6}</span>",
+    "a-4": "<span dir='ltr'>X(&Omega;) = {1,2,3,4,5,6}</span>",
+    "ra": "2"
+  },
+  {
+    "title": "<p>يحوي صندوق 5 كرات متماثلة مرقمة بالأرقام <span dir='ltr' style='display: inline-block'>1 , 2 , 3 , 4 , 5</span> نسحب من الصندوق كرتين على التتالي بدون إعادة نعرف X متغير عشوائي يدل على مجموع رقمي البطاقتين المسحوبتين عندئذ يكون <span dir='ltr'><i>f</i><sub style='font-size: 8px'>X</sub>(5)</span> هو : </p>",
+    "name": "a-21",
+    "id": "21-",
+    "a-1": "1/5",
+    "a-2": "3/5",
+    "a-3": "8/25",
+    "a-4": "6/20",
+    "ra": "1"
+  },
+  {
+    "title": "<p>مغلف يحوي 5 بطاقات متماثلة تحمل الأرقام <span dir='ltr' style='display: inline-block'>1 , 2 , 3 , 4 , 5</span> نسحب من المغلف بطاقتين بالتتالي بدون إعادة وليكن X المتغير العشوائي الذي يدل على الرقم الأصغر بين البطاقتين المسحوبتين فإن <span dir='ltr' style='display: inline-block'>P{X = 3}</span> يساوي : </p>",
+    "name": "a-22",
+    "id": "22-",
+    "a-1": "6/36",
+    "a-2": "5/36",
+    "a-3": "7/36",
+    "a-4": "3/36",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن التوقع الرياضي للمتغير العشوائي X الذي قانونه الاحتمالي معطى بالجدول الآتي هو : </span></div><div class='long-2'><div class='random-change'><div class='row'><span class='first'>r<sub>k</sub></span><span>-13</span><span>0</span><span>5</span><span>6</span></div><div class='row'><span class='first'><i>f</i><sub>x</sub>(r<sub>k</sub>)</span><span><div class='kasir'><span class='top'>2</span><span class='bottom'>10</span></div></span><span><div class='kasir'><span class='top'>3</span><span class='bottom'>10</span></div></span><span><div class='kasir'><span class='top'>4</span><span class='bottom'>10</span></div></span><span><div class='kasir'><span class='top'>1</span><span class='bottom'>10</span></div></span></div></div></div></div>",
+    "name": "a-23",
+    "id": "23-",
+    "a-1": "1",
+    "a-2": "3",
+    "a-3": "2",
+    "a-4": "0",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان X متغير عشوائي وجدول قانونه الاحتمالي هو : </span></div><div class='long-2'><div class='random-change'><div class='row'><span class='first'>r<sub>k</sub></span><span>1</span><span>2</span><span>3</span><span>4</span></div><div class='row'><span class='first'><i>f</i><sub>x</sub>(r<sub>k</sub>)</span><span><div class='kasir'><span class='top'>1</span><span class='bottom'>4</span></div></span><span><div class='kasir'><span class='top'>1 + n</span><span class='bottom'>20</span></div></span><span><div class='kasir'><span class='top'>3n</span><span class='bottom'>20</span></div></span><span><div class='kasir'><span class='top'>n - 1</span><span class='bottom'>20</span></div></span></div></div></div><div class='long-3'><span class='text'>فإن قيمة n هي : </span></div></div>",
+    "name": "a-24",
+    "id": "24-",
+    "a-1": "5",
+    "a-2": "4",
+    "a-3": "3",
+    "a-4": "2",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان X متغير عشوائي وجدول قانونه الاحتمالي موضح جانبا إن قيمة &prop; التي تجعل التوقع الرياضي للمتغير العشوائي <span style='display: inline-block;' dir='ltr'>E(X) = 53/12</span> هي : </span></div><div class='long-2'><div class='random-change'><div class='row'><span class='first'>r<sub>k</sub></span><span>1</span><span>2</span><span>3</span><span>&prop;</span></div><div class='row'><span class='first'><i>f</i><sub>x</sub>(r<sub>k</sub>)</span><span><div class='kasir'><span class='top'>1</span><span class='bottom'>8</span></div></span><span><div class='kasir'><span class='top'>5</span><span class='bottom'>24</span></div></span><span><div class='kasir'><span class='top'>7</span><span class='bottom'>24</span></div></span><span><div class='kasir'><span class='top'>9</span><span class='bottom'>24</span></div></span></div></div></div></div>",
+    "name": "a-25",
+    "id": "25-",
+    "a-1": "5",
+    "a-2": "6",
+    "a-3": "7",
+    "a-4": "8",
+    "ra": "4"
+  }
+]

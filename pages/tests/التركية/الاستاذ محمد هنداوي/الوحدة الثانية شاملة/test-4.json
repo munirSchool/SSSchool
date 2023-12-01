@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Sonbahar mevsiminde hangi aylar gelir Atalık",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "Aralık - Ocak - şubat",
+    "a-2": "Mart – nisan – mayıs",
+    "a-3": "Haziran - temmuz – ağustos",
+    "a-4": "Eylül – ekim – kasım",
+    "ra": "4"
+  },
+  {
+    "title": "Aşağıdaki cümlelerden Sonbahar mevsimine göre hangisi doğrudur <span style='display: inline-block'>( sonbahar - ilkbahar)</span>",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<p style='text-align: left;'>Sonbahar mevsimi, ilkbahar mevsimine göre daha serin</p>",
+    "a-2": "<p style='text-align: left;'>ilkbahar mevsimi, yaz mevsimine göre daha sıcak</p>",
+    "a-3": "<p style='text-align: left;'>kış mevsimi, sonbahar mevsimine göre daha sıcak</p>",
+    "a-4": "<p style='text-align: left;'>yaz mevsimi, ilkbahar mevsimine göre daha ılık</p>",
+    "ra": "1"
+  },
+  {
+    "title": "Aşağıdaki kelimele ilişkili doğru isimleri seçin ( Yaş ) kelimesi",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<p style='text-align: left;'>zayıf - düz - bıyık - kısa</p>",
+    "a-2": "<p style='text-align: left;'>çocuk - beyaz - kel - sarı</p>",
+    "a-3": "<p style='text-align: left;'>genç - çocuk - yaşlı - bebek</p>",
+    "a-4": "<p style='text-align: left;'>kıvırcık - yakışıklı - şişman - uzun</p>",
+    "ra": "3"
+  },
+  {
+    "title": "Eylül ayı hangi mevsimine aittir ?",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "<p style='text-align: left;'>Sonbahar mevsimine aittir</p>",
+    "a-2": "<p style='text-align: left;'>kış mevsimine aittir</p>",
+    "a-3": "<p style='text-align: left;'>sonbahr mevsimine ait değildir</p>",
+    "a-4": "<p style='text-align: left;'>yaz mevsimine aittir</p>",
+    "ra": "1"
+  },
+  {
+    "title": "Aşağıdaki hangi kelimeyi 'eş anlamlısı' yanlıştır",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "Kiyafet / Giysi",
+    "a-2": "Kilolu / şişman",
+    "a-3": "festival / şenlik",
+    "a-4": "mutlu / yaşlı",
+    "ra": "4"
+  },
+  {
+    "title": "Türkiye benim ülkemin kuzeyinde. Benim ülkem nerede?",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "kuzeyinda",
+    "a-2": "güneyinde",
+    "a-3": "doğusunda",
+    "a-4": "batısında",
+    "ra": "2"
+  },
+  {
+    "title": "Ağaçlar yapraklarını sararır. Hava serin hangi biz mevsimdeyiz ?",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "yaz mevsiminde",
+    "a-2": "Ağustos ayında",
+    "a-3": "sonbahar mevsiminde",
+    "a-4": "ilkbahar mevsiminde",
+    "ra": "3"
+  },
+  {
+    "title": "En büyük okyanus nedir?",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "Yakutsk",
+    "a-2": "Rusya",
+    "a-3": "Pasifik",
+    "a-4": "Vatikan",
+    "ra": "3"
+  },
+  {
+    "title": "<div><p>Sonbahar mevsimini sever misiniz? Cevabınız evet ise gelin hep birlikte Budapeşte'ye tanıyalım . Bu şehir dört mevsim yaşanır.Ama en güzeli sonbahar mevsimidir. Sonbahar eylül ayında başlar ve kasım ayı sonuna kadar devam eder. Bu mevsimde ağaçlar yapraklarını döker ve her yer sapsarı olur. Sonbaharda sehrin her yerde şenlikler yapılır. Ben bu şehri geçen sene eylül ayında gittim. Budapeşte Sonbahar Festivali'ne katıldım ve çok eğlendim Bu şehirde sonbaharda hava serindir . Sıcaklık ortalama 13-15° derece olur. Ama akşamları hava biraz soğuk olur . Yanınıza hırka ve ceketlerinizi mutlaka alın . Aa, söylemeyi unuttum ! Budapeşte'de Tuna nehri'ni gezin</p><div style='padding: 5px 0'><b>*Aşağıdaki soruları metne göre cevaplayın ( 9 ve 10)</b></div><div>-Metine göre Arif nasıl hissediyor ?</div></div>",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "üzgün",
+    "a-2": "mutsuz",
+    "a-3": "sinirli",
+    "a-4": "eğlenceli",
+    "ra": "4"
+  },
+  {
+    "title": "Aşağıdaki hangi sorunun cevabı metinde yoktur ?",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "<p style='text-align: left;'>Bu şehirde kaç mevsim yaşanır ?</p>",
+    "a-2": "<p style='text-align: left;'>sonbahar hangi ayda başlar ?</p>",
+    "a-3": "<p style='text-align: left;'>Budapeşte hangi ülkede ?</p>",
+    "a-4": "<p style='text-align: left;'>sıcaklık kaç derece olur?</p>",
+    "ra": "4"
+  },
+  {
+    "title": "cümleyi tamamlayınız<div>Ben her gün Spor yaparım, çünkü………</div>",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<p style='text-align: left'>spor ayakkabısı yok</p>",
+    "a-2": "<p style='text-align: left'>her zaman hava soğuk</p>",
+    "a-3": "<p style='text-align: left'>spor vücuduma faydalı olur</p>",
+    "a-4": "<p style='text-align: left'>Evimizde para yok</p>",
+    "ra": "3"
+  },
+  {
+    "title": "Öğretmenimiz dersimizi yavaş yavaş okuyor. Bu cümlede hangi sorunun cevabı vardır ?",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "ne zaman",
+    "a-2": "kim",
+    "a-3": "nerede",
+    "a-4": "niçin",
+    "ra": "2"
+  },
+  {
+    "title": "Güneş ………… doğar. ……………. batar",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "kuzeyden - doğudan",
+    "a-2": "batıdean - Güneyden",
+    "a-3": "ortadan - altıdan",
+    "a-4": "doğdan - batıdan",
+    "ra": "4"
+  },
+  {
+    "title": "kerem dar gömlek giyiyor ve hızlıca yürüyor 'Dar' kelimesini zıt anlamlısı nedir ?",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "büyük",
+    "a-2": "bol",
+    "a-3": "güçlü",
+    "a-4": "ucuz",
+    "ra": "2"
+  },
+  {
+    "title": "Cümlenin doğrusu seçin 'sıfat tamlaması' <span style='display: inline-block'>( Kar + bot )</span>",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "kar botu",
+    "a-2": "kar botusu",
+    "a-3": "kar botuyu",
+    "a-4": "karın botusu",
+    "ra": "1"
+  },
+  {
+    "title": "En kalabalık ülke hangisi ?",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "Japonya",
+    "a-2": "Mısır",
+    "a-3": "Pakistan",
+    "a-4": "Çin",
+    "ra": "4"
+  },
+  {
+    "title": "<b>Aşağıdaki karışık verilen kelimeleri kullanarak düzgün ve anlamlı cümle oluşturun.</b>(İyiler/ seviyorum/ bütün/onlar/arkadaşımlarım/ çünkü )",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "<p style='text-align: left;'>Bütün arkadaşlarımı seviyorum çünkü onlar iyiler</p>",
+    "a-2": "<p style='text-align: left;'>Arkadaşlarım bütün onlar çünkü iyiler seviyorum</p>",
+    "a-3": "<p style='text-align: left;'>iyiler seviyorum bütün onlar çünkü arkadaşlarım</p>",
+    "a-4": "<p style='text-align: left;'>bütün seviyorum arkadaşımlarım iyiler çünkü onlar</p>",
+    "ra": "1"
+  },
+  {
+    "title": "(kolay /soruları/ çok /Türkçe/ mutluyum/çok/çünkü )",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "<p style='text-align: left;'>Türkçe mutluyum çok çünkü çok soruları kolay</p>",
+    "a-2": "<p style='text-align: left;'>çok mutluyum çok soruları kolay çünkü Türkçe</p>",
+    "a-3": "<p style='text-align: left;'>çok mutluyum çünkü Türkçe soruları çok kolay</p>",
+    "a-4": "<p style='text-align: left;'>kolay soruları çok Türkçe mutluyum çünkü çok</p>",
+    "ra": "3"
+  },
+  {
+    "title": "<div><p>Bugün 10 Ocak 2019. Çok heyecanlıyım çünkü İstanbul'a kar yağdı. Dışarda her yer bembeyaz . Biz İstanbul'da kış aylarında kışlık kıyafetlerimiz giyeriz. Çünkü bu mevsimde hava soğuk olur. Ben bugün kahverengi montumu ve kahverengi botumu giydim. Çünkü bu rengi gerçekten de çok seviyorum. Aa, söylemeyi unuttum! Kazağımın rengi de beyaz. Kahverengi ile beyaz çok yakışmış. Aman Allahım , hava çok soğuk.</p><div><b>Aşağıdaki soruları metne göre cevaplayın (19-20)</b></div><div>- İstanbul'da yerler nasıl olur ?</div></div>",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "temizli",
+    "a-2": "kirli",
+    "a-3": "beyaz",
+    "a-4": "boş",
+    "ra": "3"
+  },
+  {
+    "title": "İstanbul'da kışın ………………giyiriz",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "kalın kıyafetler",
+    "a-2": "ince kıyafetler",
+    "a-3": "kısa kıyafetler",
+    "a-4": "tişört ve şapka",
+    "ra": "1"
+  },
+  {
+    "title": "Afrika, Türkiye'nin…………dir.",
+    "name": "a-21",
+    "id": "21-",
+    "a-1": "yakında",
+    "a-2": "yukarıda",
+    "a-3": "güneyinde",
+    "a-4": "batısında",
+    "ra": "3"
+  },
+  {
+    "title": "En güzel şehir ilkbahar mevsiminde hangisi?",
+    "name": "a-22",
+    "id": "22-",
+    "a-1": "Almanya",
+    "a-2": "Budapeşte",
+    "a-3": "Tokyo",
+    "a-4": "Yakutsk",
+    "ra": "3"
+  },
+  {
+    "title": "yağmurdan sonra ……………….dağıldı",
+    "name": "a-23",
+    "id": "23-",
+    "a-1": "bulutlu",
+    "a-2": "güneşli",
+    "a-3": "rüzgarlı",
+    "a-4": "bulutlar",
+    "ra": "1"
+  },
+  {
+    "title": "Günler kısa, geceler uzundur hangi mevsimde ?",
+    "name": "a-24",
+    "id": "24-",
+    "a-1": "yaz",
+    "a-2": "ocakta",
+    "a-3": "kış",
+    "a-4": "ırakta",
+    "ra": "1"
+  },
+  {
+    "title": "Aralık ayı kaçıncı ay ?",
+    "name": "a-25",
+    "id": "25-",
+    "a-1": "on ikinci",
+    "a-2": "birinci",
+    "a-3": "onuncu",
+    "a-4": "dokuzuncu",
+    "ra": "1"
+  }
+]

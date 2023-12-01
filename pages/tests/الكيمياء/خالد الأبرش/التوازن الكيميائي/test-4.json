@@ -1,0 +1,222 @@
+[
+  {
+    "title": "في التفاعلات العكوسة عند بداية التفاعل يكون:",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "سرعة التفاعل المباشر عظمى",
+    "a-2": "سرعة التفاعل المباشر معدومة",
+    "a-3": "سرعة التفاعل الغير مباشر عظمى",
+    "a-4": "سرعة التفاعل الغير مباشر معدومة",
+    "a-5": "كل من A و D",
+    "ra": "5"
+  },
+  {
+    "title": " لديك التفاعل المتوازن : <span dir='ltr' style='display: inline-block; padding: 5px 0;'><i>N</i><sub>2(g)</sub> + 3<i>H</i><sub>2(g)</sub> <span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> 2<i>NH</i><sub>3(g)</sub></span> العلاقة بين <span dir='ltr' style='display: inline-block; padding: 0 5px;'><i>k</i><sub><i>c</i></sub> , <i>k</i><sub><i>p</i></sub></span> : ",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<span dir='ltr'><i>k</i><sub><i>p</i></sub> = <i>k</i><sub><i>c</i></sub>(<i>R.T</i>)<sup>-2</sup></span>",
+    "a-2": "<span dir='ltr'><i>k</i><sub><i>p</i></sub> = <i>k</i><sub><i>c</i></sub>(<i>R.T</i>)<sup>-3</sup></span>",
+    "a-3": "<span dir='ltr'><i>k</i><sub><i>p</i></sub> = <i>k</i><sub><i>c</i></sub></span>",
+    "a-4": "<span dir='ltr'><i>k</i><sub><i>p</i></sub> = <i>k</i><sub><i>c</i></sub>(<i>R.T</i>)<sup>+2</sup></span>",
+    "a-5": "<span dir='ltr'><i>k</i><sub><i>p</i></sub> = <i>k</i><sub><i>c</i></sub>(<i>R.T</i>)<sup>+5</sup></span>",
+    "ra": "1"
+  },
+  {
+    "title": "لديك التفاعل المتوازن الأتي : <span dir='ltr' style='display: inline-block; padding: 5px 0;'>2<i>SO</i><sub>2(g)</sub> + <i>O</i><sub>2(g)</sub> <span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> 2<i>SO</i><sub>3(g)</sub></span> <span dir='ltr' style='display: inline-block; padding: 5px 10px;'>&Delta;<i>H</i><sup style='font-size: 12px;'>&deg;</sup> &lt; 0</span> عبارة ثابت التوازن للتراكيز:",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>[<i>SO</i><sub>3</sub>]<sup>2</sup></span><span class='bottom'>[<i>O</i><sub>2</sub>] [<i>SO</i><sub>2</sub>]<sup>2</sup></span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>[<i>SO</i><sub>3</sub>]<sup>2</sup></span><span class='bottom'>[<i>O</i><sub>2</sub>]</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>[<i>SO</i><sub>3</sub>]</span><span class='bottom'>[<i>O</i><sub>2</sub>] [<i>SO</i><sub>2</sub>]<sup>2</sup></span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>[<i>O</i><sub>2</sub>] [<i>SO</i><sub>2</sub>]<sup>2</sup></span><span class='bottom'>[<i>SO</i><sub>3</sub>]<sup>2</sup></span></div></div>",
+    "a-5": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>[<i>O</i><sub>2</sub>] [<i>SO</i><sub>2</sub>]<sup>4</sup></span><span class='bottom'>[<i>SO</i><sub>3</sub>]<sup>2</sup></span></div></div>",
+    "ra": "1"
+  },
+  {
+    "title": "نضع (5 mol) من (<i>PCl</i><sub>5</sub>) في وعاء محكم الإغلاق سعته <span dir='ltr'>(2 <i>l</i>)</span> ونسخن الوعاء إلى الدرجة <span dir='ltr' style='display: inline-block; padding: 5px'><i>t</i> = 327 <sup>&deg;</sup>C</span> فيبقى في الوعاء <span dir='ltr' style='display: inline-block'>(3 mol)</span> منه وفق المعادلة: <span dir='ltr' style='display: inline-block; padding: 5px 0;'><i>PCl</i><sub>5(g)</sub> <span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> <i>PCl</i><sub>3(g)</sub> + <i>Cl</i><sub>2(g)</sub></span> قيمة ثابت التوازن: ",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "<div class='eq-ans' dir='ltr'><i>k</i><sub><i>c</i></sub><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>3</span></div></div>",
+    "a-2": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = 6</span>",
+    "a-3": "<div class='eq-ans' dir='ltr'><i>k</i><sub><i>c</i></sub><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>6</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><i>k</i><sub><i>c</i></sub><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>2</span><span class='bottom'>3</span></div></div>",
+    "a-5": "<div class='eq-ans' dir='ltr'><i>k</i><sub><i>c</i></sub><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>150</span></div></div>",
+    "ra": "4"
+  },
+  {
+    "title": "في التفاعل الأتي <span dir='ltr' style='display: inline-block; padding: 5px 0;'><i>A</i><sub>(g)</sub> + <i>B</i><sub>(g)</sub> <span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> 3<i>C</i><sub>(g)</sub></span> إذا كانت <span dir='ltr' style='display: inline-block;'>(<i>R</i> = 0.82 <i>L.atm.mol</i><sup>-1</sup>.<i>k</i><sup>-1</sup>)</span> و درجة الحرارة <span dir='ltr' style='display: inline-block; padding: 5px'>(<i>t</i> = 327 <sup>&deg;</sup>C)</span> و قيمة ثابت التوازن للتراكيز <span dir='ltr' style='display: inline-block;'><i>k</i><sub><i>c</i></sub> = 1/3</span> فإن قيمة <span dir='ltr' style='display: inline-block;'><i>k</i><sub><i>p</i></sub></span> تساوي:",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "<span dir='ltr'><i>k</i><sub><i>p</i></sub> = 8.2</span>",
+    "a-2": "<span dir='ltr'><i>k</i><sub><i>p</i></sub> = 1.23</span>",
+    "a-3": "<span dir='ltr'><i>k</i><sub><i>p</i></sub> = 16.4</span>",
+    "a-4": "<span dir='ltr'><i>k</i><sub><i>p</i></sub> = 12.3</span>",
+    "a-5": "<span dir='ltr'><i>k</i><sub><i>p</i></sub> = 0.82</span>",
+    "ra": "3"
+  },
+  {
+    "title": "لديك التفاعل المتوازن الأتي : <span dir='ltr' style='display: inline-block; padding: 5px 0;'><i>A</i><sub>(g)</sub> + 2<i>B</i><sub>(g)</sub> <span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> <i>C</i><sub>(g)</sub> + 2<i>D</i><sub>(g)</sub></span> حيث التراكيز الابتدائية: <span dir='ltr' style='display: inline-block; padding: 5px;'>[<i>A</i>]<sub>0</sub> = 0.3 <i>mol.l</i><sup>-1</sup></span> <span dir='ltr' style='display: inline-block; padding: 5px;'>[<i>B</i>]<sub>0</sub> = 0.6 <i>mol.l</i><sup>-1</sup></span> و عند التوازن <span dir='ltr' style='display: inline-block; padding: 5px;'>[<i>D</i>]<sub>(<i>eq</i>)</sub> = 0.4 <i>mol.l</i><sup>-1</sup></span> قيمة ثابت التوازن تساوي:",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = 8</span>",
+    "a-2": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = 1</span>",
+    "a-3": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = 40</span>",
+    "a-4": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = 4</span>",
+    "a-5": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = 0.2</span>",
+    "ra": "1"
+  },
+  {
+    "title": "لديك التفاعل المتوازن الأتي : <span dir='ltr' style='display: inline-block; padding: 5px 0;'><i>PCl</i><sub>3(g)</sub> + <i>Cl</i><sub>2(g)</sub><span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> <i>PCl</i><sub>5(g)</sub> </span> <span dir='ltr' style='display: inline-block; padding: 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup> &lt; 0</span> اذا اردنا للتوازن أن ينزاح بالاتجاه الغير المباشر:",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "نزيد من تركيز <span dir='ltr'><i>Cl</i><sub>2</sub></span>",
+    "a-2": "نزيد درجة الحرارة",
+    "a-3": "نزيد من الضغط",
+    "a-4": "ننقص تركيز <span dir='ltr'><i>PCl</i><sub>5</sub></span>",
+    "a-5": "كل من A و D",
+    "ra": "2"
+  },
+  {
+    "title": "لديك التفاعل المتوازن : <span dir='ltr' style='display: inline-block; padding: 5px 0;'><i>H</i><sub>2</sub> + <i>I</i><sub>2</sub><span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> 2<i>HI</i> </span> عبارة ثابت التوازن للضغوط الجزئية: ",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>p</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>P</i><sup>2</sup><sub style='margin-left: -5px;'>(<i>HI</i>)</sub></span><span class='bottom'><i>P</i><sub>(<i>H</i><sub>2</sub>)</sub> <span style='font-family: Arial;'>x</span> <i>P</i><sub>(<i>I</i><sub>2</sub>)</sub></span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>p</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>P</i><sub>(<i>H</i><sub>2</sub>)</sub> <span style='font-family: Arial;'>x</span> <i>P</i><sub>(<i>I</i><sub>2</sub>)</sub></span><span class='bottom'><i>P</i><sup>2</sup><sub style='margin-left: -5px;'>(<i>HI</i>)</sub></span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>p</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>P</i><sub style='margin-left: -5px;'>(<i>HI</i>)</sub></span><span class='bottom'><i>P</i><sub>(<i>H</i><sub>2</sub>)</sub> <span style='font-family: Arial;'>x</span> <i>P</i><sub>(<i>I</i><sub>2</sub>)</sub></span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>p</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>P</i><sup>4</sup><sub style='margin-left: -5px;'>(<i>HI</i>)</sub></span><span class='bottom'><i>P</i><sub>(<i>H</i><sub>2</sub>)</sub></span></div></div>",
+    "a-5": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>p</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>P</i><sup>2</sup><sub style='margin-left: -5px;'>(<i>HI</i>)</sub></span><span class='bottom'><i>P</i><sub>(<i>H</i><sub>2</sub>)</sub></span></div></div>",
+    "ra": "1"
+  },
+  {
+    "title": "عند حصول التوازن في التفاعلات العكوسة يكون:",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "التفاعل المباشر لا يتوقف",
+    "a-2": "<span dir='ltr'><i>v</i><sub>1</sub> = <i>v</i><sub>2</sub></span>",
+    "a-3": "التفاعل الغير مباشر لا يتوقف",
+    "a-4": "تبقى تراكيز المواد المتفاعلة و الناتجة ثابتة",
+    "a-5": "كل ما سبق",
+    "ra": "5"
+  },
+  {
+    "title": "اذا كان ثابت التوازن: <span dir='ltr' style='display: inline-block; padding: 5px;'><i>k</i><sub><i>c</i></sub> &Lt; 1</span> فإن التفاعل :",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "يحدث إلى مدى كبير بالاتجاه المباشر",
+    "a-2": "لا يحدث التفاعل",
+    "a-3": "لا يحدث إلى مدى كبير بالاتجاه المباشر",
+    "a-4": "يستهلك نسبة قليلة جدا من المواد المتفاعلة ",
+    "a-5": "كل من C و D",
+    "ra": "5"
+  },
+  {
+    "title": "لديك التفاعل المتوازن : <span dir='ltr' style='display: inline-block; padding: 5px 0;'>2<i>NH</i><sub>3(g)</sub><span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span><i>N</i><sub>2(g)</sub> + 3<i>H</i><sub>2(g)</sub> </span> <span dir='ltr' style='display: inline-block; padding: 5px'>&Delta;<i>H</i><sup style='font-size: 12px'>&deg;</sup> = +92 <i>KJ</i></span> اذا اردنا للتوازن أن ينزاح بالاتجاه المباشر كل ما ذكر صحيح ما عدا:",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "ننقص درجة الحرارة",
+    "a-2": "نقص تركيز <span dir='ltr'><i>N</i><sub>2</sub></span>",
+    "a-3": "ننقص من الضغط",
+    "a-4": "نزيد من تركيز <span dir='ltr'><i>H</i><sub>2</sub></span>",
+    "a-5": "كل من A و D",
+    "ra": "5"
+  },
+  {
+    "title": "في التفاعل السابق : عند زيادة درجة الحرارة فإن ثابت التوازن:",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "ينعدم",
+    "a-2": "لا يتغير",
+    "a-3": "يزداد ثم ينقص",
+    "a-4": "ينقص",
+    "a-5": "يزداد",
+    "ra": "5"
+  },
+  {
+    "title": "عند بلوغ التوازن في التفاعل الآتي <span dir='ltr' style='display: inline-block; padding: 5px 0;'>2<i>A</i> + <i>B</i> <span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> 4<i>C</i></span> كانت التراكيز <span dir='ltr'>[<i>A</i>] = 0.2 <i>mol.l</i><sup>-1</sup></span> , <span dir='ltr'>[<i>B</i>] = 0.3 <i>mol.l</i><sup>-1</sup></span> , <span dir='ltr'>[<i>C</i>] = 0.2 <i>mol.l</i><sup>-1</sup></span> قيمة ثابت التوازن:",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>4</span><span class='bottom'>3</span></div></div>",
+    "a-2": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = 0.5</span>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>2</span><span class='bottom'>15</span></div></div>",
+    "a-4": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = 0.1</span>",
+    "a-5": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = 15</span>",
+    "ra": "3"
+  },
+  {
+    "title": "التركيز الإبتدائي للمادة <i>A</i>:",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<span dir='ltr'> 0.2 <i>mol.l</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'> 0.4 <i>mol.l</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'> 0.3 <i>mol.l</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'> 0.25 <i>mol.l</i><sup>-1</sup></span>",
+    "a-5": "<span dir='ltr'> 0.5 <i>mol.l</i><sup>-1</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "التركيز الإبتدائي للمادة <i>B</i>:",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "<span dir='ltr'> 0.4 <i>mol.l</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'> 0.25 <i>mol.l</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'> 0.55 <i>mol.l</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'> 0.35 <i>mol.l</i><sup>-1</sup></span>",
+    "a-5": "<span dir='ltr'> 0.5 <i>mol.l</i><sup>-1</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "نضع <span dir='ltr'>(4 <i>mol</i>)</span> من يوديد الهيدروجين في وعاء سعته <span dir='ltr'>(2 <i>l</i>)</span> و سخن الوعاء لدرجة حرارة مناسبة فتفكك منه <span dir='ltr'>40%</span> عند التوازن: <span dir='ltr' style='display: inline-block; padding: 5px 0;'>2<i>HI</i><sub>(g)</sub><span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> <i>H</i><sub>2(g)</sub> + <i>I</i><sub>2(g)</sub></span> فيكون قيمة ثابت التوازن تساوي:",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>12</span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>32</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>9</span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>6</span></div></div>",
+    "a-5": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = 6</span>",
+    "ra": "3"
+  },
+  {
+    "title": "لديك التفاعل المتوازن الأتي : <span dir='ltr' style='display: inline-block; padding: 5px 0;'><i>C</i><sub>(s)</sub> + 2<i>H</i><sub>2(g)</sub> <span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> <i>CH</i><sub>4(g)</sub></span> عبارة ثابت التوازن للتراكيز: ",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>[<i>CH</i><sub>4</sub>]</span><span class='bottom'>[<i>H</i><sub>2</sub>]<sup>2</sup></span></div></div>",
+    "a-2": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = [<i>C</i>]</span>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>c</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>[<i>H</i><sub>2</sub>]<sup>2</sup></span><span class='bottom'>[<i>CH</i><sub>4</sub>]</span></div></div>",
+    "a-4": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = [<i>CH<sub>4</sub></i>]</span>",
+    "a-5": "<span dir='ltr'><i>k</i><sub><i>c</i></sub> = 2[<i>CH<sub>4</sub></i>]</span>",
+    "ra": "1"
+  },
+  {
+    "title": "في السؤال السابق (17) عبارة ثابت التوازن للضغوط الجزيئية:",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "<span dir='ltr'><i>k</i><sub><i>p</i></sub>  = <i>P</i><sup>2</sup><sub><i>H</i><sub>2</sub></sub></span>",
+    "a-2": "<span dir='ltr'><i>k</i><sub><i>p</i></sub>  = <i>P</i><sup>2</sup><sub><i>CH</i><sub>4</sub></sub></span>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>p</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>P</i><sup>2</sup><sub><i>H</i><sub>2</sub></sub></span><span class='bottom'><i>P</i><sub><i>CH</i><sub>4</sub></sub> <span style='font-family: Arial;'>x</span> <i>P</i><sub><i>C</i></sub></span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>p</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>P</i><sub><i>CH</i><sub>4</sub></sub></span><span class='bottom'><i>P</i><sup>2</sup><sub><i>H</i><sub>2</sub></sub></span></div></div>",
+    "a-5": "<div class='eq-ans' dir='ltr'><span><i>k</i><sub><i>p</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'><i>P</i><sup>2</sup><sub><i>H</i><sub>2</sub></sub></span></div></div>",
+    "ra": "4"
+  },
+  {
+    "title": "لديك التفاعل المتوازن الأتي : <span dir='ltr' style='display: inline-block; padding: 5px 0;'>2<i>HI</i> <span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> <i>H</i><sub>2</sub> + <i>I</i><sub>2</sub></span> <span style='padding: 5px; display: inline-block;' dir='ltr'>&Delta;<i>H</i><sup style='font-size: 12px;'>&deg;</sup> &gt; 0</span> اذا اردنا للتوازن أن ينزاح بالاتجاه الغير المباشر: ",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "نزيد درجة الحرارة",
+    "a-2": "نزيد من تركيز <span dir='ltr'><i>H</i><sub>2</sub></span>",
+    "a-3": "نزيد تركيز <span dir='ltr'><i>HI</i></span>",
+    "a-4": "نزيد من الضغط",
+    "a-5": "ننقص الضغط",
+    "ra": "2"
+  },
+  {
+    "title": "لديك التفاعل المتوازن الأتي : <span dir='ltr' style='display: inline-block; padding: 5px 0;'>2<i>SO</i><sub>2(g)</sub> + <i>O</i><sub>2(g)</sub> <span class='rarr-wrap'><span class='to-front'>&rarr;</span><span class='to-back'>&rarr;</span></span> 2<i>SO</i><sub>3(g)</sub></span> <span style='padding: 5px; display: inline-block;' dir='ltr'>&Delta;<i>H</i><sup style='font-size: 12px;'>&deg;</sup> &lt; 0</span> اذا اردنا للتوازن أن ينزاح بالاتجاه المباشر: ",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "نزيد درجة الحرارة",
+    "a-2": "ننقص من تركيز  <span dir='ltr'><i>SO</i><sub>3</sub></span>",
+    "a-3": "نزيد تركيز <span dir='ltr'><i>SO</i><sub>2</sub></span>",
+    "a-4": "ننقص من الضغط",
+    "a-5": "كل من B و C",
+    "ra": "5"
+  }
+]

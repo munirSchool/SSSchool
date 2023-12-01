@@ -1,0 +1,202 @@
+[
+  {
+    "title": "المعادلة التفاضلية في نواس الفتل :",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span>(&theta;)''</span><span class='sign'>=</span><span class='sign'>-</span><div class='kasir' style='flex: 2;'><span class='top'><i>I</i><sub>&Delta;</sub></span><span class='bottom'><i>K</i></span></div><span>&theta;</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span>(&theta;)''</span><span class='sign'>=</span><span class='sign'>+</span><div class='kasir' style='flex: 2;'><span class='top'><i>K</i></span><span class='bottom'><i>I</i><sub>&Delta;</sub></span></div><span>&theta;</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span>(&theta;)''</span><span class='sign'>=</span><span class='sign'>-</span><div class='kasir' style='flex: 2;'><span class='top'><i>K</i></span><span class='bottom'><i>I</i><sub>&Delta;</sub></span></div><span>&theta;</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span>(&theta;)''</span><span class='sign'>=</span><span class='sign'>-</span><div class='kasir' style='flex: 2;'><span class='top'><i>K</i></span><span class='bottom'><i>I</i><sub>&Delta;</sub></span></div></div>",
+    "ra": "3"
+  },
+  {
+    "title": "تعطى عبارة النبض الخاص في نواس الفتل : ",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span>&omega;<sub >0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 2px;'><i>K</i></span></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 2px;'><i>I</i><sub>&Delta;</sub></span></span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span>&omega;<sub >0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>K</i></span><span class='bottom'><i>I</i><sub>&Delta;</sub></span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span>&omega;<sub >0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 2px;'><i>I</i><sub>&Delta;</span></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 2px;'><i>K</i></span></span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span>&omega;<sub >0</sub></span><span class='sign'>=</span><span>2&pi;</span><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 2px;'><i>I</i><sub>&Delta;</span></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 2px;'><i>K</i></span></span></div></div>",
+    "ra": "1"
+  },
+  {
+    "title": "نواس فتل دوره الخاص <span dir='ltr' style='display: inline-block'>(<i>T</i><sub style='font-size: 10px'>0</sub> = 2 <i>s</i>)</span> و سعته  الزاوية <span dir='ltr' style='display: inline-block'>(<i>&theta;</i><sub style='font-size: 10px'>max</sub> = &pi; <i>rad</i>)</span> يكون تسارعه الزاوي الأعظمي (طويلة) يساوي:",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<span dir='ltr'>20 <i>rad.s</i><sup>-2</sup></span>",
+    "a-2": "<span dir='ltr'>10&pi; <i>rad.s</i><sup>-2</sup></span>",
+    "a-3": "<span dir='ltr'>0.2&pi; <i>rad.s</i><sup>-2</sup></span>",
+    "a-4": "<span dir='ltr'>2&pi; <i>rad.s</i><sup>-2</sup></span>",
+    "ra": "2"
+  },
+  {
+    "title": "نواس فتل يتألف من ساق متجانسة تابعه الزمني <span dir='ltr' style='display: inline-block'>&theta; = &pi;/2 cos(2&pi;<i>t</i> + &pi;/3)</span> السرعة العظمى طويلة تساوي:",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "<span dir='ltr'>&pi; <i>rad.s</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'>&pi;/2 <i>rad.s</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'>2&pi; <i>rad.s</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'>10 <i>rad.s</i><sup>-1</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "نواس فتل دوره الخاص <span dir='ltr' style='display: inline-block'>(<i>T</i><sub style='font-size: 10px'>0</sub> = 2 <i>s</i>)</span> نجعل كتلته العطالية ربع ما كانت عليه يصبح الدور الخاص الجديد:",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "<span dir='ltr'>1/2 <i>s</i></span>",
+    "a-2": "<span dir='ltr'>4 <i>s</i></span>",
+    "a-3": "<span dir='ltr'>1 <i>s</i></span>",
+    "a-4": "<span dir='ltr'>2 <i>s</i></span>",
+    "ra": "3"
+  },
+  {
+    "title": "نواس فتل دوره الخاص <span dir='ltr' style='display: inline-block'><i>T</i><sub style='font-size: 10px'>0</sub></span> نحذف ثلث طول سلك الفتل فيصبح الدور الجديد:",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&radic;<span class='under-radic' style='margin-left: 2px;'>2</span></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 2px;'>3</span></span></div><span><i>T</i><sub style='font-size: 10px;'>0</sub></span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>T</i><sub style='font-size: 10px;'>0</sub></span><span class='bottom'>3</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>T</i><sub style='font-size: 10px;'>0</sub></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 2px;'>3</span></span></div></div>",
+    "a-4": "<span dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span> = &radic;<span class='under-radic' style='margin-left: 2px;'>3</span> <i>T</i><sub style='font-size: 10px;'>0</sub></span>",
+    "ra": "1"
+  },
+  {
+    "title": "نواس فتل نبضه الخاص <span dir='ltr' style='display: inline-block'>&omega;<sub style='font-size: 10px'>0</sub></span> نجعل طول سلك الفتل ربع ما كان عليه فيصبح النبض الجديد:",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "<span dir='ltr'><span><i>&omega;</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span> = 4<i>&omega;</i><sub style='font-size: 10px;'>0</sub></span>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>&omega;</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>&omega;</i><sub style='font-size: 10px;'>0</sub></span><span class='bottom'>4</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>&omega;</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>&omega;</i><sub style='font-size: 10px;'>0</sub></span><span class='bottom'>2</span></div></div>",
+    "a-4": "<span dir='ltr'><span><i>&omega;</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span> = 2<i>&omega;</i><sub style='font-size: 10px;'>0</sub></span>",
+    "ra": "4"
+  },
+  {
+    "title": "نواس فتل دوره الخاص <span dir='ltr' style='display: inline-block'><i>T</i><sub style='font-size: 10px'>0</sub></span> نقسم طول السلك إلى قسمين متساوين و نعلق الساق بالقسمين معا من الأعلى و من الأسفل فيكون الدور الخاص الجديد:",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>T</i><sub style='font-size: 10px;'>0</sub></span><span class='bottom'>2</span></div></div>",
+    "a-2": "<span dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span> = 4<i>T</i><sub style='font-size: 10px;'>0</sub></span>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>T</i><sub style='font-size: 10px;'>0</sub></span><span class='bottom'>4</span></div></div>",
+    "a-4": "<span dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span> = 2<i>T</i><sub style='font-size: 10px;'>0</sub></span>",
+    "ra": "1"
+  },
+  {
+    "title": "تعطى علاقة الطاقة الحركية في النواس الفتل:",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>E</i><sub style='font-size: 10px;'><i>k</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>2</span></div><span><i>I</i><sub>&Delta;</sub>&omega;</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>E</i><sub style='font-size: 10px;'><i>k</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>4</span></div><span><i>I</i><sub>&Delta;</sub>&omega;<sup>2</sup></span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>E</i><sub style='font-size: 10px;'><i>k</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>2</span></div><span><i>I</i><sub>&Delta;</sub>&omega;<sup>2</sup></span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span><i>E</i><sub style='font-size: 10px;'><i>k</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>2</span></div><span><i>m</i><i>v</i><sup>2</sup></span></div>",
+    "ra": "3"
+  },
+  {
+    "title": "نواس فتل ثابت فتل سلك التعليق <span dir='ltr' style='display: inline-block'><i>k</i> = 4 <span style='font-family: Arial;'>x</span> 10<sup>-2</sup> <i>m.N.rad</i><sup>-1</sup></span> و عزم عطالة الساق <span dir='ltr' style='display: inline-block'><i>I</i><sub>&Delta;</sub> = 4 <span style='font-family: Arial;'>x</span> 10<sup>-3</sup> <i>kg.m</i><sup>2</sup></span> فيكون نبضه الخاص: ",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "<span dir='ltr'>&pi;/2 <i>rad.s</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'>2&pi; <i>rad.s</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'>2 <i>rad.s</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'>&pi; <i>rad.s</i><sup>-1</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "الطاقة الحركية تكون عظمى عندما:",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<span dir='ltr'>&theta; = &plusmn; &theta;<sub><i>max</i></sub></span>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span>&theta;</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&theta;<sub><i>max</i></sub></span><span class='bottom'>3</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span>&theta;</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&theta;<sub><i>max</i></sub></span><span class='bottom'>2</span></div></div>",
+    "a-4": "<span dir='ltr'>&theta; = 0</span>",
+    "ra": "4"
+  },
+  {
+    "title": "نواس فتل يتألف من ساق متجانسة تعلق من منتصفها بسلك فتل حيث عزم عطالة الساق <span dir='ltr' style='display: inline-block'><i>I</i><sub>&Delta;</sub> = 4 <span style='font-family: Arial;'>x</span> 10<sup>-2</sup> <i>kg.m</i><sup>2</sup></span> و بعد أن يتوازن نزيحه عن وضع توازنه بسعة زاوية <span dir='ltr' style='display: inline-block'>&theta;<sub><i>max</i></sub> = &pi;</span> ليهتز بدور خاص  <span dir='ltr' style='display:inline-block'>2<i>s</i></span> تكون طاقة الحركية للنواس عندما <span dir='ltr' style='display:inline-block'>&theta; = &pi;/2</span> تساوي:",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "<span dir='ltr'>2 <i>J</i></span>",
+    "a-2": "<span dir='ltr'>0.5 <i>J</i></span>",
+    "a-3": "<span dir='ltr'>1.5 <i>J</i></span>",
+    "a-4": "<span dir='ltr'>0.2 <i>J</i></span>",
+    "ra": "3"
+  },
+  {
+    "title": "يتألف نواس فتل من قرص متجانس كتلته  <span dir='ltr' style='display: inline-block'><i>m</i> = 2 <i>kg</i></span> قطره <span dir='ltr' style='display: inline-block'> 4 <i>cm</i></span> معلق من مركزه بسلك فتل شاقولي ثابت فتله يساوي <span dir='ltr' style='display: inline-block'><i>k</i> = 16 <span style='font-family: Arial;'>x</span> 10<sup>-3</sup> <i>m.N.rad</i><sup>-1</sup></span> ندير القرص في مستو أفقي بمقدار ربع دورة في الاتجاه الموجب عن وضع توازنه و نتركه دون سرعة ابتدائية في اللحظة <span dir='ltr' style='display; inline-block'><i>t</i> = 0</span> . (عزم عطالة القرص حول محور عمودي على مستويه ومار من مركزه <span dir='ltr' style='display: inline-block'><i>I</i><sub style='font-szie: 10px'>&Delta; / <i>c</i></sub> = 1/2 <i>mr</i><sup>2</sup></span>) التابع الزمني للمطال الزاوي:",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span>&theta;</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>4</span></div><span>cos(2&pi;<i>t</i>)</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span>&theta;</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>2</span></div><span>cos(&pi;<i>t</i>)</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span>&theta;</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>4</span></div><span>cos(&pi;<i>t</i>)</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span>&theta;</span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>2</span></div><span>cos(2&pi;<i>t</i>)</span></div>",
+    "ra": "4"
+  },
+  {
+    "title": "ساق متجانسة مهملة الكتلة طولها <span dir='ltr' style='display; inline-block'><i>l</i> = 0.2 <i>m</i></span> تعلق من منتصفها بسلك فتل ثابت فتله <span dir='ltr' style='display: inline-block'><i>k</i> = 1 <i>m.N.rad</i><sup>-1</sup></span> و نثبت في طرفيها كتلتين متساويتين <span dir='ltr' style='display: inline-block'><i>m</i><sub>1</sub> = <i>m</i><sub>2</sub> 0.2 <i>kg</i></span> الدور الخاص يساوي:",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<span dir='ltr'>0.4 <i>s</i></span>",
+    "a-2": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>5</span><span class='bottom'>2&pi;</span></div><span><i>s</i></span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>4&pi;</span><span class='bottom'>5</span></div><span><i>s</i></span></div>",
+    "a-4": "<span dir='ltr'>2&pi; <i>s</i></span>",
+    "ra": "1"
+  },
+  {
+    "title": "نواس فتل دوره الخاص <span dir='ltr' style='display: inline-block'><i>T</i><sub style='font-size: 10px'>0</sub> 1 <i>s</i></span> نستبدل سلك الفتل بسلك اخر ثابت فتله <span dir='ltr' style='display: inline-block'><i>k</i>' = 4<i>k</i></span> يصبح الدور الجديد:",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>2</span></div><span><i>s</i></span></div>",
+    "a-2": "<span dir='ltr'>2 <i>s</i></span>",
+    "a-3": "<span dir='ltr'>4 <i>s</i></span>",
+    "a-4": "<span dir='ltr'>1 <i>s</i></span>",
+    "ra": "1"
+  },
+  {
+    "title": "نواس فتل نبضه الخاص يساوي <span dir='ltr' style='display: inline-block'>&omega;<sub style='font-size: 10px'>0</sub> = 2&pi; <i>rad.s</i><sup>-1</sup></span> يكون زمن المرور الثاني من وضع التوازن:",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>3&pi;</span><span class='bottom'>4</span></div><span><i>s</i></span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>3&pi;</span><span class='bottom'>2</span></div><span><i>s</i></span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>3</span><span class='bottom'>2</span></div><span><i>s</i></span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><div class='kasir' style='flex: 2;'><span class='top'>3</span><span class='bottom'>4</span></div><span><i>s</i></span></div>",
+    "ra": "4"
+  },
+  {
+    "title": "تابع السرعة الزاوية في نواس الفتل:",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "<span dir='ltr'>&omega; = &omega;<sub style='font-size: 10px;'>0</sub>&theta;<sub style='font-size: 10px;'><i>max</i></sub> sin (&omega;<sub style='font-size: 10px;'>0</sub><i>t</i> + &phi;)</span>",
+    "a-2": "<span dir='ltr'>&omega; = &theta;<sub style='font-size: 10px;'><i>max</i></sub> sin (&omega;<sub style='font-size: 10px;'>0</sub><i>t</i> + &phi;)</span>",
+    "a-3": "<span dir='ltr'>&omega; = -&omega;<sub style='font-size: 10px;'>0</sub>&theta;<sub style='font-size: 10px;'><i>max</i></sub> sin (&omega;<sub style='font-size: 10px;'>0</sub><i>t</i> + &phi;)</span>",
+    "a-4": "<span dir='ltr'>&omega; = sin (&omega;<sub style='font-size: 10px;'>0</sub><i>t</i> + &phi;)</span>",
+    "ra": "3"
+  },
+  {
+    "title": "عند الوضعين الطرفين (المطالين  الأعظمين) تنعدم الطاقة:",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "الحركية ",
+    "a-2": "الكامنة",
+    "a-3": "الميكانيكية",
+    "a-4": "الحركية",
+    "ra": "4"
+  },
+  {
+    "title": "نواس فتل دوره الخاص <span dir='ltr' style='display: inline-block'><i>T</i><sub style='font-size: 10px'>0</sub></span> نضاعف سعة الاهتزاز يصبح الدور الجديد:",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>T</i><sub style='font-size: 10px;'>0</sub></span><span class='bottom'>&radic;<span class='under-radic' style='margin-left: 2px;'>2</span></span></div></div>",
+    "a-2": "<span dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span> = <i>T</i><sub style='font-size: 10px;'>0</sub></span>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>T</i><sub style='font-size: 10px;'>0</sub></span><span class='bottom'>2</span></div></div>",
+    "a-4": "<span dir='ltr'><span><i>T</i>'<sub style='font-size: 10px; margin-left: -4px;'>0</sub></span> = 2<i>T</i><sub style='font-size: 10px;'>0</sub></span>",
+    "ra": "2"
+  },
+  {
+    "title": "نواس فتل سرعته الزاوية العظمى طويلة تساوي <span dir='ltr' style='display; inline-block'>&pi; <i>rad.s</i><sup>-1</sup></span> و تسارعه الزاوي الأعظمي طويلة <span dir='ltr' style='display; inline-block'>2&pi; <i>rad.s</i><sup>-2</sup></span> فيكون دوره الخاص يساوي:",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "<span dir='ltr'>2 <i>s</i></span>",
+    "a-2": "<span dir='ltr'>&pi; <i>s</i></span>",
+    "a-3": "<span dir='ltr'>2&pi; <i>s</i></span>",
+    "a-4": "<span dir='ltr'>1 <i>s</i></span>",
+    "ra": "2"
+  }
+]

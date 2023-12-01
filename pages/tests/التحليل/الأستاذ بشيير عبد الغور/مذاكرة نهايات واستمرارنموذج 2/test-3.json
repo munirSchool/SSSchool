@@ -1,0 +1,134 @@
+[
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign gathir'>=</span><span>&radic;<span class='under-radic'>4<i>x</i><sup>2</sup> - 5</span></span><span class='sign'>-</span><span>&radic;<span class='under-radic'>9<i>x</i><sup>2</sup> + 1</span></span></div></div><div class='long-3'><span class='text'>فإن</span><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; +&infin;</span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span></div><span class='text'>هي :</span></div></div>",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "<span dir='ltr'>+&infin;</span>",
+    "a-2": "0",
+    "a-3": "1",
+    "a-4": "1-",
+    "a-5": "<span dir='ltr'>-&infin;</span>",
+    "ra": "5"
+  },
+  {
+    "title": "<div class='eq-main sub-sup long'><div class='long-1'><span class='text'>إذا كانت </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><div class='suber out-sup'><i>e</i></div><div class='kasir super biracket'><span class='top'><i>ln</i>(2<i>x</i> + 1)</span><span class='bottom'><i>x</i></span></div></div></div><div class='long-2'><span class='text'>فإن</span><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; 0</span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span></div><span class='text'>هي :</span></div></div>",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<span dir='ltr'>1/<i>e</i></span>",
+    "a-2": "<span dir='ltr'><i>e</i></span>",
+    "a-3": "<span dir='ltr'><i>e</i><sup>2</sup></span>",
+    "a-4": "<span dir='ltr'>-<i>e</i></span>",
+    "a-5": "1",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><span>ln(2<i>x</i><sup>3</sup> + 1)</span><span class='sign'>-</span><span>ln(3<i>x</i><sup>3</sup> - 1)</span><span class='sign'>-</span><span>3<i>x</i></span></div></div><div class='long-3'><span class='text'>فإن</span><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; +&infin;</span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span></div><span class='text'>هي :</span></div></div>",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<span dir='ltr'>-&infin;</span>",
+    "a-2": "1-",
+    "a-3": "1",
+    "a-4": "<span dir='ltr'>+&infin;</span>",
+    "a-5": "2/3",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>معادلة المستقيم المقارب الأفقي للخط البباني للدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><span>(3 + ln<i>x</i>).<i>e</i><sup>-<i>x</i></sup></span></div></div><div class='long-3'><span class='text'>في جوار <span dir='ltr'>+&infin;</span> هي : </span></div></div>",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "<span dir='ltr'><i>y</i><span class='sign'>=</span>1</span>",
+    "a-2": "<span dir='ltr'><i>x</i><span class='sign'>=</span>1</span>",
+    "a-3": "<span dir='ltr'><i>y</i><span class='sign'>=</span>0</span>",
+    "a-4": "<span dir='ltr'><i>x</i><span class='sign'>=</span>0</span>",
+    "a-5": "<span dir='ltr'><i>y</i><span class='sign'>=</span>-1</span>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت</span><div class='eq'><div class='kasir biracket'><span class='top'><i>e</i><sup>2<i>ax</i></sup> - 2<i>e</i><sup><i>ax</i></sup> + 1</span><span class='bottom'><i>x</i><sup>2</sup></span></div><span><span class='sign'>=</span>4</span></div><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; 0</span></span></div></div><div class='long-2'><span class='text'>فإن قيمة <i>a</i> هي :</span></div></div>",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "4",
+    "a-2": "0",
+    "a-3": "<span dir='ltr'><span class='or-equal'>+</span>2</span>",
+    "a-4": "1",
+    "a-5": "2",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت الدالة : </span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><div class='kasir'><span class='top'><i>x</i><sup>2</sup>.<i>sin</i>(<i>e</i><sup><i>x</i></sup> + 1)</span><span class='bottom'><i>X</i><sup>3</sup> + 1</span></div></div></div><div class='long-3'><span class='text'>فإن</span><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; +&infin;</span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span></div><span class='text'>هي :</span></div></div>",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "<span dir='ltr'>+&infin;</span>",
+    "a-2": "<span dir='ltr'>-&infin;</span>",
+    "a-3": "0",
+    "a-4": "1",
+    "a-5": "1-",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان محور الفواصل <span dir='ltr'><i>xx'</i></span> مقارب للخط البياني <span><i>c</i></span></span></div><div class='long-2'><span class='text'>للدالة : </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><div class='kasir'><span class='top'><i>ax</i><sup>2</sup> + 5<i>x</i> + 2</span><span class='bottom'><i>X</i><sup>2</sup> + 3</span></div></div></div><div class='long-3'><span class='text'>فإن قيمة <i>a</i> هي : </span></div></div>",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "<span dir='ltr'><i>a</i><span class='sign'>=</span>-1</span>",
+    "a-2": "<span dir='ltr'><i>a</i><span class='sign'>=</span>1</span>",
+    "a-3": "<span dir='ltr'><i>a</i><span class='sign'>=</span>0</span>",
+    "a-4": "<span dir='ltr'><i>a</i><span class='sign'>=</span>3</span>",
+    "a-5": "<span dir='ltr'><i>a</i><span class='sign'>=</span>-2</span>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>معادلة المستقيم المقارب الشاقولي للخط البياني للدالة :</span></div><div class='long-2'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><div class='kasir'><span class='top'>2</span><span class='bottom'><i>e</i><sup>4<i>x</i></sup> - 1</span></div></div><span class='text'>هي :</span></div></div>",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "<span dir='ltr'><i>y</i><span class='sign'>=</span>1</span>",
+    "a-2": "<span dir='ltr'><i>x</i><span class='sign'>=</span>1</span>",
+    "a-3": "<span dir='ltr'><i>y</i><span class='sign'>=</span>0</span>",
+    "a-4": "<span dir='ltr'><i>x</i><span class='sign'>=</span>0</span>",
+    "a-5": "<span dir='ltr'><i>y</i><span class='sign'>=</span>-1</span>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كانت </span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><div class='kasir'><span class='top'><i>ln</i>(1 + <i>tan</i>5<i>x</i>)</span><span class='bottom'><i>ln</i>(1 - 3<i>sinx</i>)</span></div></div></div><div class='long-2'><span class='text'>فإن</span><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; 0</span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span></div><span class='text'>هي :</span></div></div>",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "5/3-",
+    "a-2": "3/5-",
+    "a-3": "1-",
+    "a-4": "1",
+    "a-5": "3/5",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن الدالة</span><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><div class='kasir'><span class='top'><i>x</i></span><span class='bottom'>1 - <i>lnx</i></span></div></div></div><div class='long-2'><span class='text'>مستمرة على المجال :</span></div></div>",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "<div><span dir='ltr'>]0, +&infin;[</span>فقط</div>",
+    "a-2": "<div><span dir='ltr'>]1, +&infin;[</span>فقط</div>",
+    "a-3": "<div><span dir='ltr'>]0, 1[</span>فقط</div>",
+    "a-4": "<div><span dir='ltr'>]e, +&infin;[</span>و<span dir='ltr'>]0,<i>e</i>[</span></divdir=>",
+    "a-5": "<div><span dir='ltr'>]1, +&infin;[</span>و<span>]0,1[</span></div>",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>الدالة <i>f</i> من الدوال المذكورة تحقق</span></div><div class='long-2'><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; -&infin;</span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span></div><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; +&infin;</span></span><span class='sign'><i>f</i></span><span>(<i>x</i>)</span></div><span class='text'>هي :</span></div></div>",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<div class='eq-main eq-ans'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><div class='kasir'><span class='top'><i>x</i><sup>2</sup> + 1</span><span class='bottom'>2<i>x</i>+ 1</span></div></div></div>",
+    "a-2": "<div class='eq-main eq-ans'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><div class='kasir'><span class='top'>3<i>x</i><sup>4</sup> + 5<i>x</i> - 1</span><span class='bottom'><i>x</i> + 1</span></div></div></div>",
+    "a-3": "<div class='eq-main eq-ans'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><div class='kasir'><span class='top'>3<i>x</i><sup>2</sup> + 5<i>x</i> + 1</span><span class='bottom'><i>x</i><sup>2</sup> + 1</span></div></div></div>",
+    "a-4": "<div class='eq-main eq-ans'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><span>5<i>x</i><sup>3</sup> + 5</span></div></div>",
+    "a-5": "<div class='eq-main eq-ans'><div class='eq'><span class='sign'><i>f</i></span><span>(<i>x</i>)</span><span class='eq-sign'>=</span><span>-<i>e</i><sup><i>x</i></sup> + 1</span></div></div>",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا علمت أن <i>f</i> دالة مستمرة عند <span><i>x</i><span class='sign'>=</span>5</span> </span></div><div class='long-2'><span class='text'>وأن <span><span class='sign'><i>f</i></span><span>(5)</span><span class='eq-sign'>=</span>2</span> و <span><div dir='ltr' class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; -&infin;</span></span><span class='sign'><i>g</i></span><span>(<i>x</i>)</span><span class='sign'>=</span>5</div></span></span></div><div class='long-3 p-t-20'><span class='text'>فإن</span><div class='l-eq'><span>lim<span class='limit'><i> x </i>&rarr; -&infin;</span></span><span>(<i>f</i><span class='inside'></span><i>g</i>)(<i>x</i>)</span></div><span class='text'>تساوي :</span></div></div>",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "2-",
+    "a-2": "0",
+    "a-3": "2",
+    "a-4": "5",
+    "a-5": "1",
+    "ra": "3"
+  }
+]

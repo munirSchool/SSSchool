@@ -1,0 +1,202 @@
+[
+  {
+    "title": "هزازة توافقية بسطية دورها الخاص <span dir='ltr' style='display: inline-block'><i>T</i><sub>0</sub> = 1 <i>s</i></span> وتسارع الجاذبية الأرضية <span dir='ltr' style='display: inline-block'><i>g</i> = 10 <i>m.s</i><sup>-2</sup></span> الاستطالة السكونية للنابض تساوي:",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "<span dir='ltr'>0.1 <i>m</i></span>",
+    "a-2": "<span dir='ltr'>0.25 <i>m</i></span>",
+    "a-3": "<span dir='ltr'>4 <i>m</i></span>",
+    "a-4": "<span dir='ltr'>0.2 <i>m</i></span>",
+    "ra": "2"
+  },
+  {
+    "title": "نواس مرن سعة الإهتزاز فيه تساوي <span dir='ltr' style='display: inline-block'>5 <i>cm</i></span> ودوره الخاص <span dir='ltr' style='display: inline-block'>&pi; <i>s</i></span> تكون سرعته العظمى (طويلة) تساوي : ",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<span dir='ltr'>0.05 &pi; <i>m.s</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr'>1 <i>m.s</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr'>5&pi; <i>m.s</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr'>0.1 <i>m.s</i><sup>-1</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "نواس مرن يتألف من نابض مرن مهمل الكتلة حلقاته متباعدة نعلق في نهايته جسم كتلته <span dir='ltr' style='display: inline-block'><i>m</i> = 0.5 <i>kg</i></span> نزيحه عن وضع توازنه فيهتز بحركة جيبية انسحابية تابعها الزمني : <span dir='ltr' style='display: inline-block;'><i>x</i> = 0.08cos(&pi;<i>t</i> + &pi;/3)</span> فتكون قيمة طاقته الميكانيكية: ",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<span dir='ltr'> 16 <span style='font-family: Arial;'>x</span> 10<sup>-3</sup> <i>J</i></span>",
+    "a-2": "<span dir='ltr'> 2 <span style='font-family: Arial;'>x</span> 10<sup>-1</sup> <i>J</i></span>",
+    "a-3": "<span dir='ltr'> 16 <span style='font-family: Arial;'>x</span> 10<sup>-4</sup> <i>J</i></span>",
+    "a-4": "<span dir='ltr'> 32 <span style='font-family: Arial;'>x</span> 10<sup>-3</sup> <i>J</i></span>",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><p>هزازة توافقية بسيطة دورها الخاص <span dir='ltr' style='display: inline-block;'><i>T</i><sub>0</sub></span> نجعل </p></div><div class='long-2'><div class='eq'><span><i>k</i>'</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>k</i></span><span class='bottom'>2</span></div><span class='sign'>,</span><span><i>m</i>'</span><span class='sign'>=</span><div class='kasir'><span class='top'><i>m</i></span><span class='bottom'>2</span></div></div></div><div class='long-3'><p>فيصبح دورها الخاص الجديد :</p></div></div>",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "<span dir='ltr'><i>T</i>'<sub style='margin-left: -8px; font-size: 10px;'>0</sub> = 2<i>T</i><sub style='font-size: 10px;'>0</sub></span>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>T</i><sup>'</sup><sub style='margin-left: -10px; font-size: 10px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>T</i><sub style='margin-left: -2px;'>0</sub></span><span class='bottom'>2</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>T</i><sup>'</sup><sub style='margin-left: -10px; font-size: 10px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>T</i><sub style='margin-left: -2px;'>0</sub></span><span class='bottom'>&radic;<span class='under-radic'>2</span></span></div></div>",
+    "a-4": "<span dir='ltr'><i>T</i>'<sub style='margin-left: -8px; font-size: 10px;'>0</sub> = <i>T</i><sub style='font-size: 10px;'>0</sub></span>",
+    "ra": "4"
+  },
+  {
+    "title": " نواس مرن تابعه الزمني : <span dir='ltr' style='display: inline-block;'><i>x</i> = 0.1cos(&pi;<i>t</i>)</span> يكون زمن المرور الثالث من وضع التوازن يساوي:",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "<span dir='ltr'>1.5 <i>s</i></span>",
+    "a-2": "<span dir='ltr'>1.5&pi; <i>s</i></span>",
+    "a-3": "<span dir='ltr'>2.5 <i>s</i></span>",
+    "a-4": "<span dir='ltr'>0.5 <i>s</i></span>",
+    "ra": "3"
+  },
+  {
+    "title": "عندما يمر الجسم في مركز التوازن في الهزازة التوافقية البسيطة :",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "ينعدم التسارع ولا يقف الجسم",
+    "a-2": "تنعدم السرعة و يقف الجسم",
+    "a-3": "تنعدم السرعة و التسارع و يقف الجسم",
+    "a-4": "ينعدم التسارع و يقف الجسم",
+    "ra": "1"
+  },
+  {
+    "title": "إن قوة الإرجاع في نواس المرن :",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "تتناسب طردا مع المطال و تخالفه بالإشارة",
+    "a-2": "تناسب عكسا مع المطال و تخالفه بالإشارة",
+    "a-3": "تتناسب طردا مع مربع المطال",
+    "a-4": "تتناسب عكسا مع مربع المطال",
+    "ra": "1"
+  },
+  {
+    "title": " تكون السرعة عظمى في النواس المرن عند :",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "<span dir='ltr'>+X<sub><i>max</i></sub></span>",
+    "a-2": "<span dir='ltr'><i>x</i> = 0</span>",
+    "a-3": "<span dir='ltr'>-X<sub><i>max</i></sub></span>",
+    "a-4": "كل ماسبق",
+    "ra": "2"
+  },
+  {
+    "title": "نواس مرن يتألف من نابض مرن مهمل الكتلة حلقاته متباعدة نعلق في نهايته جسم كتلته <span dir='ltr' style='display: inline-block'>(<i>m</i>)</span> نزيحه عن وضع توازنه فيهتز بحركة يبية انسحابية تابعها الزمني : <span dir='ltr' style='display: inline-block'><i>x</i> = 0.04cos(&pi;<i>t</i> + &pi;)</span> فتكون قيمة مطاله عندما <span dir='ltr' style='display: inline-block'>(<i>t</i> = 0)</span> تساوي:",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "<span dir='ltr'>0.04 <i>m</i></span>",
+    "a-2": "<span dir='ltr'>0.08 <i>m</i></span>",
+    "a-3": "<span dir='ltr'>-0.04 <i>m</i></span>",
+    "a-4": "<span dir='ltr'>-0.4 <i>m</i></span>",
+    "ra": "3"
+  },
+  {
+    "title": "يهتز جسم معلق بنابض مرن مهمل الكتلة حلقاته متباعدة شاقوليا بحركة توافقية بسيطة بدور خاص <span dir='ltr' style='display: inline-block'>(<i>T</i><sub style='font-size: 10px;'>0</sub> = 4 <i>s</i>)</span> و طول القطعة المستقيمة التي يهتز عليها الجسم يساوي <span dir='ltr' style='display: inline-block'>( 10 <i>cm</i> )</span> و بفرض مبدأ الزمن لحظة مرور الجسم من مركز الاهتزاز و هو يتحرك بالاتجاه لسالب : فيكون التابع الزمني للمطال:",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>x</i></span><span class='sign'>=</span><span>0.1cos</span><span>( &pi;<i>t</i></span><span class='sign'>+</span><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>2</span></div><span>)</span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>x</i></span><span class='sign'>=</span><span>0.1cos</span><span>(</span><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>2</span></div><span><i>t</i></span><span class='sign'>+</span><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>2</span></div><span>)</span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>x</i></span><span class='sign'>=</span><span>0.5cos</span><span>(</span><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>2</span></div><span><i>t</i></span><span class='sign'>-</span><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>2</span></div><span>)</span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span><i>x</i></span><span class='sign'>=</span><span>0.5cos</span><span>(</span><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>2</span></div><span><i>t</i></span><span class='sign'>+</span><div class='kasir' style='flex: 2;'><span class='top'>&pi;</span><span class='bottom'>2</span></div><span>)</span></div>",
+    "ra": "4"
+  },
+  {
+    "title": "بالاقتراب من مركز الإهتزاز بالهزازة التوافقية البسيطة و بإهمال القوى المبددة للطاقة:",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "تتحول الطاقة الميكانيكية إلى طاقة حركية",
+    "a-2": "تتحول الطاقة الكامنة إلى طاقة حركية و حرارية",
+    "a-3": "تزداد الطاقة الكامنة و تتناقص الطاقة الحركية",
+    "a-4": "تزداد الطاقة الحركية و تتناقص الطاقة الكامنة",
+    "ra": "4"
+  },
+  {
+    "title": "المعادلة التفاضلية في النواس المرن :",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span>(<i>x</i>)<sup>''</sup><sub style='margin-left: -12px; font-size: 12px;'><i>t</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>k</i></span><span class='bottom'><i>m</i></span></div><span><i>x</i></span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span>(<i>x</i>)<sup>''</sup><sub style='margin-left: -12px; font-size: 12px;'><i>t</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'><i>m</i></span></div><span><i>x</i></span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span>(<i>x</i>)<sup>''</sup><sub style='margin-left: -12px; font-size: 12px;'><i>t</i></sub></span><span class='sign'>=</span><span>-</span><div class='kasir' style='flex: 2;'><span class='top'><i>m</i></span><span class='bottom'><i>k</i></span></div><span><i>x</i></span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span>(<i>x</i>)<sup>''</sup><sub style='margin-left: -12px; font-size: 12px;'><i>t</i></sub></span><span class='sign'>=</span><span>-</span><div class='kasir' style='flex: 2;'><span class='top'><i>k</i></span><span class='bottom'><i>m</i></span></div><span><i>x</i></span></div>",
+    "ra": "4"
+  },
+  {
+    "title": " إن طبيعة الحركة لمركز عطالة الجسم الذي يشكل هزازة توافقية بسيطة هي:",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "مستقيمة متسارعة نحو مركز الإهتزاز",
+    "a-2": "مستقيمة متغيرة بانتظام",
+    "a-3": "مستقيمة منتظمة نحو مركز الإهتزاز",
+    "a-4": "مستقيمة متباطئة بانتظام",
+    "ra": "1"
+  },
+  {
+    "title": "تنعدم الطاقة الكامنة المرونية في النواس المرن:",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>x</i></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>X<sub><i>max</i></sub></span><span class='bottom'>2</span></div></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>x</i></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>X<sub><i>max</i></sub></span><span class='bottom'>3</span></div></div>",
+    "a-3": "<span dir='ltr'><i>x</i> = 0</span>",
+    "a-4": "<span dir='ltr'><i>x</i> = &plusmn; X<sub><i>max</i></sub></span>",
+    "ra": "3"
+  },
+  {
+    "title": "يتوقف الجسم المهتز في الهزازة التوافقية البسيطة عن الحركة بانعدام:",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": " السرعة في <span dir='ltr'>X<sub><i>max</i></sub></span>",
+    "a-2": "السرعة و التسارع في مركز الإهتزاز",
+    "a-3": "التسارع عند المرور في مركز الإهتزاز",
+    "a-4": "الطاقة الحركية",
+    "ra": "2"
+  },
+  {
+    "title": "نواس مرن دوره الخاص <span dir='ltr' style='display: inline-block'>(2 <i>s</i>)</span> تكون سرعته العظمى طويلة تساوي: <span dir='ltr' style='display: inline-block'><i>v</i><sub style='font-size: 10px'>max</sub> = 0.2&pi; <i>m.s</i><sup>-1</sup></span> سعة الإهتزاز فيه تساوي:",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<span dir='ltr'>X<sub><i>max</i></sub> = 0.2 <i>cm</i></span>",
+    "a-2": "<span dir='ltr'>X<sub><i>max</i></sub> = 10&pi; <i>cm</i></span>",
+    "a-3": "<span dir='ltr'>X<sub><i>max</i></sub> = 20 <i>cm</i></span>",
+    "a-4": "<span dir='ltr'>X<sub><i>max</i></sub> = 2 <i>cm</i></span>",
+    "ra": "3"
+  },
+  {
+    "title": "في النواس المرن عندما <span dir='ltr' style='display: inline-block'><i>E</i><sub style='font-size: 10px'>k</sub> = 2<i>E</i><sub style='font-size: 10px'>p</sub></span> يكون:",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "<span dir='ltr'><i>x</i> = X<sub><i>max</i></sub></span>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>x</i></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>X<sub><i>max</i></sub></span><span class='bottom'>2</span></div></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>x</i></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>X<sub><i>max</i></sub></span><span class='bottom'>&radic;<span class='under-radic'>3</span></span></div></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span><i>x</i></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>X<sub><i>max</i></sub></span><span class='bottom'>&radic;<span class='under-radic'>2</span></span></div></div>",
+    "ra": "3"
+  },
+  {
+    "title": "إن جهة قوة الإرجاع دوما :",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "نحو <span dir='ltr'>+X<sub><i>max</i></sub></span>",
+    "a-2": "نحو وضع التوازن",
+    "a-3": "نحو <span dir='ltr'>-X<sub><i>max</i></sub></span>",
+    "a-4": "عكس جهة التسارع",
+    "ra": "2"
+  },
+  {
+    "title": "نواس مرن يتألف من نابض مرن مهمل الكتلة حلقاته متباعدة ثابت صالبته <i>k</i> نعلق في نهايته كتلة <i>m</i> دوره الخاص <span dir='ltr' style='display: inline-block'><i>T</i><sub style='font-size: 10px'>0</sub></span>  ثم نضيف للكتلة كتلة <span dir='ltr' style='display: inline-block;'><i>m</i>' = 3<i>m</i></span>  فيصبح الدور الجديد يساوي:",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>T</i><sup>'</sup><sub style='margin-left: -10px; font-size: 10px;'>0</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>T</i><sub style='margin-left: -2px;'>0</sub></span><span class='bottom'>&radic;<span class='under-radic'>3</span></span></div></div>",
+    "a-2": "<span dir='ltr'><i>T</i><sup>'</sup><sub style='margin-left: -10px; font-size: 10px;'>0</sub> = <i>T</i><sub style='margin-left: -2px;'>0</sub></span>",
+    "a-3": "<span dir='ltr'><i>T</i><sup>'</sup><sub style='margin-left: -10px; font-size: 10px;'>0</sub> = 2<i>T</i><sub style='margin-left: -2px;'>0</sub></span>",
+    "a-4": "<span dir='ltr'><i>T</i><sup>'</sup><sub style='margin-left: -10px; font-size: 10px;'>0</sub> = &radic;<span class='under-radic' style='margin-left: -2px'>3</span><i>T</i><sub style='margin-left: -2px;'>0</sub></span>",
+    "ra": "3"
+  },
+  {
+    "title": "نواس مرن ثابت صالبة النابض <span dir='ltr' style='display: inline-block;'><i>k</i> = 20 <i>N.m</i><sup>-1</sup></span> و كتلة الجسم المعلق بالنابض <span dir='ltr' style='display: inline-block;'><i>m</i> = 2 <i>kg</i></span> يكون قيمة تسارعه عندما <span dir='ltr' style='display: inline-block;'><i>x</i> = 2 <i>cm</i></span>",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "<span dir='ltr'><i>a</i> = -0.2 <i>m.s</i><sup>-2</sup></span>",
+    "a-2": "<span dir='ltr'><i>a</i> = -0.2&pi; <i>m.s</i><sup>-2</sup></span>",
+    "a-3": "<span dir='ltr'><i>a</i> = -2 <i>m.s</i><sup>-2</sup></span>",
+    "a-4": "<span dir='ltr'><i>a</i> = 2 <i>m.s</i><sup>-2</sup></span>",
+    "ra": "1"
+  }
+]

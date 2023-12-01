@@ -1,0 +1,202 @@
+[
+  {
+    "title": "عند مرور زمن التفاعل :",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "يزداد تركيز المواد المتفاعلة و ينقص تركيز المواد الناتجة",
+    "a-2": "يبقى تركيز المواد المتفاعلة ثابت و يزداد تركيز المواد الناتجة",
+    "a-3": "ينقص تركيز المواد  المتفاعلة و يزداد تركيز المواد الناتجة",
+    "a-4": "ينقص تركيز المواد المتفاعلة و الناتجة",
+    "ra": "3"
+  },
+  {
+    "title": "في التفاعل الآتي : <span dir='ltr' style='display: inline-block; font-size: 18px'><i>C</i><sub>2</sub><i>H</i><sub>4(g)</sub> + 3<i>O</i><sub>2(g)</sub> &rarr; 2<i>CO</i><sub>2(g)</sub> + 2<i>H</i><sub>2</sub><i>O</i><sub>(g)</sub></span> السرعة الوسطى لتشكل <span dir='ltr' style='display: inline-block;'><i>CO</i><sub>2</sub></span> تساوي:",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "السرعة الوسطى لاستهلاك <span dir='ltr' style='display: inline-block;'><i>O</i><sub>2</sub></span>",
+    "a-2": "<span dir='ltr'><span style='font-family: Arial, Helvetica, sans-serif; padding-left: 5px'>x</span> 2/3</span> السرعة الوسطى لاستهلاك <span dir='ltr' style='display: inline-block;'><i>O</i><sub>2</sub></span>",
+    "a-3": "<span dir='ltr'><span style='font-family: Arial, Helvetica, sans-serif; padding-left: 8px'>x</span> 2</span> لسرعة الوسطى لاستهلاك <span dir='ltr' style='display: inline-block;'><i>O</i><sub>2</sub></span>",
+    "a-4": "<span dir='ltr'><span style='font-family: Arial, Helvetica, sans-serif; padding-left: 8px'>x</span> 1/2</span> السرعة الوسطى لاستهلاك <span dir='ltr' style='display: inline-block;'><i>O</i><sub>2</sub></span>",
+    "ra": "2"
+  },
+  {
+    "title": "في التفاعل الآتي : <span dir='ltr' style='display: inline-block;'><i>N</i><sub>2</sub> + 3<i>H</i><sub>2</sub> &rarr; 2<i>NH</i><sub>3</sub></span> إذا كانت السرعة الوسطى لتكون <span dir='ltr' style='display: inline-block;'><i>NH</i><sub>3</sub></span> تساوي <span dir='ltr' style='display: inline-block;'>0.08 <i>mol</i>.<i>L</i><sup>-1</sup>.<i>S</i><sup>-1</sup></span> تكون السرعة الوسطى لاستهلاك  <span dir='ltr' style='display: inline-block;'><i>H</i><sub>2</sub></span> تساوي:",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "<span dir='ltr' style='display: inline-block;'>0.08 <i>mol</i>.<i>L</i><sup>-1</sup>.<i>S</i><sup>-1</sup></span>",
+    "a-2": "<span dir='ltr' style='display: inline-block;'>0.24 <i>mol</i>.<i>L</i><sup>-1</sup>.<i>S</i><sup>-1</sup></span>",
+    "a-3": "<span dir='ltr' style='display: inline-block;'>0.16 <i>mol</i>.<i>L</i><sup>-1</sup>.<i>S</i><sup>-1</sup></span>",
+    "a-4": "<span dir='ltr' style='display: inline-block;'>0.12 <i>mol</i>.<i>L</i><sup>-1</sup>.<i>S</i><sup>-1</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "تعتمد نظرية التصادم على فرضين أحدهما :",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "لا يحدث التفاعل إلا إذا حصل تصادم بين ذرات أو جزيئات أو أيونات المواد الناتجة",
+    "a-2": "لا يحدث التفاعل إلا إذا حصل تصادم بين ذرات أو جزيئات أو أيونات المواد المتفاعلة",
+    "a-3": "يمكن للتفاعل أن يحدث إذا حصل تصادم أو لم يحصل تصادم",
+    "a-4": "يحدث التفاعل بالرغم من حدوث تصادم ",
+    "ra": "2"
+  },
+  {
+    "title": "إن طاقة التنشيط :",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "الفرق بين طاقة المعقد النشط و طاقة المواد المتفاعلة",
+    "a-2": "الحد الأدنى من الطاقة بين جزيئات المواد المتفاعلة لكي يكون التصادم فعال",
+    "a-3": "تتعلق بطبيعة المواد المتفاعلة",
+    "a-4": "كل ما سبق",
+    "ra": "4 "
+  },
+  {
+    "title": "التفاعلات التي تحتاج إلى طاقة تنشيط تمر بثلاث مراحل احداها هي:",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "اضعاف الروابط بين ذرات جزيئات الماد الناتجة",
+    "a-2": "زيادة الضغط",
+    "a-3": "نقصان الضغط",
+    "a-4": "اضعاف الروابط بين ذرات جزيئات الماد المتفاعلة",
+    "ra": "4"
+  },
+  {
+    "title": "علاقة سرعة التفاعل الأتي : <span dir='ltr' style='display: inline-block;'><i>C</i><sub>(<i>s</i>)</sub> + 2<i>H</i><sub>2(g)</sub> &rarr; <i>CH</i><sub>4(<i>s</i>)</sub></span>",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "<span dir='ltr'><i>v</i> = <i>k</i> [<i>C</i>]<sup>3</sup> [<i>CH</i><sub>4</sub>]<sup>2</sup></span>",
+    "a-2": "<span dir='ltr'><i>v</i> = <i>k</i> [<i>CH</i><sub>4</sub>]<sup>2</sup></span>",
+    "a-3": "<span dir='ltr'><i>v</i> = <i>k</i> [<i>H</i><sub>2</sub>]<sup>2</sup></span>",
+    "a-4": "<span dir='ltr'><i>v</i> = <i>k</i> [<i>C</i>][<i>H</i><sub>2</sub>]<sup>2</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "التفاعلات التي تحتاج إلى طاقة تنشيط عالية تميل لأن تكون :",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "سريعة لأن عدد الجزيئات التي يمتلك طاقة التنشيط كبير",
+    "a-2": "بطيئة لأن عدد الجزيئات التي يمتلك طاقة التنشيط كبير",
+    "a-3": "بطيئة لأن عدد الجزيئات التي يمتلك طاقة التنشيط قليل",
+    "a-4": "سريعة لأن عدد الجزيئات التي يمتلك طاقة التنشيط قليل",
+    "ra": "3"
+  },
+  {
+    "title": "من أجل التفاعل الأولي الآتي : <span dir='ltr' style='display: inline-block;'><i>A</i><sub>(g)</sub> + 2<i>B</i><sub>(g)</sub> &rarr; نواتج</span> إذا تضاعف حجم الوعاء فإن سرعة التفاعل:",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "تنقص ثمان مرات",
+    "a-2": "تزداد ثمان مرات",
+    "a-3": "تنقص أربع مرات",
+    "a-4": "تزداد مرتين",
+    "ra": "1"
+  },
+  {
+    "title": "من أجل التفاعل الأولي الآتي : <span dir='ltr' style='display: inline-block;'>2<i>A</i><sub>(g)</sub> + <i>B</i><sub>(g)</sub> &rarr; نواتج</span> إذا زدنا تركيز <i>A</i> ثلاث مرات و انخفض تركيز <i>B</i> ثلاث مرات فإن سرعة التفاعل:",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "تزداد اثنا عشر مرة",
+    "a-2": "تزداد ست مرات",
+    "a-3": "تنقص تسع مرات",
+    "a-4": "تزداد ثلاث مرات",
+    "ra": "4"
+  },
+  {
+    "title": "تزداد ثلاث مرات <span dir='ltr' style='display: inline-block;'>2<i>A</i><sub>(g)</sub> + <i>B</i><sub>(g)</sub> &rarr; C + 2D</span> ذا علمت أنه بعد <span dir='ltr' style='display: inline-block'>400<i>s</i></span> يصبح تركيز المادة D <span dir='ltr' style='display: inline-block'>0.4 <i>mol.l</i><sup style='font-size: 12px'>-1</sup></span> قيمة السرعة الوسطى للتفاعل تساوي:",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<span dir='ltr'>2 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>4 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>1 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-3</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>5 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "إن ثابت سرعة التفاعل يعتمد على:",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "درجة الحرارة و طبيعة المواد لمتفاعلة",
+    "a-2": "درجة الحرارة و طبيعة المواد اللناتجة",
+    "a-3": "طبيعة المواد الناتجة و طبيعة المواد المتفاعلة",
+    "a-4": "كل ما سبق",
+    "ra": "1"
+  },
+  {
+    "title": "نضع 3MOL من المادة A مع 4Mol من المادة B في وعاء محكم الإغلاق حجمه 10L فيحصل التفاعل الآتي : <span dir='ltr' style='display: inline-block;'><i>A</i><sub>(g)</sub> + <i>B</i><sub>(g)</sub> &rarr; 3C</span> حيث ثابت سرعة التفاعل <span dir='ltr' style='display: inline-block;'><i>k</i> = 2 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-2</sup></span> سرعة التفاعل الابتدائية تساوي:",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "<span dir='ltr'>36 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-5</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>12 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>24 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>48 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-5</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "في السؤال السابق تصبح سرعة التفاعل بعد زمن ينقص فيه تركيز المادة A بمقدار <span dir='ltr'>0.2<i>mol.l</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<span dir='ltr'>8 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>12 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>3 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>4 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "نمزج <span dir='ltr' style='display: inline-block'>(200 <i>ml</i>)</span> من مادة A تركيزها <span dir='ltr' style='display: inline-block'>(0.8 <i>mol.l</i><sup style='font-size: 12px;'>-1</sup>)</span> مع <span dir='ltr' style='display: inline-block'>(600 <i>ml</i>)</span> من مادة B تركيزها <span dir='ltr' style='display: inline-block'>(0.8 <i>mol.l</i><sup style='font-size: 12px;'>-1</sup>)</span> فيحدث التفاعل الآتي : <span dir='ltr' style='display: inline-block;'><i>A</i><sub>(g)</sub> + 2<i>B</i><sub>(g)</sub> &rarr; C + 2D</span> حيث ثابت سرعة التفاعل <span dir='ltr' style='display: inline-block'><i>k</i> = 0.2</span> سرعة التفاعل الابتدائية تساوي:",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "<span dir='ltr'>1024 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>48 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-5</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>144 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>24 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-3</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "ra": "3"
+  },
+  {
+    "title": "في السؤال السابق تكون سرعة التفاعل بعد زمن يصبح فيه تركيز المادة <span dir='ltr' style='display: inline-block'>[D] = 0.2 <i>mol.l</i><sup>-1</sup></span> تساوي :",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<span dir='ltr'>32 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-5</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>6 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>6 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-5</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>32 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup><i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "ra": "4"
+  },
+  {
+    "title": "لديك التفاعل الأولي الأتي : <span dir='ltr' style='display: inline-block;'><i>A</i><sub>(g)</sub> + 2<i>B</i><sub>(g)</sub> &rarr; 2D</span> حيث التراكيز الابتدائية : <span dir='ltr' style='display: inline-block;'>[<i>A</i>]<sub>0</sub> = 0.4 <i>mol.l</i><sup style='font-size: 12px;'>-1</sup></span> , <span dir='ltr' style='display: inline-block;'>[<i>B</i>]<sub>0</sub> = 0.8 <i>mol.l</i><sup style='font-size: 12px;'>-1</sup></span> و سرعة التفاعل الابتدائية تساوي <span dir='ltr' style='display: inline-block;'><i>v</i><sub>0</sub> = 64 <span style='font-family: Arial;'>x</span> 10<sup style='font-size: 12px;'>-4</sup> <i>mol.l</i><sup style='font-size: 12px;'>-1</sup>.<i>s</i><sup style='font-size: 12px;'>-1</sup></span>    ثابت سرعة التفاعل يساوي:",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "0.3",
+    "a-2": "0.25",
+    "a-3": "0.025",
+    "a-4": "0.1",
+    "ra": "3"
+  },
+  {
+    "title": "نضع 4Mol من المادة A مع 2Mol من المادة B في وعاء محكم الإغلاق حجمه 10L فيحصل التفاعل الآتي: <span dir='ltr' style='display: inline-block;'>2<i>A</i><sub>(g)</sub> + <i>B</i><sub>(g)</sub> &rarr; 3D</span> قيمة تركيز المادة D في نهاية التفاعل تساوي:",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "<span dir='ltr'>0.6 <i>mol.l</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-2": "<span dir='ltr'>0.4 <i>mol.l</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-3": "<span dir='ltr'>0.2 <i>mol.l</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "a-4": "<span dir='ltr'>0.04 <i>mol.l</i><sup style='font-size: 12px;'>-1</sup></span>",
+    "ra": "1"
+  },
+  {
+    "title": "في التفاعل الأتي : <span dir='ltr' style='display: inline-block; font-size: 16px;'><i>Zn</i><sub>(<i>s</i>)</sub> + 2<i>HCl</i><sub>(<i>aq</i>)</sub> &rarr; <i>ZnCl</i><sub>2(<i>aq</i>)</sub> + <i>H</i><sub>2(g)</sub></span> لزيادة سرعة التفاعل نزيد:",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "تركيز المواد المتفاعلة",
+    "a-2": "تركيز المواد الناتجة",
+    "a-3": "سطح التماس بين المواد المتفاعلة",
+    "a-4": "سطح التماس بين المواد الناتجة",
+    "ra": "3"
+  },
+  {
+    "title": "يقتصر دور الوسيط (الحفاز) على زيادة سرع التفاعل القابل للحدوث حيث:",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "يزيد من طاقة التنشيط",
+    "a-2": "يخفض طاقة التنشيط",
+    "a-3": "لا يؤثر على طاقة التنشيط",
+    "a-4": "كل ما سبق",
+    "ra": "2"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "title": "<div><h4 style='text-align: center;'>İlkbahar</h4><p style='padding: 5px; 0'>Merhaba, benim adım Şef-Tali. Beni hepiniz tanırsınız Ben bir şeftali ağacıyım. On sene önce 21 Martta doğdum. ilkbahar mevsimi 21 Martta başlar, 21 Hazirana kadar devam eder Bu mevsimde hava genellikle ılık ve yağışlı Sıcaklık genellikle 20 derecedir. İlkbahar mevsimi benim en sevdigim mevsimdir. Neden mi? Çünkü her sene bu mevsimde yeniden doğarız, canlanırız. Çiçek açarız.</p><div style='padding: 5px 0;'><b>*Aşağıdaki soruları metne göre cevaplayın</b></div><div style='padding: 5px 0;'>-İlkbaharın başlangıç tarihi nedir?</div></div>",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "21 Mart",
+    "a-2": "21 Mayıs",
+    "a-3": "21 Nisan",
+    "a-4": "21 Şubat",
+    "ra": "1"
+  },
+  {
+    "title": "Şef-Tali'nin en sevdiği mevsim hangisi?",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "kış",
+    "a-2": "son bahar",
+    "a-3": "yaz",
+    "a-4": "ilkbahar",
+    "ra": "4"
+  },
+  {
+    "title": "Şeftalinin niçin en çok İlkbahar mevsimini seviyor?",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "Çünkü hava ılıktır.",
+    "a-2": "<p style='text-align: left'>Çünkü bu mevsimde yeniden doğuyor,çiçek açıyor</p>",
+    "a-3": "<p style='text-align: left'>Çünkü Sıcaklık genelkle 20 derecedir</p>",
+    "a-4": "<p style='text-align: left'>Çünkü en sevdigim mevsimdir</p>",
+    "ra": "2"
+  },
+  {
+    "title": "İlkbahar mevsimini ne zaman biter?",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "21 Mart'ta",
+    "a-2": "21 Mayıs'ta",
+    "a-3": "21 Nisan da",
+    "a-4": "21 Haziran'da",
+    "ra": "4"
+  },
+  {
+    "title": "İlkbahar mevsimin havası nasıldır ?",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "sıcak",
+    "a-2": "serin",
+    "a-3": "soğuk",
+    "a-4": "ılık",
+    "ra": "4"
+  },
+  {
+    "title": "<div><h4 style='text-align: center;'>Sonbahar</h4><p style='padding: 5px 0;'>Merhaba, arkadaşlar. Beni özlediniz mi? Ben özledim. Bugün 23 eylül yani sonbahar mevsiminin başlangıcı. Sonbahar mevsimi21 Eylül'de başlar,21Aralık'a kadar devam eder. Bu mevsimde hava genellikle serin ve yağmurludur. Sıcaklık ortalama 10 derecedir. En sevmediğim mevsimi sonbahardır.Çünkü Yaprakları sararır ve dökülür. Sizlere veda ederim</p><div style='padding: 5px 0;'><b>Aşağıdaki soruları metne göre cevaplayın</b></div><div style='padding: 5px 0;'>-Sonbaharın başlangıç tarihi nedir?</div></div>",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "21 Mart'ta",
+    "a-2": "21 Mayıs'ta",
+    "a-3": "21 Eylül'de",
+    "a-4": "21 Haziran'da",
+    "ra": "3"
+  },
+  {
+    "title": "Sonbahar mevsimin havası nasıldır ?",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "sıcak",
+    "a-2": "serin",
+    "a-3": "soğuk",
+    "a-4": "ılık",
+    "ra": "2"
+  },
+  {
+    "title": "Şef-Tali'nin neden Sonbahar mevsimini sevmiyor?",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "<p style='text-align: left;'>Çünkü hava soğuk</p>",
+    "a-2": "<p style='text-align: left;'>Çünkü bu mevsimde yeniden doğuyor, çiçek açar</p>",
+    "a-3": "<p style='text-align: left;'>Çünkü Sıcaklık genelkle 10 derecedir</p>",
+    "a-4": "<p style='text-align: left;'>Çünkü yaprakları sararır ,dökülür</p>",
+    "ra": "4"
+  },
+  {
+    "title": "Sonbahar mevsimini ne zaman biter?",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "21 Aralık'ta",
+    "a-2": "21 Nisan'da",
+    "a-3": "21 Mayıs'ta",
+    "a-4": "21 Haziran'da",
+    "ra": "1"
+  },
+  {
+    "title": "Sonbahar havası sıcaklık kaç derecedir ?",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "12",
+    "a-2": "10",
+    "a-3": "20",
+    "a-4": "21",
+    "ra": "2"
+  },
+  {
+    "title": "<div><h4 style='text-align: center;'>Bir kış şehri: Yakutsk</h4><p>Dünyanın en soğuk şehrini hiç merak ettiniz mi? Cevabınız evet mi? O zaman kışlık kıyafetlerinizi yanınıza alın. Yakutsk şehrine gidiyoruz. Bu şehirde kış mevsimi eylül ayında başlar ve nisan ayına kadar devam eder. Kışın hava çok soğuktur ve Sıcaklık -60 derecedir. Dışanda 15 dakikadan fazla kalamazsınız. Çünkü hava çok soğuktur, donarsınız. Bu mevsimde güneş sadece üç saat gökyüzünde kalır. Ben iki sene önce aralık ayında Yakutsk'a gittim ve bu fotoğraflan çektim. Bu şehirde tarım ürünleri yetişmez çünkü toprak tamamen buzla kaplıdır. Ben de bu şehirde sadece et yedim. Burada buzdan müzeleri ve heykelleri mutlaka görün. Çok beğeneceksiniz.</p><div style='padding : 5px 0'><b>Aşağıdaki soruları metne göre cevaplayın.</b></div><div>-yazar Bu şehirde neden sadece et yedi ?</div></div>",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<p style='text-align: left;'>çünkü et çok seviyor</p>",
+    "a-2": "<p style='text-align: left;'>çünkü yazar vejeteryan bir kişi</p>",
+    "a-3": "<p style='text-align: left;'>çünkü tarım ürünleri yetişmez</p>",
+    "a-4": "<p style='text-align: left;'>çünkü buzdolabı bozuldu</p>",
+    "ra": "3"
+  },
+  {
+    "title": "Niçin dışarıda on beş dakika fazla kalamazsınız ?",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "<p style='text-align: left;'>çünkü hasta olacaksınız</p>",
+    "a-2": "<p style='text-align: left;'>çünkü hava soğuk donarsınız</p>",
+    "a-3": "<p style='text-align: left;'>çünkü tarım ürünleri yoktur</p>",
+    "a-4": "<p style='text-align: left;'>çünkü hava çok sıcak değil</p>",
+    "ra": "2"
+  },
+  {
+    "title": "yazar ne zaman yakutsk'a gitti ?",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "<p style='text-align: left;'>bir sene sonra gitti</p>",
+    "a-2": "<p style='text-align: left;'>iki yıl önce gitti</p>",
+    "a-3": "<p style='text-align: left;'>bir hafta önce gitti</p>",
+    "a-4": "<p style='text-align: left;'>iki ay önce gitti</p>",
+    "ra": "2"
+  },
+  {
+    "title": "bu sehirde hangi şeyden müzeleri yapar ?",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "Taş'tan",
+    "a-2": "kum'den",
+    "a-3": "Buz'dan",
+    "a-4": "yağ'dan",
+    "ra": "3"
+  },
+  {
+    "title": "yazar hangi ayda bu sehri gezdi ?",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "Aralık'ta",
+    "a-2": "ocak'ta",
+    "a-3": "temmuzda",
+    "a-4": "Ağustos'ta",
+    "ra": "1"
+  },
+  {
+    "title": "<div><h4 style='text-align: center;'>Bir yaz şehri: El Aziziye</h4><p>Sıcağa ne kadar dayanabilirsiniz? Hiç düşündünüz mü? O zaman dünyanın en sıcak şehrine gidelim. Burası Libya'nın El-Aziziye şehri. Burada dört mevsim yaşanmaz. Genellikle yılın büyük bir bölümünde yaz mevsimi yaşanır ve sıcaklık 50 derecedir. Ben El Aziziye şehrine beş ay önce temmuz ayında gittim. Hava gerçekten çok sıcaktı. Ama şehir yine de çok kalabalıktı. Çünkü bu şehir önemli bir ticaret merkezi. Ben bu şehrin muhteşem çöllerini ve kalelerini gezdim. Çölde çok fazla kale var çünkü bu kaleler yiyecekleri serin tutuyor. Şimdi size soruyorum, bu şehre gitmek ister misiniz? Cevabınız evet ise yanınıza açık renk kiyafetler alın. Gözlük ve şapka takın. Çünkü dünyada, bu şehirden daha sıcak bir şehir yok.</p><div style='padding: 5px 0;'><b>Aşağıdaki soruları metne göre cevaplayın</b></div><div>-Bu şehir hangi ülkede vardır?</div></div>",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "Tunus'ta",
+    "a-2": "Asya'da",
+    "a-3": "Afrika'da",
+    "a-4": "Libya'da",
+    "ra": "4"
+  },
+  {
+    "title": "yiyecekleri nerede serin tutuyor ?",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "buzdolabında",
+    "a-2": "evlerinde",
+    "a-3": "kalede",
+    "a-4": "mutfakta",
+    "ra": "3"
+  },
+  {
+    "title": "Bu şehirde hangi kıyafetleri gitmeliyiz?",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "nce kıyafetler",
+    "a-2": "kalın kıyafetler",
+    "a-3": "kışlık kıyafetler",
+    "a-4": "hırka ve kazak",
+    "ra": "1"
+  },
+  {
+    "title": "Bu şehirde kaç mavsim yaşanır ?",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "kırk",
+    "a-2": "beş",
+    "a-3": "hiç",
+    "a-4": "tek",
+    "ra": "1"
+  },
+  {
+    "title": "Niçin bu sehir kalabalıktı ?",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "<p style='text-align: left;'>çünkü önemli bir ticaret merkeziyd</p>",
+    "a-2": "<p style='text-align: left;'>çünkü orada hava soğuk oldu</p>",
+    "a-3": "<p style='text-align: left;'>çünkü çok fazla kale vardı</p>",
+    "a-4": "<p style='text-align: left;'>çünkü insanlar saygıyla davranıyordu</p>",
+    "ra": "1"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إذا كان A حدث في فضاء احتمالي موافق لتجربة عشوائية ما وكان : </span></div><div class='long-2'><div class='eq'><span>P(A)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3</span><span class='bottom'>5</span></div></div><span style='padding-right: 5px;'>فإن <span dir='ltr'>P(A')</span> يساوي : </span></div></div>",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "2/5",
+    "a-2": "5/2",
+    "a-3": "2/10",
+    "a-4": "1",
+    "ra": "1"
+  },
+  {
+    "title": "<p>في تجربة رمي حجر نرد مرة واحدة نسمي الحدثان <span dir='ltr' style='display: inline-block;'>B = {1 , 3 , 6} , A = {2 , 4}</span></p>",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<p>بسيطان</p>",
+    "a-2": "<p>متتامان</p>",
+    "a-3": "<p>متنافيان</p>",
+    "a-4": "<p>مستقلان</p>",
+    "ra": "3"
+  },
+  {
+    "title": "<p>في تجربة رمي قطعة نقود ثلاث مرات متتالية إن احتمال ظهور شعارين متتاليين يساوي : </p>",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "3/8",
+    "a-2": "1/8",
+    "a-3": "2/8",
+    "a-4": "1",
+    "ra": "1"
+  },
+  {
+    "title": "<p>في تجربة رمي حجرا نرد معا إن احتمال ظهور عددين مجموعهما أكبر تماما من 7 يساوي : </p>",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "13/36",
+    "a-2": "9/21",
+    "a-3": "15/36",
+    "a-4": "8/21",
+    "ra": "3"
+  },
+  {
+    "title": "<div class='long eq-main'><div class='long-1'><span class='text'>إذا كان A و B حدثين في فضاء احتمالي وكان : </span></div><div class='long-2'><div class='eq'><span>P(A &cup; B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3</span><span class='bottom'>4</span></div><span class='sign'>,</span><span>P(B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>5</span><span class='bottom'>8</span></div><span class='sign'>,</span><span>P(A)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3</span><span class='bottom'>8</span></div></div></div><div class='long-3'><span class='text'>فإن <span dir='ltr'>P</sub>(A &cap; B)</span> يساوي : </span></div></div>",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "2/5",
+    "a-2": "6/8",
+    "a-3": "3/8",
+    "a-4": "1/4",
+    "ra": "4"
+  },
+  {
+    "title": "<p>في تجربة رمي قطعة نقود ثلاث مرات متتالية يكون احتمال ظهور كتابة واحدة على الأقل هو : </p>",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "3/4",
+    "a-2": "7/8",
+    "a-3": "1/2",
+    "a-4": "1/8",
+    "ra": "2"
+  },
+  {
+    "title": "<p>لاعب شطرنج يلعب مع الحاسوب مرتين متتاليتين احتمال فوزه في المرة الأولى 6/10 وفي المرة الثانية 8/10 واحتمال فوزه في المرتين معا 45/100 فان احتمال خسارته في المرتين هو : </p>",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "10/100",
+    "a-2": "8/10",
+    "a-3": "5/10",
+    "a-4": "5/100",
+    "ra": "4"
+  },
+  {
+    "title": "<p>في معهد لتعليم اللغات 100 طالب منهم 40 طالب يدرس اللغة التركية و 50 طالب يدرس اللغة الإنكليزية و 20 طالب يدرس اللغتين معا نختار عشوائيا طالب من المعهد فإن احتمال أن يكون الطالب من دارسي لغة واحدة فقط هو : </p>",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "90/100",
+    "a-2": "20/100",
+    "a-3": "5/100",
+    "a-4": "50/100",
+    "ra": "4"
+  },
+  {
+    "title": "<p>صندوق فيه 10 كرات متماثلة منها (5 كرات حمراء و 3 كرات بيضاء وكرتان سوداوان) عند سحب ثلاث كرات بالتتالي مع الإعادة من الصندوق يكون احتمال الحصول على كرات مختلفة الألوان (كرة من كل لون) هو : </p>",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "3/10",
+    "a-2": "30/120",
+    "a-3": "30/1000",
+    "a-4": "180/1000",
+    "ra": "4"
+  },
+  {
+    "title": "<p>صندوق فيه 10 كرات متماثلة منها (5 كرات حمراء و 3 كرات بيضاء وكرتان سوداوان) عند سحب ثلاث كرات بالتتالي بدون إعادة من الصندوق يكون احتمال الحصول على 3 كرات واحدة منها على الأقل سوداء هو : </p>",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "2/10",
+    "a-2": "64/120",
+    "a-3": "3/10",
+    "a-4": "180/100",
+    "ra": "2"
+  },
+  {
+    "title": "<p>بحوي مغلف 6 بطاقات متماثلة مرقمة بالأرقام <span dir='ltr' style='display: inline-block'> 0 , 0 , 1 , 1 , 2 , 3</span>عند سحب بطاقتين من المغلف بالتتالي بدون إعادة يكون احتمال الحصول على بطاقتين مجموع رقميهما عدد فردي هو : </p>",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "1/2",
+    "a-2": "9/15",
+    "a-3": "7/15",
+    "a-4": "180/1000",
+    "ra": "2"
+  },
+  {
+    "title": "<p>يحوي مغلف 6 بطاقات متماثلة تحمل الأرقام <span dir='ltr' style='display: inline-block'> 0 , 0 , 1 , 1 , 2 , 3</span> عند سحب 3 بطاقات معا من المغلف يكون احتمال الحصول على 3 بطاقات مجموعها يساوي 3 هو : </p>",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "3/10",
+    "a-2": "5/20",
+    "a-3": "30/216",
+    "a-4": "7/36",
+    "ra": "2"
+  },
+  {
+    "title": "<p>يحوي صندوق أربعة كرات حمراء متماثلة تحمل الأرقام <span dir='ltr' style='display: inline-block'> 1 , 1 , 1 , 2</span> وثلاث كرات بيضاء متماثلة تحمل الأرقام <span dir='ltr' style='display: inline-block'> 1 , 1 , 2</span> عند سحب كرتين بالتتالي مع الإعادة يكون احتمال الحصول على كرتين من لونين مختلفين ومجموع رقميهما يساوي 3 هو : </p>",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "9/21",
+    "a-2": "10/49",
+    "a-3": "5/49",
+    "a-4": "5/21",
+    "ra": "2"
+  },
+  {
+    "title": "<p>في تجربة رمي حجر نرد مرة واحدة إذا كان A حدث ظهور عدد فردي و B حدث ظهور عدد أولي فإن <span dir='ltr'>P<sub style='font-size: 8px'>A</sub>(B)</span> يساوي : </p>",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "1/6",
+    "a-2": "2/3",
+    "a-3": "3/6",
+    "a-4": "1/3",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='long eq-main'><div class='long-1'><span class='text'>إذا كان A و B حدثين في فضاء احتمالي وكان : </span></div><div class='long-2'><div class='eq'><span>P(A &cup; B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>7</span><span class='bottom'>10</span></div><span class='sign'>,</span><span>P(B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'>5</span></div><span class='sign'>,</span><span>P(A)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3</span><span class='bottom'>5</span></div></div></div><div class='long-3'><span class='text'>فإن <span dir='ltr'>P<sub style='font-size: 8px;'>A</sub>(B)</span> يساوي : </span></div></div>",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "1/3",
+    "a-2": "1/5",
+    "a-3": "1/2",
+    "a-4": "1/6",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='long eq-main'><div class='long-1'><span class='text'>إذا كان A و B حدثين في فضاء احتمالي وكان : </span></div><div class='long-2'><div class='eq'><span>P<sub style='font-size: 8px;'>B</sub>(A)</span><span class='sign'>=</span><div class='kasir'><span class='top'>4</span><span class='bottom'>5</span></div><span class='sign'>,</span><span>P(B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'>2</span></div><span class='sign'>,</span><span>P(A)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3</span><span class='bottom'>5</span></div></div></div><div class='long-3'><span class='text'>فإن <span dir='ltr'>P<sub style='font-size: 8px;'>A</sub>(B')</span> يساوي : </span></div></div>",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "1/3",
+    "a-2": "1/5",
+    "a-3": "1/2",
+    "a-4": "1/6",
+    "ra": "1"
+  },
+  {
+    "title": "<p>ينتج معمل مصابيح كهربائية بواسطة ثلاث آلات <span style='display: block;'>الآلة A  تنتج %20 من الإنتاج و %5 من المصابيح المصنوعة غير صالح </span><span style='display: block;'>الآلة B  تنتج %30 من الإنتاج و %2 من المصابيح المصنوعة غير صالح </span><span style='display: block;'>الآلة C  تنتج %50 من الإنتاج و %1 من المصابيح المصنوعة غير صالح </span> نختار عشوائيا مصباحا كهربائيا إن احتمال أن يكون المصباح غير صالح هو : </p>",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "8/100",
+    "a-2": "25/1000",
+    "a-3": "21/1000",
+    "a-4": "7/100",
+    "ra": "3"
+  },
+  {
+    "title": "<p>صندوقان متماثلان فيهما بطاقات متماثلة الأول يحوي ثلاث بطاقات تحمل الأرقام <span dir='ltr' style='display: inline-block'> 1 , 2 , 3</span> والثاني يحوي أربعة بطاقات تحمل الأرقام <span dir='ltr' style='display: inline-block'>1 , 2 , 3 , 4</span> نختار عشوائيا صندوق ونسحب منه بطاقة واحدة إن احتمال الحصول على بطاقة تحمل رقم أولي هو : </p>",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "7/12",
+    "a-2": "5/12",
+    "a-3": "3/7",
+    "a-4": "4/7",
+    "ra": "1"
+  },
+  {
+    "title": "<p>صندوقان متماثلان يحوي كل منهما خمس بطاقات متماثلة مرقمة من 1 حتى 5 نختار عشوائيا صندوقا ثم نسحب منه بطاقة واحدة إن احتمال الحصول على بطاقة تحمل رقم زوجي هو : </p>",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "2/5",
+    "a-2": "1/5",
+    "a-3": "3/7",
+    "a-4": "4/7",
+    "ra": "1"
+  },
+  {
+    "title": "<p>إذا كان A و B حدثان مستقلان احتماليا فيكون : </p>",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "<span dir='ltr'>P(A &cap; B) = P(A).P(B)</span>",
+    "a-2": "<span dir='ltr'>P(A &cap; B') = P(A).P(B')</span>",
+    "a-3": "<span dir='ltr'>P(A' &cap; B') = P(A').P(B')</span>",
+    "a-4": "<p>كل ماسبق صحيح</p>",
+    "ra": "4"
+  },
+  {
+    "title": "<p>يطلق كل من الراميين A و B طلقة واحدة على هدف إذا كان احتمال أن يصيب الرامي A الهدف 7/10 واحتمال أن يصيب الرامي B الهدف 6/10 فيكون احتمال إصابة الهدف بطلقتين هو : </p>",
+    "name": "a-21",
+    "id": "21-",
+    "a-1": "70/100",
+    "a-2": "72/100",
+    "a-3": "60/100",
+    "a-4": "42/100",
+    "ra": "4"
+  },
+  {
+    "title": "<div class='long eq-main'><div class='long-1'><span class='text'>إذا كان A و B حدثين في فضاء احتمالي وكان : </span></div><div class='long-2'><div class='eq'><span>P(B)</span><span class='sign'>=</span><div class='kasir'><span class='top'>1</span><span class='bottom'>5</span></div><span class='sign'>,</span><span>P(A)</span><span class='sign'>=</span><div class='kasir'><span class='top'>3</span><span class='bottom'>5</span></div></div></div><div class='long-3'><span class='text'>فإن <span dir='ltr'>P(A &cup; B)</span> يساوي : </span></div></div>",
+    "name": "a-22",
+    "id": "22-",
+    "a-1": "17/25",
+    "a-2": "2/5",
+    "a-3": "19/25",
+    "a-4": "3/10",
+    "ra": "1"
+  },
+  {
+    "title": "<p>تقدم طالبان إلى امتحان اللغة التركية فإذا كان احتمال نجاح الأول 3/4 وكان احتمال نجاح الثاني 4/5 فإن احتمال نجاح أحد الطالبين فقط يساوي : </p>",
+    "name": "a-23",
+    "id": "23-",
+    "a-1": "19/20",
+    "a-2": "7/20",
+    "a-3": "5/20",
+    "a-4": "12/20",
+    "ra": "2"
+  },
+  {
+    "title": "<p>صنعت قطعة نقود بحيث يكون احتمال ظهور الشعار يساوي 3/4 واحتمال ظهور الكتابة يساوي 1/4 عند رمي قطعة النقود ثلاث مرات متتالية يكون احتمال ظهور شعار واحد فقط في الرميات الثلاث هو : </p>",
+    "name": "a-24",
+    "id": "24-",
+    "a-1": "9/64",
+    "a-2": "3/64",
+    "a-3": "3/8",
+    "a-4": "4/8",
+    "ra": "1"
+  },
+  {
+    "title": "<p>يحوي صندوق خمس كرات متماثلة ثلاث منها بيضاء واثنتان سوداوان نسحب من الصندوق عشوائيا ثلاث كرات معا وليكن X المتغير العشوائي الذي يدل على عدد الكرات البيضاء المسحوبة إن مجموعة قيم المتغير العشوائي X هي : </p>",
+    "name": "a-25",
+    "id": "25-",
+    "a-1": "{1,2,3}",
+    "a-2": "{0,1,2,3}",
+    "a-3": "{1,2,3,4}",
+    "a-4": "{0,1,2,3,4}",
+    "ra": "1"
+  },
+  {
+    "title": "<p>يحوي صندوق 9 كرات متماثلة مرقمة بالأرقام <span dir='ltr' style='display: inline-block'>0,0,0,1,1,1,1,2,2</span> نسحب من الصندوق كرتين على التتالي مع الإعادة نعرف X متغير عشوائي يدل على مجموع رقمي البطاقتين المسحوبتين فيكون مجموعة قيم المتغير العشوائي <span dir='ltr'>X(&Omega;)</span> هي : </p>",
+    "name": "a-26",
+    "id": "26-",
+    "a-1": "{1,2,3}",
+    "a-2": "{0,1,2,3}",
+    "a-3": "{0,1,2,3,4}",
+    "a-4": "{0,1,2,3,4,5}",
+    "ra": "3"
+  },
+  {
+    "title": "<p>مغلف يحوي 8 بطاقات متماثلة تحمل الأرقام <span dir='ltr' style='display: inline-block'>0,0,1,1,2,2,2,3</span> نسحب من المغلف بطاقتين بالتتالي بدون إعادة وليكن X المتغير العشوائي الذي يدل على مجموع رقمي البطاقتين المسحوبتين إن مجموعة قيم المتغير العشوائي هي : </p>",
+    "name": "a-27",
+    "id": "27-",
+    "a-1": "<span dir='ltr'>X(&Omega;) = {1,2,3,4,5}</span>",
+    "a-2": "<span dir='ltr'>X(&Omega;) = {0,1,2,3,4,5}</span>",
+    "a-3": "<span dir='ltr'>X(&Omega;) = {0,1,2,3,4,5,6}</span>",
+    "a-4": "<span dir='ltr'>X(&Omega;) = {1,2,3,4,5,6}</span>",
+    "ra": "2"
+  },
+  {
+    "title": "<p>في تجربة حجري نرد معا ليكن X المتغير العشوائي الذي يدل على مجموع رقمي الوجهين الظاهرين فإن <span dir='ltr'>P{X = 6}</span> يساوي : </p>",
+    "name": "a-28",
+    "id": "28-",
+    "a-1": "6/36",
+    "a-2": "5/36",
+    "a-3": "7/36",
+    "a-4": "3/36",
+    "ra": "2"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن التوقع الرياضي للمتغير العشوائي X الذي قانونه الاحتمالي معطى بالجدول هو : </span></div><div class='long-2'><div class='random-change'><div class='row'><span class='first'>r<sub>k</sub></span><span>1</span><span>2</span><span>3</span></div><div class='row'><span class='first'><i>f</i><sub>x</sub>(r<sub>k</sub>)</span><span><div class='kasir'><span class='top'>5</span><span class='bottom'>9</span></div></span><span><div class='kasir'><span class='top'>2</span><span class='bottom'>9</span></div></span><span><div class='kasir'><span class='top'>2</span><span class='bottom'>9</span></div></span></div></div></div></div>",
+    "name": "a-29",
+    "id": "29-",
+    "a-1": "15/9",
+    "a-2": "120/729",
+    "a-3": "1",
+    "a-4": "14/9",
+    "ra": "1"
+  },
+  {
+    "title": "<div class='eq-main long'><div class='long-1'><span class='text'>إن قيمة &prop; التي تجعل التوقع الرياضي للمتغير العشوائي X الذي جدول قانونه الاحتمالي معطى بالجدول الآتي معدوما هي : </span></div><div class='long-2'><div class='random-change'><div class='row'><span class='first'>r<sub>k</sub></span><span>2</span><span>5</span><span>&prop;</span></div><div class='row'><span class='first'><i>f</i><sub>x</sub>(r<sub>k</sub>)</span><span><div class='kasir'><span class='top'>3</span><span class='bottom'>9</span></div></span><span><div class='kasir'><span class='top'>4</span><span class='bottom'>9</span></div></span><span><div class='kasir'><span class='top'>2</span><span class='bottom'>9</span></div></span></div></div></div></div>",
+    "name": "a-30",
+    "id": "30-",
+    "a-1": "11-",
+    "a-2": "0",
+    "a-3": "1",
+    "a-4": "13-",
+    "ra": "4"
+  }
+]
