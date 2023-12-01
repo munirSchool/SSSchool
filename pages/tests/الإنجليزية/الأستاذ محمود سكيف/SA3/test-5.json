@@ -25,11 +25,11 @@
     "title": "The word (<b>they</b>)  in bold refers to……",
     "name": "a-3",
     "id": "3-",
-    "a-1": "they",
+    "a-1": "trees",
     "a-2": "papers",
     "a-3": "workers",
     "a-4": "farmers",
-    "a-5": "farmers",
+    "a-5": "forests ",
     "ra": "1"
   },
   {
@@ -193,7 +193,7 @@
     "a-1": "Don’t drive  ",
     "a-2": "Cannot drive  ",
     "a-3": "Would not drive ",
-    "a-4": "Would not drive ",
+    "a-4": "will not drive ",
     "a-5": "drive ",
     "ra": "3"
   },
