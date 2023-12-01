@@ -757,10 +757,20 @@ header .logo span.box {
   color: #EE5622;
   font-weight: bold;
 }
+@media (min-width: 768px) {
+  .contact .container .title {
+    font-size: 35px;
+  }
+}
 .contact .container p {
   font-size: 18px;
   border-bottom: 1px solid #EE5622;
   padding: 25px 0;
+}
+@media (min-width: 768px) {
+  .contact .container p {
+    font-size: 25px;
+  }
 }
 .contact .container .foot-cont {
   display: -webkit-box;
@@ -793,6 +803,11 @@ header .logo span.box {
   font-weight: bold;
   font-size: 20px;
 }
+@media (min-width: 768px) {
+  .contact .container .foot-cont .col span {
+    font-size: 25px;
+  }
+}
 .contact .container .foot-cont .col:first-child > span {
   color: #56c553;
 }
@@ -820,12 +835,6 @@ header .logo span.box {
   -ms-grid-columns: 1fr;
   grid-template-columns: 1fr;
   gap: 20px;
-}
-@media (min-width: 1200px) {
-  .developers .container {
-    -ms-grid-columns: (1fr)[2];
-    grid-template-columns: repeat(2, 1fr);
-  }
 }
 .developers .container .box {
   background-color: white;
