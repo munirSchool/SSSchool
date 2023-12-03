@@ -532,10 +532,15 @@ header .logo span.box {
     font-size: 20px;
   }
 }
+.landing .container:not(.header-container) .data-i a {
+  margin: 5px;
+}
 .landing .container:not(.header-container) .data-i .links {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 @media (max-width: 767px) {
   .landing .container:not(.header-container) .data-i .links {
@@ -832,9 +837,15 @@ header .logo span.box {
   padding-top: 50px;
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 1fr;
-  grid-template-columns: 1fr;
+  -ms-grid-columns: 1fr 20px 1fr;
+  grid-template-columns: repeat(2, 1fr);
   gap: 20px;
+}
+@media (max-width: 767px) {
+  .developers .container {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
 }
 .developers .container .box {
   background-color: white;
@@ -845,6 +856,11 @@ header .logo span.box {
   position: relative;
   -webkit-transition: 0.4s;
   transition: 0.4s;
+}
+.developers .container .box h2 {
+  font-size: 22px;
+  text-align: center;
+  color: #56c553;
 }
 .developers .container .box:hover {
   -webkit-box-shadow: 0 0 10px #EE5622;
@@ -922,7 +938,7 @@ header .logo span.box {
   border-radius: 6px;
   margin: 2.5px;
   padding: 2px 8px;
-  font-size: 20px;
+  font-size: 16px;
 }
 @media (max-width: 767px) {
   .developers .container .box .info-row .skills span {
