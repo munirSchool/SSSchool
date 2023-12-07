@@ -97,7 +97,7 @@
     "a-2": "<span dir='ltr'><i>v</i><sub style='font-size: 10px'><i>t</i>1</sub> = 3<i>v</i><sub style='font-size: 10px'><i>t</i>2</sub></span>",
     "a-3": "<div class='eq-ans' dir='ltr'><span><i>v</i><sub style='font-size: 10px'><i>t</i>1</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>9</span></div><span><i>v</i><sub style='font-size: 10px'><i>t</i>2</sub></span></div>",
     "a-4": "<div class='eq-ans' dir='ltr'><span><i>v</i><sub style='font-size: 10px'><i>t</i>1</sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>3</span></div><span><i>v</i><sub style='font-size: 10px'><i>t</i>2</sub></span></div>",
-    "ra": "2"
+    "ra": "4"
   },
   {
     "title": "تطفو قطعة من الخشب حجمها <span dir='ltr' display: inline-block>V = 400 <i>cm</i><sup>3</sup></span> على سطح الماء حيث الكتلة الحجمية للماء <span dir='ltr' style='display: inline-block'>&#x3C1; = 1 <i>g.cm</i><sup>-3</sup></span> و الكتلة الحجمية للخشب <span dir='ltr' style='display: inline-block'>&#x3C1; = 0.8 <i>g.cm</i><sup>-3</sup></span> فيكون حجم الجزء المغمور يساوي:",
