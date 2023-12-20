@@ -1,0 +1,232 @@
+[
+  {
+    "title": "اذا كان تغير التدفق المحرض متزايد <span dir='ltr' style='display: inline-block'>&Delta; &Phi; &gt; 0</span> تكون جهة تدفق متحرض:",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "بعكس اتجاه تدفق محرض",
+    "a-2": "بجهة تدفق محرض",
+    "a-3": "تعامد جهة تدفق محرض",
+    "a-4": "كل ما سبق",
+    "ra": "1"
+  },
+  {
+    "title": "ينعدم التدفق المغناطيسي عندما تكون الزاوية بين شعاع الحقل و الناظم:",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "<span dir='ltr'><i>a</i> = &pi; / 2 (<i>rad</i>)</span>",
+    "a-2": "<span dir='ltr'><i>a</i> = &pi; / 4 (<i>rad</i>)</span>",
+    "a-3": "<span dir='ltr'><i>a</i> = 0 (<i>rad</i>)</span>",
+    "a-4": "<span dir='ltr'><i>a</i> = &pi; / 3 (<i>rad</i>)</span>",
+    "ra": "1"
+  },
+  {
+    "title": "القوة المحركة الكهربائية المتحرضة :",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "تتناسب عكسا مع زمن تغير التدفق",
+    "a-2": "تتناسب طردا مع مربع زمن تغير التدفق",
+    "a-3": "تتناسب طردا مع زمن تغير التدفق",
+    "a-4": "كل ما سبق",
+    "ra": "1"
+  },
+  {
+    "title": "في تجربة السكتين الكهرطيسية نستبدل المولد بمقياس غلفاني و نحرك الساق بسرعة في منطقة الحقل المغناطيسي نلاحظ انحراف مؤشر مقياس يدل ذلك على:",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "وجود مقاومة",
+    "a-2": "ثقل الساق",
+    "a-3": "مرور تيار كهربائي متحرض",
+    "a-4": "وجود حقل مغناطيسي",
+    "ra": "3"
+  },
+  {
+    "title": "تكون القوة الكهرطيسية عظمى عندما تكون الزاوية بين شعاع الحقل و الناقل:",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "<span dir='ltr'>&theta; = &pi; / 2</span>",
+    "a-2": "<span dir='ltr'>&theta; = &pi;</span>",
+    "a-3": "<span dir='ltr'>&theta; = &pi; / 3</span>",
+    "a-4": "<span dir='ltr'>&theta; = 0</span>",
+    "ra": "1"
+  },
+  {
+    "title": "إن حامل القوة الكهرطيسية يكون :",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "يوازي المستوي المحدد بشعاع الحقل و الناقل",
+    "a-2": "يعامد المستوي المحدد بشعاع الحقل و الناقل",
+    "a-3": "ينطبق على المستوي المحدد بشعاع الحقل و الناقل",
+    "a-4": "ينطبق على الناقل",
+    "ra": "2"
+  },
+  {
+    "title": "الطاقة الكهرطيسية المختزنة في الوشيعة:",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>E</i><sub><i>L</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>2</span></div><span><i>LI</i></span></div>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>E</i><sub><i>L</i></sub></span><span class='sign'>=</span><span><i>LI</i><sup>2</sup></span></div>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>E</i><sub><i>L</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>2</span></div><span><i>L</i><sup>2</sup><i>I</i><sup>2</sup></span></div>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span><i>E</i><sub><i>L</i></sub></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>1</span><span class='bottom'>2</span></div><span><i>L</i><i>I</i><sup>2</sup></span></div>",
+    "ra": "4"
+  },
+  {
+    "title": "عند مضاعفة شدة التيار <span dir='ltr'>(<i>I'</i> = 2<i>I</i>)</span> فإن القوة الكهرطيسية:",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "<span dir='ltr'><i>F'</i> = <i>F</i></span>",
+    "a-2": "<div class='eq-ans' dir='ltr'><span><i>F'</i></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>F</i></span><span class='bottom'>2</span></div></div>",
+    "a-3": "<span dir='ltr'><i>F'</i> = 2<i>F</i></span>",
+    "a-4": "<span dir='ltr'><i>F'</i> = &radic;<span class='under-radic' style='margin-left: -1px'><i>F</i></span></span>",
+    "ra": "3"
+  },
+  {
+    "title": "يدور ملف كهربائي بسرعة ثابتة بمعدل <span dir='ltr' style='display: inline-block'>(20 / &pi;)</span>دورة في الثانية ضمن حقل تحريض مغناطيسي شدته <span dir='ltr' style='display: inline-block'>(<i>B</i> = 0.5 <i>T</i>)</span> و مساحة الملف <span dir='ltr' style='display: inline-block'>(<i>S</i> = 0.08 <i>m</i><sup>2</sup>)</span> و عدد لفاته <span dir='ltr' style='display: inline-block'>(<i>N</i> = 100)</span> تكون قيمة القوة المحركة الكهربائية المتحرضة العظمى في مولد التيار المتناوب: ",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "<span dir='ltr'>&epsilon;<sub><i>max</i> = 200 <i>volt</i></sub></span>",
+    "a-2": "<span dir='ltr'>&epsilon;<sub><i>max</i> = 240 <i>volt</i></sub></span>",
+    "a-3": "<span dir='ltr'>&epsilon;<sub><i>max</i> = 160 <i>volt</i></sub></span>",
+    "a-4": "<span dir='ltr'>&epsilon;<sub><i>max</i> = 120 / &pi; <i>volt</i></sub></span>",
+    "ra": "3"
+  },
+  {
+    "title": "في تجربة السكتين الأفقيتين طول الساق الخاضعة للحقل يساوي <span dir='ltr' style='display: inline-block'>(15 <i>cm</i>)</span> نمرر فيها تيار شدته <span dir='ltr' style='display: inline-block'>(<i>I</i> = 25 <i>A</i>)</span> ما هي قيمة شدة الحقل المغناطيسي المؤثر شاقوليا بحيث تكون القوة الكهرطيسية تساوي <span dir='ltr' style='display: inline-block'>(<i>F</i> = 0.75 <i>N</i>)</span>:",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "<span dir='ltr'>0.2 <i>T</i></span>",
+    "a-2": "<span dir='ltr'>0.1 <i>T</i></span>",
+    "a-3": "<span dir='ltr'>1 <i>T</i></span>",
+    "a-4": "<span dir='ltr'>0.01 <i>T</i></span>",
+    "ra": "1"
+  },
+  {
+    "title": "ساق معدنية طولها <span dir='ltr' style='display: inline-block'>(<i>l</i> = 25 <i>cm</i>)</span> نحركها بسرعة <span dir='ltr' style='display: inline-block'>(0.4 <i>m.s</i><sup>-1</sup>)</span> في منطقة حقل مغناطيسي منتظم شدته <span dir='ltr' style='display: inline-block'>(<i>B</i> = 0.01 <i>T</i>)</span> فإن فرق الكمون بين طرفيها يساوي:",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "<span dir='ltr'> 10<sup>-3</sup> <i>volt</i></span>",
+    "a-2": "<span dir='ltr'> 10<sup>-1</sup> <i>volt</i></span>",
+    "a-3": "<span dir='ltr'>2 &times; 10<sup>-3</sup> <i>volt</i></span>",
+    "a-4": "<span dir='ltr'> 10<sup>+3</sup> <i>volt</i></span>",
+    "ra": "1"
+  },
+  {
+    "title": "عند مضاعفة حساسية المقياس 10 مرات يجب أن يكون ثابت الفتل:",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>k'</i></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>k</i></span><span class='bottom'>10</span></div></div>",
+    "a-2": "<span dir='ltr'><i>k'</i> = 10 <i>k</i></span>",
+    "a-3": "<span dir='ltr'><i>k'</i> = &radic;<span class='under-radic' style='margin-left: -1px'>10</span> <i>k</i></span>",
+    "a-4": "<div class='eq-ans' dir='ltr'><span><i>k'</i></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>10</span><span class='bottom'><i>k</i></span></div></div>",
+    "ra": "1"
+  },
+  {
+    "title": "وشيعة تتألف من (1000) لفة قطرها الوسطي <span dir='ltr' style='display: inline-block'>(8 <i>cm</i>)</span> يتصل طرفاها ببعضهما و نضع الوشيعة في منطقة حقل مغناطيسي منتظم شدته <span dir='ltr' style='display: inline-block'>(<i>B</i> = 0.02 <i>T</i>)</span> حيث شعاع الحقل يوازي محور الوشيعة تكون قيمة القوة المحركة الكهربائية المتحرضة عند مضاعفة الحقل المغناطيسي بانتظام خلال <span dir='ltr' style='display: inline-block'>(0.5 <i>s</i>)</span>:",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "<span dir='ltr'> 10<sup>-2</sup> <i>volt</i></span>",
+    "a-2": "<span dir='ltr'> -128&pi; &times; 10<sup>-3</sup> <i>volt</i></span>",
+    "a-3": "<span dir='ltr'> -64&pi; &times; 10<sup>-3</sup> <i>volt</i></span>",
+    "a-4": "<span dir='ltr'> -5&pi; &times; 10<sup>-2</sup> <i>volt</i></span>",
+    "ra": "3"
+  },
+  {
+    "title": "دولاب بارلو نصف قطره <span dir='ltr' style='display: inline-block'>(<i>r</i> = 10 <i>cm</i>)</span> نمرر فيه تيار شدته <span dir='ltr' style='display: inline-block'>(<i>I</i> = 4 <i>A</i>)</span> و نخضع نصفه السفلي لحقل مغناطيسي منتظم أفقي شدته <span dir='ltr' style='display: inline-block'>(<i>B</i> = 4 &times; 10<sup>-3</sup> <i>T</i>)</span> الاستطاعة الميكانيكية الناتجة عن دوران الدولاب بسرعة زاوية تقابل <span dir='ltr' style='display: inline-block'> 5 / &pi; <i>Hz</i></span>",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "<span dir='ltr'> 4 &times; 10<sup>-5</sup> <i>watt</i></span>",
+    "a-2": "<span dir='ltr'> 4 &times; 10<sup>-4</sup> <i>watt</i></span>",
+    "a-3": "<span dir='ltr'> 8 &times; 10<sup>-4</sup> <i>watt</i></span>",
+    "a-4": "<span dir='ltr'> 4 &times; 10<sup>-3</sup> <i>watt</i></span>",
+    "ra": "3"
+  },
+  {
+    "title": "وشيعة طولها <span dir='ltr' style='display: inline-block'>(<i>l</i> = 1 <i>m</i>)</span> مؤلفة من طبقة واحدة نصف قطرها <span dir='ltr' style='display: inline-block'>(4 <i>cm</i>)</span> و قطر مقطع سلكها <span dir='ltr' style='display: inline-block'>(1 <i>mm</i>)</span> قيمة القوة المحركة الكهربائية المتحرضة الذاتية عند مرور تيار في الوشيعة شدته <span dir='ltr' style='display: inline-block'><i>i</i> = 3 - <i>t</i></span>",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "<span dir='ltr'> 16&pi; &times 10<sup>-5</sup> <i>volt</i></span>",
+    "a-2": "<span dir='ltr'> -64 &times 10<sup>-4</sup> <i>volt</i></span>",
+    "a-3": "<span dir='ltr'> 192 &times 10<sup>-4</sup> <i>volt</i></span>",
+    "a-4": "<span dir='ltr'> 64 &times 10<sup>-4</sup> <i>volt</i></span>",
+    "ra": "4"
+  },
+  {
+    "title": "لدينا إطار مربع طول ضلعه <span dir='ltr' style='display: inline-block'>5 <i>cm</i></span> يحوي 200 لفة من سلك نحاسي معزول نعلقه بسلك رفيع عديم الفتل وفق محوره الشاقولي و نخضعه لحقل مغناطيسي منتظم خطوطه أفقية توازي مستوي الإطار شدته <span dir='ltr' style='display: inline-block'>10<sup>-3</sup> <i>T</i></span> ثم نمرر في الإطار تيار شدته <span dir='ltr' style='display: inline-block'> 20 <i>A</i></span> عزم المزدوجة الكهرطيسية المؤثرة في الإطار لحظة امرار التيار:",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "<span dir='ltr'> 4 &times 10<sup>-3</sup> <i>m.N</i></span>",
+    "a-2": "<span dir='ltr'> 10<sup>-3</sup> <i>m.N</i></span>",
+    "a-3": "<span dir='ltr'> 10<sup>-2</sup> <i>m.N</i></span>",
+    "a-4": "<span dir='ltr'> 10<sup>-1</sup> <i>m.N</i></span>",
+    "ra": "3"
+  },
+  {
+    "title": "<span dir='ltr' style='display: inline-block'> <i>q</i> = 2 <i>nc</i></span> شحنة كهربائية تتحرك بسرعة <span dir='ltr' style='display: inline-block'> <i>v</i> = 20 <i>km.s</i><sup>-1</sup></span> في منطقة حق مغناطيسي منتظم شدته  <span dir='ltr' style='display: inline-block'> <i>B</i> = 10<sup>-4</sup> <i>T</i></span> حيث شعاع السرعة ناظمي على شعاع الحقل المغناطيسي فتكون قيمة القوة المغناطيسية (قوة لورنز على الشحنة) تساوي:",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "<span dir='ltr'> 4 &times 10<sup>-9</sup> <i>N</i></span>",
+    "a-2": "<span dir='ltr'> 10<sup>-6</sup> <i>N</i></span>",
+    "a-3": "<span dir='ltr'> 4 &times 10<sup>-6</sup> <i>N</i></span>",
+    "a-4": "<span dir='ltr'> 4 &times 10<sup>-12</sup> <i>N</i></span>",
+    "ra": "1"
+  },
+  {
+    "title": "تنص نظرية مكسويل : اذا انتقلت دارة كهربائية أو جزء من دارة كهربائية مغلقة في منطقة حقل مغناطيسي  فإن عمل القوة الكهرطيسية المسببة للانتقال تساوي ",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "جداء شدة التيار في تزايد التدفق المغناطيسي",
+    "a-2": "جداء شدة التيار في تزايد الحقل المغناطيسي",
+    "a-3": "جداء شدة التيار في تناقص التدفق المغناطيسي",
+    "a-4": "جداء شدة الحقل المغناطيسي في تزايد التدفق المغناطيسي",
+    "ra": "1"
+  },
+  {
+    "title": "الشحنة الكهربائية عندما تتحرك تكافئ تيار شدته تعطى بالعلاقة:",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "<div class='eq-ans' dir='ltr'><span><i>I</i></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'><i>q</i></span><span class='bottom'>&Delta;<i>t</i></span></div></div>",
+    "a-2": "<span dir='ltr'><i>I</i> = <i>q</i> + &Delta;<i>t</i></span>",
+    "a-3": "<div class='eq-ans' dir='ltr'><span><i>I</i></span><span class='sign'>=</span><div class='kasir' style='flex: 2;'><span class='top'>&Delta;<i>t</i></span><span class='bottom'><i>q</i></span></div></div>",
+    "a-4": "<span dir='ltr'><i>I</i> = <i>q</i> - &Delta;<i>t</i></span>",
+    "ra": "1"
+  },
+  {
+    "title": "في تجربة السكتين نستبدل المولد بمقياس غلفاني و نحرك الساق في منطقة الحقل المغناطيسي بسرعة <span dir='ltr' style='display: inline-block'>(<i>v</i>)</span> فيتولد تيار كهربائي متحرض جهته تكون في هذه الحالة:",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "بجهة شعاع الحقل المغناطيسي",
+    "a-2": "بعكس جهة قوة لورنز",
+    "a-3": "بجهة شعاع السرعة",
+    "a-4": "بجهة قوة لورنز",
+    "ra": "2"
+  },
+  {
+    "title": "اذا أثر حقل مغناطيسي في دارة كهربائية مغلقة انتقلت بحيث يزداد التدفق المغناطيسي الذي يجتازها من وجهها الجنوبي و تستقر في وضع يكون التدفق فيه أعظمي:",
+    "name": "a-21",
+    "id": "21-",
+    "a-1": "نظرية مكسويل",
+    "a-2": "قانون باسكال",
+    "a-3": "نظرية التدفق الأعظمي",
+    "a-4": "قانون فاراداي",
+    "ra": "3"
+  },
+  {
+    "title": "يتولد تيار كهربائي متحرض في دارة مغلقة عندما: ",
+    "name": "a-22",
+    "id": "22-",
+    "a-1": "يتغير التدفق المغناطيسي الذي يجتازها",
+    "a-2": "يتغير الزمن",
+    "a-3": "يتغير ثابت المقياس الغلفاني",
+    "a-4": "يتغير درجة الحرارة",
+    "ra": "1"
+  },
+  {
+    "title": "وشيعة طولها <span dir='ltr' style='display: inline-block'>(<i>l</i> = 25 <i>cm</i>)</span> تحوي <span dir='ltr' style='display: inline-block'>(<i>N</i> = 200 لفة)</span> نمرر فيها تيار كهربائي شدته <span dir='ltr' style='display: inline-block'>(<i>I</i> = 10 <i>A</i>)</span> شدة الحقل المغناطيسي المتولد في مركز الوشيعة:",
+    "name": "a-23",
+    "id": "23-",
+    "a-1": "<span dir='ltr'> 10<sup>-4</sup> <i>T</i></span>",
+    "a-2": "<span dir='ltr'> 10<sup>-2</sup> <i>T</i></span>",
+    "a-3": "<span dir='ltr'> 4 &times 10<sup>-4</sup> <i>T</i></span>",
+    "a-4": "<span dir='ltr'> 4 &times 10<sup>-2</sup> <i>T</i></span>",
+    "ra": "2"
+  }
+]
