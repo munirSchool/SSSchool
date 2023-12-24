@@ -61,7 +61,7 @@ function getQuestions() {
       };
     }
   };
-  request.open("GET", "./test-2.json");
+  request.open("GET", "./test-3.json");
   request.send();
 }
 getQuestions();
@@ -74,16 +74,15 @@ function createQ(obj, count) {
     questionsArea.appendChild(question);
     // q title
     let title = document.createElement("div");
-    let titleT = document.createTextNode(obj[i].title);
+    title.innerHTML = obj[i].title;
     title.className = "title";
-    title.appendChild(titleT);
     question.appendChild(title);
     // answers box
     let answersBox = document.createElement("div");
     answersBox.className = "answers";
     question.appendChild(answersBox);
     // input & label
-    for (let j = 1; j < 6; j++) {
+    for (let j = 1; j < 5; j++) {
       let mainDiv = document.createElement("div");
       let input = document.createElement("input");
       input.type = "radio";
@@ -93,8 +92,7 @@ function createQ(obj, count) {
       input.name = obj[i].name;
       input.value = j;
       let label = document.createElement("label");
-      let labelT = document.createTextNode(obj[i][`a-${j}`]);
-      label.appendChild(labelT);
+      label.innerHTML = obj[i][`a-${j}`];
       label.htmlFor = `${obj[i].id}a-${j}`;
       mainDiv.appendChild(label);
       mainDiv.appendChild(input);
