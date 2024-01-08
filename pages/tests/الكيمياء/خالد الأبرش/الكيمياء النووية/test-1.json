@@ -41,7 +41,7 @@
     "a-3": "<span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>88</sub><sup style='font-size: 10px'>222</sup><i>Ra</i></span>",
     "a-4": "<span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>90</sub><sup style='font-size: 10px'>232</sup><i>Th</i></span>",
     "a-5": "<span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>89</sub><sup style='font-size: 10px'>228</sup><i>Ac</i></span>",
-    "ra": "4"
+    "ra": "2"
   },
   {
     "title": "شحنتها سالبة :",
@@ -66,7 +66,7 @@
     "ra": "4"
   },
   {
-    "title": "بيتا و أشعة غاما <span dir='ltr' style='padding: 0 5px'><sub style='margin-right: -17px; font-size: 10px;'>89</sub><sup style='font-size: 10px'>228</sup><i>Ac</i></span> : ",
+    "title": "عدد النترونات في النواة  <span dir='ltr' style='padding: 0 5px'><sub style='margin-right: -17px; font-size: 10px;'>89</sub><sup style='font-size: 10px'>228</sup><i>Ac</i></span> : ",
     "name": "a-7",
     "id": "7-",
     "a-1": "228",
@@ -105,9 +105,9 @@
     "a-1": "<span dir='ltr' style='display: inline-block;'><span dir='ltr'><span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>79</sub><sup style='font-size: 10px'>197</sup><i>Au</i></span> + <sub style='margin-right: -10px; font-size: 10px'>0</sub><sup style='font-size: 10px'>1</sup><i>n</i></span> &rarr; <span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>78</sub><sup style='font-size: 10px'>197</sup><i>Au</i></span> + Energy</span>",
     "a-2": "<span dir='ltr' style='display: inline-block;'><span dir='ltr'><span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>79</sub><sup style='font-size: 10px'>197</sup><i>Au</i></span> + <sub style='margin-right: -10px; font-size: 10px'>0</sub><sup style='font-size: 10px'>1</sup><i>n</i></span> &rarr; <span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>77</sub><sup style='font-size: 10px'>197</sup><i>Au</i></span> + Energy</span>",
     "a-3": "<span dir='ltr' style='display: inline-block;'><span dir='ltr'><span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>79</sub><sup style='font-size: 10px'>197</sup><i>Au</i></span> + <sub style='margin-right: -10px; font-size: 10px'>0</sub><sup style='font-size: 10px'>1</sup><i>n</i></span> &rarr; <span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>79</sub><sup style='font-size: 10px'>198</sup><i>Au</i></span> + Energy</span>",
-    "a-4": "<span dir='ltr' style='display: inline-block;'><span dir='ltr'><span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>79</sub><sup style='font-size: 10px'>197</sup><i>Au</i></span> + <sub style='margin-right: -10px; font-size: 10px'>0</sub><sup style='font-size: 10px'>1</sup><i>n</i></span> &rarr; <span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>79</sub><sup style='font-size: 10px'>198</sup><i>Au</i></span> + Energy</span>",
+    "a-4": "<span dir='ltr' style='display: inline-block;'><span dir='ltr'><span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>79</sub><sup style='font-size: 10px'>197</sup><i>Au</i></span> + <sub style='margin-right: -10px; font-size: 10px'>0</sub><sup style='font-size: 10px'>1</sup><i>n</i></span> &rarr; <span dir='ltr'><sub style='margin-right: -22px; font-size: 10px'>80</sub><sup style='font-size: 10px'>198</sup><i>Au</i></span> + Energy</span>",
     "a-5": "كل ما سبق خطأ",
-    "ra": "4"
+    "ra": "3"
   },
   {
     "title": "عند اندماج نواة هيدروجين عادي و نواة ديتيريوم ينتج :",
