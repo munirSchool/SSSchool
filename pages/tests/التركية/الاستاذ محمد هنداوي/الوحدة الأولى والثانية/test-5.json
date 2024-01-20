@@ -1,0 +1,382 @@
+[
+  {
+    "title": "Aşağıdakilerden hangisi yanlıştır ?",
+    "name": "a-1",
+    "id": "1-",
+    "a-1": "Benim arkadaşlarım ",
+    "a-2": "Onun kalemi ",
+    "a-3": "senin gözlüğünüz",
+    "a-4": "onların evleri",
+    "ra": "3"
+  },
+  {
+    "title": "...................... Bir kahvaltılık çeşididir <br> Hangisi boşluğa gelmelidir ?",
+    "name": "a-2",
+    "id": "2-",
+    "a-1": "Baklava",
+    "a-2": "tereyağı",
+    "a-3": "pasta",
+    "a-4": "mantı",
+    "ra": "2"
+  },
+  {
+    "title": "<b>Müşteri :</b> Affedersiniz ? bakar mısınız ? <br> <b>Garson : </b> Hoş geldiniz, buyurun <br> <b>Müşteri : </b> sipariş vermek istiyorum. Lutfen, ................. <br> <b>Garson : </b> Tabii ki buyurun menü <br> <b>Müşteri : </b> Teşekkür ederim <br><br> <span style='color: red; font-size: 18px'>* </span><b>Diyaloğu oku ve boşluğu uygun cümleyi seçin</b>",
+    "name": "a-3",
+    "id": "3-",
+    "a-1": "siparişiniz alabilir miyim ?",
+    "a-2": "Menü alabilir miyim?",
+    "a-3": "Hesabı alabilir miyim?",
+    "a-4": "Ödeme kredi kartıyla olacak",
+    "ra": "2"
+  },
+  {
+    "title": "Aşağıdakilerden hangisi sabahları verilen  selamdır  ?",
+    "name": "a-4",
+    "id": "4-",
+    "a-1": "Tünaydın",
+    "a-2": "İyi akşamlar",
+    "a-3": "Günaydın",
+    "a-4": "Görüşürüz",
+    "ra": "3"
+  },
+  {
+    "title": "Aşağıdaki zıt anlamlı kelimelerden hangisi <span style='border-bottom: 1px solid black; padding-bottom: 2px'>yanlış</span> eşleşmiştir",
+    "name": "a-5",
+    "id": "5-",
+    "a-1": "Yavaş-Hızlı",
+    "a-2": "Fakir-Ucuz ",
+    "a-3": "Boş-Dolu",
+    "a-4": "Dar-Geniş  ",
+    "ra": "2"
+  },
+  {
+    "title": "Annem, öğleden sonra pazardan iki kilo soğan ile bir kilo domates aldı.” <br><br> <b>Bu cümlede, aşağıdaki sorulardan hangisinin cevabı <span style='border-bottom: 1px solid black; padding-bottom: 2px'>yoktur</span>?</b>",
+    "name": "a-6",
+    "id": "6-",
+    "a-1": "Ne?",
+    "a-2": "Ne zaman?",
+    "a-3": "nasıl ?",
+    "a-4": "kim ?",
+    "ra": "3"
+  },
+  {
+    "title": "Ben bir adet ............. pizza alabilir miyim? Çünkü mantar sevmiyorum",
+    "name": "a-7",
+    "id": "7-",
+    "a-1": "tuzsuz",
+    "a-2": "pahalı",
+    "a-3": "mantarsız",
+    "a-4": "zararlı",
+    "ra": "3"
+  },
+  {
+    "title": "Ben Elif. Bügun 10 Ekim 2019. Çok sinirliyim ve şaşkınım. Neden mi? Sinirliyim çünkü ıslanmayı sevmiyorum.Şaşkınım çünkü hava durumunda hava bugün güneşliydi.Yağmur sürpriz oldu. İstanbul'da sonbaharmevsiminde hava serin ve yağmurlu.Ağaçlar yapraklarını döker ve her yer sapsarıdır. Bu mevsimde genellikle üst üste kıyafetler giyeriz. Bana bakın! Pembe yağmurluk, gri gömlek ve beyaz pantolon giydim. Çizmelerimi beğendiniz mi? Islandım ama bu kıyafetlerimi çok seviyorum <br><br> <b>8 , 9 ve 10 soruları metne göre cevaplayın</b> <br><br> <span style='font-size: 18px; color: red'>* </span> Elif neden çok  sinirli ?",
+    "name": "a-8",
+    "id": "8-",
+    "a-1": "çünkü kar sevmiyor",
+    "a-2": "çünkü ıslanmayı sevmiyor",
+    "a-3": "çünkü soğuk havayı sevmiyor",
+    "a-4": "çünkü beklemeyi sevmiyor",
+    "ra": "2"
+  },
+  {
+    "title": "Metin herhangi bir mevsimden bahsediyor?",
+    "name": "a-9",
+    "id": "9-",
+    "a-1": "ocak ve Eylül ayları",
+    "a-2": "mart ve nisan ayları",
+    "a-3": "sonbahar mevsimi",
+    "a-4": "İlkbahar mevsimi ",
+    "ra": "3"
+  },
+  {
+    "title": "Bu mevsimde metindaki hava nasıl ve ne olur?",
+    "name": "a-10",
+    "id": "10-",
+    "a-1": "Hava ılık ve çiçekler açar ",
+    "a-2": "Hava babulutlu ve ağaçlar sararır",
+    "a-3": "Hava sıcak ve yerler yemyeşil olur",
+    "a-4": "Hava serin ve yapraklar döker",
+    "ra": "4"
+  },
+  {
+    "title": "ABD, Türkiyenin ....................dir",
+    "name": "a-11",
+    "id": "11-",
+    "a-1": "doğusunda",
+    "a-2": "batısında",
+    "a-3": "ortasında",
+    "a-4": "yanında",
+    "ra": "2"
+  },
+  {
+    "title": "Aşağıdakilarden hangisi  yazlık kıyafeti <span style='border-bottom: 1px solid black; padding-bottom: 2px'>değildir</span>?",
+    "name": "a-12",
+    "id": "12-",
+    "a-1": "şort",
+    "a-2": "şapka",
+    "a-3": "bere",
+    "a-4": "güneş gözlüğü",
+    "ra": "3"
+  },
+  {
+    "title": "Hangisi sonbahar mevsimine ait değildir ?",
+    "name": "a-13",
+    "id": "13-",
+    "a-1": "Eylül",
+    "a-2": "Temmüz",
+    "a-3": "kasım",
+    "a-4": "Ekim",
+    "ra": "2"
+  },
+  {
+    "title": "Aşağıdaki kelimeler ilişkili doğru isimleri seçin ( saç stili ) kelimesi",
+    "name": "a-14",
+    "id": "14-",
+    "a-1": "dalgalı- düz - kıvırcık ",
+    "a-2": "çocuk - beyaz - kel - sarı",
+    "a-3": "genç - çocuk - yaşlı - bebek",
+    "a-4": "kıvırcık - yakışıklı - şişman ",
+    "ra": "1"
+  },
+  {
+    "title": "Dünyanın en büyük okyanus ...................... ",
+    "name": "a-15",
+    "id": "15-",
+    "a-1": "Everest",
+    "a-2": "pasifik",
+    "a-3": "Vatikan",
+    "a-4": "Grönland ",
+    "ra": "2"
+  },
+  {
+    "title": "Türkiye benim ülkemin kuzeyinde. Benim ülkem nerede ?",
+    "name": "a-16",
+    "id": "16-",
+    "a-1": "arkadında",
+    "a-2": "karşısında",
+    "a-3": "güneyinde",
+    "a-4": "önünde",
+    "ra": "3"
+  },
+  {
+    "title": "Ben teyzemin ................... çok seviyorum Çünkü edepli ve çalışkan bir çocuktur <br><br> <b>Yukarıdaki boşluğa hangisi gemelidir?</b>",
+    "name": "a-17",
+    "id": "17-",
+    "a-1": "oğulun",
+    "a-2": "oğlunu",
+    "a-3": "oğulumun",
+    "a-4": "oğlusu",
+    "ra": "2"
+  },
+  {
+    "title": "metindeki akraba kimdir ?",
+    "name": "a-18",
+    "id": "18-",
+    "a-1": "eniştem",
+    "a-2": "yeğenim",
+    "a-3": "kuzenim",
+    "a-4": "yengem",
+    "ra": "3"
+  },
+  {
+    "title": "Aşağıdaki karışık verilen kelimeleri kullanarak düzgün ve anlamlı cümle oluşturun <br><br> <b>yağdı / geçen / kar / yıl / kışın / çok </b>",
+    "name": "a-19",
+    "id": "19-",
+    "a-1": "kışın kar yağdı geçen çok yıl",
+    "a-2": "yıl geçen kar kışın çok yağdı",
+    "a-3": "geçen yıl kışın çok kar yağdı",
+    "a-4": "kar yağdı geçen yıl kışın çok",
+    "ra": "3"
+  },
+  {
+    "title": "şehirde / bir / yeni / gidelim / ? / restoran / var / mi ",
+    "name": "a-20",
+    "id": "20-",
+    "a-1": "şehirde yeni bir restoran var. Gidelim mi ?",
+    "a-2": "Restoran var yeni bir şehirde gidelim mi?",
+    "a-3": "Bir restoran var yeni mi? şehirde gidelim.",
+    "a-4": "Yeni şehirde restoran bir var mi? Gidelim",
+    "ra": "1"
+  },
+  {
+    "title": "Pikniğe gidelim mi ? .................................................... <br> <b>Uygun cevabı seçin  ve tamamlayın</b>",
+    "name": "a-21",
+    "id": "21-",
+    "a-1": "Evet, gidelim. Karnım çok aç",
+    "a-2": "tabii ki, haydi mutfağa gidelim",
+    "a-3": "hayır, gitmeyelim. Çünkü hava soğuk",
+    "a-4": "şuradaki restorana gidelim mi ?",
+    "ra": "3"
+  },
+  {
+    "title": "Ben, arkadaşlarımla 2005 .............mektuplaşıyorum",
+    "name": "a-22",
+    "id": "22-",
+    "a-1": "yılından beri",
+    "a-2": "yıldır",
+    "a-3": "yılında",
+    "a-4": "yılından sonra",
+    "ra": "1"
+  },
+  {
+    "title": "Merhaba benim adım Arif Gezgin.Fotografçıyım. beş yılda yirmi ülke, kırk beş şehir gezdim.Dünyanın en soğuk şehrini hiç merak ettiniz mi?Cevabınız evet mi? O zaman kışlık kıyafetlerinizi yanınıza alın. Yakutsk şehrine gidiyoruz. Bu şehirde kış mevsimi Eylül ayında başlar ve Nisan ayına kadar devam eder. Kışın hava çok soğuktur ve sıcaklık -60 derecedir. Dışarıda 15 dakikadan fazla kalamazsınız. Çünkü hava çok soğuktur, donarsınız. Bu mevsimde güneş sadece üç saat gökyüzünde kalır. Ben iki sene önce aralık ayında Yakutsk'a gittim ve bu fotoğrafları çektim. Bu şehirde tarım ürünleri yetişmez çünkü toprak tamamen buzla kaplıdır. Ben de bu şehirde sadece et yedim. Burada buzdan müzeleri ve heykelleri mutlaka görün. Çok beğeneceksiniz. <br><br> <span style='color: red; font-size: 20px;'>*</span> Yukarıdaki metne göre soruları cevaplayın 23,24, ve25 <br><br> <b>Metin hangi mevsimden bahseder ve O mevsim ne zaman biter ? </b>",
+    "name": "a-23",
+    "id": "23-",
+    "a-1": "Haziran – Eylül ",
+    "a-2": "Eylül – Nisan ",
+    "a-3": "Sonbahar – Eylül",
+    "a-4": "Kış – Nisan",
+    "ra": "4"
+  },
+  {
+    "title": "Arif ne zanam yakutsk’a gitti ?",
+    "name": "a-24",
+    "id": "24-",
+    "a-1": "15 aydır ",
+    "a-2": "5 mevsin sonra",
+    "a-3": "2 yıl önce",
+    "a-4": "20 senedir",
+    "ra": "3"
+  },
+  {
+    "title": "Bu şehirde müzeleri hangi şeyden yaparlar?",
+    "name": "a-25",
+    "id": "25-",
+    "a-1": "kumden",
+    "a-2": "tuzden",
+    "a-3": "buzden",
+    "a-4": "candan",
+    "ra": "3"
+  },
+  {
+    "title": "Yazın E-lbab’da hava genellikle ..................... <br> <b>Boşluğa hangi kelime gelmeli ?</b>",
+    "name": "a-26",
+    "id": "26-",
+    "a-1": "güneşli ",
+    "a-2": "güneş",
+    "a-3": "kar",
+    "a-4": "rüzgar",
+    "ra": "1"
+  },
+  {
+    "title": "Lokantada yemek yedikten sonra ne söylüyor ?",
+    "name": "a-27",
+    "id": "27-",
+    "a-1": "Afiyet olsun! ",
+    "a-2": "Geçmiş olsun! ",
+    "a-3": "Görüşürüz",
+    "a-4": "iyi geceler",
+    "ra": "1"
+  },
+  {
+    "title": "Hasta insanlara ne söylenir ?",
+    "name": "a-28",
+    "id": "28-",
+    "a-1": "Geçmiş olsun",
+    "a-2": "Bol Şanslar",
+    "a-3": "Güle güle",
+    "a-4": "Günaydın",
+    "ra": "1"
+  },
+  {
+    "title": "Et ürünleri doğru işaretleyin",
+    "name": "a-29",
+    "id": "29-",
+    "a-1": "kiraz",
+    "a-2": "tavuk ",
+    "a-3": "kavun",
+    "a-4": "karpuz",
+    "ra": "2"
+  },
+  {
+    "title": "Biz üç porsiyon ...................makarna alalım",
+    "name": "a-30",
+    "id": "30-",
+    "a-1": "Peynirli",
+    "a-2": "tatlı ",
+    "a-3": "sütlü",
+    "a-4": "şekerli",
+    "ra": "1"
+  },
+  {
+    "title": "Farklı olanı seçin ?",
+    "name": "a-31",
+    "id": "31-",
+    "a-1": "kiraz ",
+    "a-2": "Havuç",
+    "a-3": "Elma",
+    "a-4": "Muz",
+    "ra": "2"
+  },
+  {
+    "title": "Hangi ifade yanlıştır ?",
+    "name": "a-32",
+    "id": "32-",
+    "a-1": "ikiye yirmi var",
+    "a-2": "ikiye yirmi geçiyor",
+    "a-3": "ikiye çeyrek kala",
+    "a-4": "iki buçuk",
+    "ra": "2"
+  },
+  {
+    "title": "Aşağıdakilerden hangisi <span style='padding-bottom: 2px; border-bottom: 1px solid black;'>yanlıştır</span>",
+    "name": "a-33",
+    "id": "33-",
+    "a-1": "( 101 ) yüz on bir",
+    "a-2": "( 89 ) seksen dokuz",
+    "a-3": "( 0305 ) üç yüz  beş",
+    "a-4": "( 870 ) sekiz yüz yetmiş",
+    "ra": "1"
+  },
+  {
+    "title": "Öğretmen ....................... soru sordu",
+    "name": "a-34",
+    "id": "34-",
+    "a-1": "öğrenciye",
+    "a-2": "öğrenciyi",
+    "a-3": "öğrenci",
+    "a-4": "öğrenciniz",
+    "ra": "1"
+  },
+  {
+    "title": "<b>\"Arkadaşım, dersi hızlıca okuyor \"</b> <br> Bu cümlede hangi sorunun cevabı vardır ?",
+    "name": "a-35",
+    "id": "35-",
+    "a-1": "neden?",
+    "a-2": "nerede?",
+    "a-3": "kim?",
+    "a-4": "niçin?",
+    "ra": "3"
+  },
+  {
+    "title": "<b>Cümleye uygun düşen ifadeyi işaretleyiniz</b> <br> Ben 6 ay sonra liseden ...............................",
+    "name": "a-36",
+    "id": "36-",
+    "a-1": "mezun oldu",
+    "a-2": "mezun olacak",
+    "a-3": "mezun olacağım",
+    "a-4": "mezun olursun",
+    "ra": "3"
+  },
+  {
+    "title": "<b>Cümleyi tamamlayın</b> <br> Ben her gün benimle şemsiye alırım. Çünkü hava ........................................",
+    "name": "a-37",
+    "id": "37-",
+    "a-1": "sebzeyi severim",
+    "a-2": "hava yağmurlu olur",
+    "a-3": "futboldan nefretederim",
+    "a-4": "Ödevleri sevmem",
+    "ra": "2"
+  },
+  {
+    "title": "Babamızın kız kardeşi neyiniz olur ?",
+    "name": "a-38",
+    "id": "38-",
+    "a-1": "kardeş",
+    "a-2": "teyze",
+    "a-3": "amca",
+    "a-4": "hala",
+    "ra": "4"
+  }
+]
